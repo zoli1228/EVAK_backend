@@ -37,6 +37,8 @@ body {
     width: 80%;
     min-width: 200px;
     max-width: 700px;
+    pointer-events: none;
+    user-select: none;
     
 
 }
