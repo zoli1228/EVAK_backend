@@ -8,12 +8,7 @@ const fs = require("fs")
 const mongoose = require("mongoose")
 const ts = require("./script/timestamp.js");
 const logger = require("./script/logger.js")
-
-
-
-
-
-
+const clientAddress = require("./script/getclientaddress.js")
 
 var sslOptions = {
   key: fs.readFileSync('./cert/private.key'),
@@ -41,51 +36,31 @@ app.use(express.static(__dirname + "/test_page/"));
 
 
 
-app.get("/", (req, res) => {
+
+/* app.get("/", (req, res) => {
+
   logger.myLogger(req, "Home page accessed", res.statusCode)
   res.sendFile(__dirname + "/test_page/mainpage.html");
 });
-
-app.get("/panty", (req, res) => {
-  logger.myLogger(req, "Panty page accessed", res.statusCode)
-  res.send("You naughty naughty");
-});
-
+ */
 
 // Invalid route 404 page //
 app.get("*", (req, res) => {
-  res.status(404)
-  logger.myLogger(req, "Tried to access invalid route - 404 page sent", res.statusCode)
-  res.sendFile(__dirname + "/test_page/404.html");
+  if(clientAddress.getClientAddress(req) == "149.200.98.57") {
+    
+    logger.myLogger(req, "Admin access", res.statusCode)
+    res.status(200)
+    res.sendFile(__dirname + "/test_page/mainpage.html");
+
+  } else {
+    logger.myLogger(req, "Foreign access - Displaying Under Construction", res.statusCode)
+    res.status(200)
+    res.sendFile(__dirname + "/test_page/underconstruction.html")
+  }
 });
 
-/* let myLogger = (req, message, status) => {
-  if(req == 0 && !status) {
-    log(`----${ts.timestamp()}---${message}----`)
-    return;
-  } 
-
 
   
-  
-  let address = clientAddress.getClientAddress(req)
-  
-  let logLines = [
-    `--------------[ ${logId} ]------------------`,
-    "Timestamp:  " + ts.timestamp(),
-    "Address:    " + address,
-    "Event:      " + message,
-    "Status:     " + status,
-    "\r\n "
-  ]
-
-  for(let i = 0; i < logLines.length; i++)
-  {
-    log(logLines[i])
-  }
-
-  logId++
-} */
 
 
 
