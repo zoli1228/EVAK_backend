@@ -1,0 +1,8 @@
+2021. 03. 28. 18:55:38 
+Under Construction oldal hozzáadva. Csak hazai ip cím kerüli ki.
+Logging egyenlőre nagyon jó. 
+Total log count számláló kissé cigány, de működik.
+
+Odafigyelni a clean code-ra, illetve fájlok struktúrálására!!! Nagy fejvakarás lehet belőle.
+
+Következő lépés: Elkezdeni felépíteni a főoldalt, beléptető rendszert. (Külső API)
