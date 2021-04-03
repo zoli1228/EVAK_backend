@@ -5,14 +5,16 @@ const clientAddress = require("./getclientaddress.js")
 const adminIp = "149.200.109.0"
 const path = require('path')
 
+
+
+
 router.use(express.static(path.resolve("../EVAK-0.0.1/public/")));
-
-
 router.use(function (req, res, next) {
     if (req.secure) { next() }
     else {
         logger.myLogger(req, "Insecure HTTP accessed - Redirecting", res.statusCode)
         res.send(alert("Redirected to secure site."))
+
         res.redirect(`https://${req.headers.host}${req.url}`);
         
     }
