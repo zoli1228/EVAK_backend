@@ -2,35 +2,41 @@ const express = require("express");
 const router = express.Router()
 const logger = require("./logger.js")
 const clientAddress = require("./getclientaddress.js")
-const adminIp = "149.200.98.57"
+const adminIp = "149.200.109.0"
 const path = require('path')
 
-router.use(express.static(path.resolve("test_page/")));
+router.use(express.static(path.resolve("../EVAK-0.0.1/public/")));
+
+
 router.use(function (req, res, next) {
-    if (req.secure) next();
+    if (req.secure) { next() }
     else {
         logger.myLogger(req, "Insecure HTTP accessed - Redirecting", res.statusCode)
-        res.status(200)
+        res.send(alert("Redirected to secure site."))
         res.redirect(`https://${req.headers.host}${req.url}`);
+        
     }
 });
 
+
+
 router.get("/getlogfile", (req, res) => {
     if (clientAddress.getClientAddress(req) == adminIp) {
-        res.status(200)
+
         logger.myLogger(req, "Log File sent to user.", res.statusCode)
-        res.sendFile(path.resolve("log/server_log_2021-Mar.txt"))
+        res.status(200).sendFile(path.resolve("log/server_log_2021-Mar.txt"))
     }
     else {
+
         res.redirect(`https://${req.headers.host}/underconstruction`)
     }
 })
 
-router.get("/main", (req, res) => {
+router.get("/", (req, res) => {
     if (clientAddress.getClientAddress(req) == adminIp) {
-        res.status(200)
+
         logger.myLogger(req, "Main accessed by admin.", res.statusCode)
-        res.sendFile(path.resolve("test_page/mainpage.html"))
+        res.status(200).sendFile(path.resolve("../EVAK-0.0.1/home.html"))
     }
     else {
         res.redirect(`https://${req.headers.host}/underconstruction`)
@@ -38,13 +44,19 @@ router.get("/main", (req, res) => {
 })
 
 router.get("/underconstruction", (req, res) => {
-    res.status(200)
+
     logger.myLogger(req, "Under construction page served.")
-    res.sendFile(path.resolve("test_page/underconstruction.html"))
+
+    res.status(200).sendFile(path.resolve("../EVAK-0.0.1/public/underconstruction.html"))
+
 })
 
-router.get("*", (req, res) => {
-    res.redirect(`https://${req.headers.host}/main`);
-}
-);
+
+router.use(function (req, res) {
+    res.status(404).sendFile(path.resolve("../EVAK-0.0.1/public/404.html"));
+});
+// Handle 500
+router.use(function (error, req, res, next) {
+    res.status(500).send('500: Internal Server Error');
+});
 module.exports = router;
