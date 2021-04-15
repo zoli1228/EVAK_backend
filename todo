@@ -6,3 +6,33 @@ Total log count számláló kissé cigány, de működik.
 Odafigyelni a clean code-ra, illetve fájlok struktúrálására!!! Nagy fejvakarás lehet belőle.
 
 Következő lépés: Elkezdeni felépíteni a főoldalt, beléptető rendszert. (Külső API)
+
+
+2021. 04. 03. 23:05:19 
+Auth0 rendszer beépítése folyamatban, még dolgozni kell rajta, hibásak a route-ok.
+Auth0 használata elfelejtve, saját authentikációt kell fejleszteni.
+
+2021. 04. 04. 21:13:29 
+Regisztráció, email-ek, bejelentkezés, kijelentkezés működik, de még valószínűleg törődést fog igényelni. Jelenleg az ingyenes változatból
+szerintem kihoztam a maximumot.
+Auth0 használata elfelejtve, saját authentikációt kell fejleszteni.
+
+Jelenleg folyamatban: 
+- Fogadó oldal tervezése:
+    infó az oldalról menük alá rejtve
+    szlogen
+    belépés gomb
+    videó háttér (?)
+    jogi marhaságok (utána kell nézni)
+
+
+2021. 04. 13. 1:26:12 
+- Email verifikációnál kijavítani ha egy már felhasznált id-t újra beküldenek. (adatbázis keresés pörög) #Javítva
+- Elfelejtett jelszó
+
+2021. 04. 16. 1:01:02
+- Verifikációs visszaigazoló oldalt kell csinálni
+- Elfelejtett jelszó
+- input validáció (!!!) kliens és szerver oldalon egyaránt
+
+Utána lehet dolgozni a rendszeren.

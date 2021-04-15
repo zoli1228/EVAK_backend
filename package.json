@@ -4,7 +4,8 @@
   "description": "Backend server for EVAK",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js",
+    "production": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -18,13 +19,21 @@
   },
   "homepage": "https://github.com/zoli1228/EVAK_backend#readme",
   "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
+    "connect-mongodb-session": "^2.4.1",
+    "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
     "express-openid-connect": "^2.3.0",
+    "express-session": "^1.17.1",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "https": "^1.0.0",
+    "js-sha256": "^0.9.0",
     "mongoose": "^5.12.2",
-    "nodemon": "^2.0.7"
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.2"
   }
 }
