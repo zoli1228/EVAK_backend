@@ -1,0 +1,1969 @@
+Log ID: 1237
+Message: HTTP Server started on port 443
+
+Time: 2021.Jul.27 - 13:18:59
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.27 - 13:18:59
+Log ID: 1238
+
+Log ID: 1239
+Message: HTTP Server started on port 443
+Time: 2021.Jul.27 - 13:19:46
+
+Log ID: 1240
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.27 - 13:19:46
+
+Log ID: 1241
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: kaszas2000
+Time: 2021.Jul.27 - 13:20:09
+
+Log ID: 1242
+Message: Jelszó frissítve!
+Time: 2021.Jul.27 - 13:20:09
+
+Log ID: 1243
+Message: pwrecovery Email sent to sz.zoltan091@gmail.com
+Time: 2021.Jul.27 - 13:20:20
+
+Log ID: 1244
+
+Message: PW Reset Middleware: Ideiglenes jelszó érvényes, tovább...
+Time: 2021.Jul.27 - 13:20:44
+Log ID: 1245
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.27 - 13:20:44
+
++ Request Log ID: [ 1246 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.27 - 13:20:46
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Method:     GET
+  -Address:    81.182.138.150
+  -Status:     200
+  -Event:      User authentication check passed
+  -Req URL:    https://www.evak.hu/protected
+
+
+  -Server uptime: 61s
++ Request Log ID: [ 1247 ]
+
+  -2021.Jul.27 - 13:20:46
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 61s
+
+
++ Request Log ID: [ 1248 ]
+
+  -2021.Jul.27 - 13:20:52
+  -Username:   kaszas2000
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 67s
+
+
+Log ID: 1249
+Message: Felhasználó adatai felülírva.
+Time: 2021.Jul.27 - 13:20:52
+
++ Request Log ID: [ 1250 ]
+
+  -2021.Jul.27 - 13:20:52
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      kaszas2000 megváltoztatta az ideiglenes jelszavát.
+  -Status:     200
+  -Method:     POST
+  -Req URL:    https://www.evak.hu/newpassword
+
+
+  -Server uptime: 67s
++ Request Log ID: [ 1251 ]
+
+  -2021.Jul.27 - 13:20:55
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 70s
+
+
+Log ID: 1252
+Message: HTTP Server started on port 443
+Time: 2021.Jul.27 - 13:38:19
+
+Log ID: 1253
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.27 - 13:38:19
+
+Log ID: 1254
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 9:17:59
+
+Log ID: 1255
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 9:17:59
+
+Log ID: 1256
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: kaszas2000
+Time: 2021.Jul.30 - 9:18:22
+
+Log ID: 1257
+Message: Jelszó frissítve!
+Time: 2021.Jul.30 - 9:18:22
+
+Log ID: 1258
+Message: pwrecovery Email sent to sz.zoltan091@gmail.com
+Time: 2021.Jul.30 - 9:18:25
+
+Log ID: 1259
+Message: Message info: [object Object]
+Time: 2021.Jul.30 - 9:18:25
+
+Log ID: 1260
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 9:18:48
+
+Log ID: 1261
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 9:18:48
+
+Log ID: 1262
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: kaszas2000
+Time: 2021.Jul.30 - 9:19:11
+
+Log ID: 1263
+Message: Jelszó frissítve!
+Time: 2021.Jul.30 - 9:19:11
+
+Log ID: 1264
+Message: pwrecovery Email sent to sz.zoltan091@gmail.com
+Time: 2021.Jul.30 - 9:19:16
+
+Log ID: 1265
+Message: Message info: {"accepted":["sz.zoltan091@gmail.com"],"rejected":[],"envelopeTime":533,"messageTime":2198,"messageSize":2988,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["sz.zoltan091@gmail.com"]},"messageId":"<410f5793-6a10-473f-3dc8-0f26feae163a@evak.hu>"}
+Time: 2021.Jul.30 - 9:19:16
+
+Log ID: 1266
+Message: PW Reset Middleware: Ideiglenes jelszó érvényes, tovább...
+
+Time: 2021.Jul.30 - 9:20:29
+Log ID: 1267
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 9:20:29
+
++ Request Log ID: [ 1268 ]
+
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -2021.Jul.30 - 9:20:37
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Method:     GET
+  -Req URL:    https://www.evak.hu/main
+  -Status:     200
+  -Server uptime: 109s
+
+
++ Request Log ID: [ 1269 ]
+
+  -2021.Jul.30 - 9:20:37
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 109s
+
+
++ Request Log ID: [ 1270 ]
+
+  -2021.Jul.30 - 9:20:45
+  -Username:   kaszas2000
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 117s
+
+
+Log ID: 1271
+Message: Felhasználó adatai felülírva.
+
+Time: 2021.Jul.30 - 9:20:45
++ Request Log ID: [ 1272 ]
+
+  -2021.Jul.30 - 9:20:45
+  -Method:     POST
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      kaszas2000 megváltoztatta az ideiglenes jelszavát.
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 117s
+  -Status:     200
+
+
+Log ID: 1273
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:25:41
+
+Log ID: 1274
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:25:41
+
+Log ID: 1275
+Message: kaszas2000 kijelentkezett.
+Time: 2021.Jul.30 - 11:25:49
+
+Log ID: 1276
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 11:25:55
+
+Log ID: 1277
+
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:28:29
+Log ID: 1278
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:28:29
+
+Log ID: 1279
+Message: kaszas2000 kijelentkezett.
+
+Time: 2021.Jul.30 - 11:28:44
+Log ID: 1280
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:29:43
+
+Log ID: 1281
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:29:43
+
+Log ID: 1282
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:40:18
+
+Log ID: 1283
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:40:18
+
+Log ID: 1284
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:42:06
+
+Log ID: 1285
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:42:06
+
+Log ID: 1286
+
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 11:42:22
+Log ID: 1287
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 11:46:51
+
+Log ID: 1288
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 11:46:51
+
+Log ID: 1289
+Message: kaszas2000 kijelentkezett.
+Time: 2021.Jul.30 - 11:46:59
+
+Log ID: 1290
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 11:47:04
+
++ Request Log ID: [ 1291 ]
+
+  -2021.Jul.30 - 11:47:06
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 17s
+
+
++ Request Log ID: [ 1292 ]
+
+  -2021.Jul.30 - 11:49:47
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 177s
+
+
++ Request Log ID: [ 1293 ]
+
+  -2021.Jul.30 - 11:51:09
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 260s
+
+
++ Request Log ID: [ 1294 ]
+
+  -2021.Jul.30 - 11:51:56
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 306s
+
+
++ Request Log ID: [ 1295 ]
+
+  -2021.Jul.30 - 11:52:42
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 352s
+
+
++ Request Log ID: [ 1296 ]
+
+  -2021.Jul.30 - 11:54:54
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 485s
+
+
++ Request Log ID: [ 1297 ]
+
+  -2021.Jul.30 - 11:55:44
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 534s
+
+
++ Request Log ID: [ 1298 ]
+
+  -2021.Jul.30 - 11:56:12
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 562s
+
+
++ Request Log ID: [ 1299 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 11:57:08
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Method:     GET
+  -Event:      User authentication check passed
+  -Address:    81.182.138.150
+  -Req URL:    https://www.evak.hu/main
+  -Status:     200
+  -Server uptime: 618s
+
+
++ Request Log ID: [ 1300 ]
+
+  -2021.Jul.30 - 11:57:34
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 644s
+
+
++ Request Log ID: [ 1301 ]
+
+  -Username:   kaszas2000
+  -Method:     GET
+  -2021.Jul.30 - 11:57:53
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 664s
+
+
++ Request Log ID: [ 1302 ]
+
+  -2021.Jul.30 - 11:58:00
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 670s
+
+
++ Request Log ID: [ 1303 ]
+
+  -2021.Jul.30 - 12:00:16
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 806s
+
+
++ Request Log ID: [ 1304 ]
+
+  -2021.Jul.30 - 12:00:31
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 821s
+
+
++ Request Log ID: [ 1305 ]
+
+  -2021.Jul.30 - 12:00:47
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 838s
+
+
++ Request Log ID: [ 1306 ]
+
+  -2021.Jul.30 - 12:01:10
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 860s
+
+
++ Request Log ID: [ 1307 ]
+
+  -2021.Jul.30 - 12:01:52
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 902s
+
+
++ Request Log ID: [ 1308 ]
+  -2021.Jul.30 - 12:02:19
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+
+  -Username:   kaszas2000
+  -Address:    81.182.138.150
+  -Status:     200
+  -Event:      User authentication check passed
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 929s
+
+
++ Request Log ID: [ 1309 ]
+
+  -2021.Jul.30 - 12:03:02
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 973s
+
+
++ Request Log ID: [ 1310 ]
+
+  -2021.Jul.30 - 12:03:26
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 996s
+
+
++ Request Log ID: [ 1311 ]
+
+  -2021.Jul.30 - 12:03:51
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1022s
+
+
++ Request Log ID: [ 1312 ]
+
+  -2021.Jul.30 - 12:04:46
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Event:      User authentication check passed
+  -Address:    81.182.138.150
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1076s
+
+
++ Request Log ID: [ 1313 ]
+  -2021.Jul.30 - 12:05:20
+
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1110s
+
+
++ Request Log ID: [ 1314 ]
+
+  -2021.Jul.30 - 12:05:30
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1120s
+
+
++ Request Log ID: [ 1315 ]
+
+  -2021.Jul.30 - 12:05:44
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1135s
+
+
++ Request Log ID: [ 1316 ]
+
+  -2021.Jul.30 - 12:05:54
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1145s
+
+
++ Request Log ID: [ 1317 ]
+
+  -2021.Jul.30 - 12:06:13
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1164s
+
+
++ Request Log ID: [ 1318 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 12:06:50
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Method:     GET
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1201s
+
+
++ Request Log ID: [ 1319 ]
+
+  -2021.Jul.30 - 12:08:26
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1296s
+
+
++ Request Log ID: [ 1320 ]
+  -2021.Jul.30 - 12:10:36
+
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1427s
+
+
++ Request Log ID: [ 1321 ]
+
+  -2021.Jul.30 - 12:12:56
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1567s
+
+
++ Request Log ID: [ 1322 ]
+
+  -2021.Jul.30 - 12:13:44
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1614s
+
+
++ Request Log ID: [ 1323 ]
+
+  -2021.Jul.30 - 12:14:11
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1641s
+
+
++ Request Log ID: [ 1324 ]
+
+  -2021.Jul.30 - 12:14:50
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1680s
+
+
++ Request Log ID: [ 1325 ]
+
+  -2021.Jul.30 - 12:15:31
+  -Method:     GET
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Event:      User authentication check passed
+  -Status:     200
+  -Address:    81.182.138.150
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1722s
+
+
++ Request Log ID: [ 1326 ]
+
+  -2021.Jul.30 - 12:16:01
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1751s
+
+
++ Request Log ID: [ 1327 ]
+
+  -2021.Jul.30 - 12:16:58
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1808s
+
+
++ Request Log ID: [ 1328 ]
+
+  -2021.Jul.30 - 12:17:19
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1830s
+
+
++ Request Log ID: [ 1329 ]
+
+  -2021.Jul.30 - 12:17:35
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1845s
+
+
++ Request Log ID: [ 1330 ]
+
+  -2021.Jul.30 - 12:18:20
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1890s
+
+
++ Request Log ID: [ 1331 ]
+
+  -2021.Jul.30 - 12:18:40
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1910s
+
+
++ Request Log ID: [ 1332 ]
+
+  -2021.Jul.30 - 12:19:05
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1936s
+
+
++ Request Log ID: [ 1333 ]
+
+  -2021.Jul.30 - 12:19:42
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1972s
+
+
++ Request Log ID: [ 1334 ]
+
+  -2021.Jul.30 - 12:20:12
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2002s
+
+
++ Request Log ID: [ 1335 ]
+
+  -2021.Jul.30 - 12:36:46
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2997s
+
+
++ Request Log ID: [ 1336 ]
+
+  -2021.Jul.30 - 12:37:42
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3053s
+
+
++ Request Log ID: [ 1337 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 12:39:04
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3134s
+
+
++ Request Log ID: [ 1338 ]
+
+  -2021.Jul.30 - 12:42:40
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3350s
+
+
++ Request Log ID: [ 1339 ]
+
+  -2021.Jul.30 - 12:43:06
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3377s
+
+
++ Request Log ID: [ 1340 ]
+
+  -2021.Jul.30 - 12:49:09
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3740s
+
+
+Log ID: 1341
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 12:51:18
+
+Log ID: 1342
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 12:51:18
+
++ Request Log ID: [ 1343 ]
+
+  -2021.Jul.30 - 12:51:20
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 1344 ]
+
+  -2021.Jul.30 - 12:53:46
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 150s
+
+
++ Request Log ID: [ 1345 ]
+
+  -2021.Jul.30 - 12:54:46
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 210s
+
+
+Log ID: 1346
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 12:56:02
+
+Log ID: 1347
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 12:56:02
+
++ Request Log ID: [ 1348 ]
+
+  -2021.Jul.30 - 12:56:03
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 1349 ]
+
+  -2021.Jul.30 - 12:58:23
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 143s
+
+
++ Request Log ID: [ 1350 ]
+
+  -2021.Jul.30 - 12:58:51
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 171s
+
+
++ Request Log ID: [ 1351 ]
+
+  -2021.Jul.30 - 12:59:30
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 210s
+
+
++ Request Log ID: [ 1352 ]
+
+  -2021.Jul.30 - 12:59:43
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 223s
+
+
++ Request Log ID: [ 1353 ]
+
+  -2021.Jul.30 - 13:00:21
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 260s
+
+
++ Request Log ID: [ 1354 ]
+
+  -2021.Jul.30 - 13:00:49
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 289s
+
+
++ Request Log ID: [ 1355 ]
+
+  -2021.Jul.30 - 13:01:04
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 304s
+
+
++ Request Log ID: [ 1356 ]
+
+  -2021.Jul.30 - 13:02:15
+  -Username:   kaszas2000
+  -Method:     GET
+  -Address:    81.182.138.150
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 375s
+
+
++ Request Log ID: [ 1357 ]
+
+  -2021.Jul.30 - 13:02:24
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 383s
+
+
++ Request Log ID: [ 1358 ]
+
+  -2021.Jul.30 - 13:02:36
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 396s
+
+
++ Request Log ID: [ 1359 ]
+
+  -2021.Jul.30 - 13:02:53
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 412s
+
+
++ Request Log ID: [ 1360 ]
+
+  -2021.Jul.30 - 13:03:28
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 447s
+
+
+Log ID: 1361
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:04:21
+
+Log ID: 1362
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:04:21
+
++ Request Log ID: [ 1363 ]
+
+  -2021.Jul.30 - 13:04:23
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Req URL:    https://www.evak.hu/main
+  -Status:     200
+  -Server uptime: 3s
+
+
+Log ID: 1364
+Time: 2021.Jul.30 - 13:04:47
+Message: HTTP Server started on port 443
+
+Log ID: 1365
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:04:47
+
++ Request Log ID: [ 1366 ]
+
+  -2021.Jul.30 - 13:04:50
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 1367 ]
+
+  -2021.Jul.30 - 13:06:12
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 86s
+
+
++ Request Log ID: [ 1368 ]
+
+  -2021.Jul.30 - 13:06:32
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 105s
+
+
++ Request Log ID: [ 1369 ]
+
+  -2021.Jul.30 - 13:07:29
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 163s
+
+
++ Request Log ID: [ 1370 ]
+
+  -2021.Jul.30 - 13:22:21
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1054s
+
+
+Log ID: 1371
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:45:27
+
+Log ID: 1372
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:45:27
+
+Log ID: 1373
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:49:46
+
+Log ID: 1374
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:49:46
+
+Log ID: 1375
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:50:31
+
+Log ID: 1376
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:50:31
+
+Log ID: 1377
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:55:47
+
+Log ID: 1378
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:55:47
+
+Log ID: 1379
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:58:59
+
+Log ID: 1380
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:58:59
+
+Log ID: 1381
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 13:59:27
+
+Log ID: 1382
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 13:59:27
+
+Log ID: 1383
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 14:00:06
+
+Log ID: 1384
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 14:00:06
+
+Log ID: 1385
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 14:03:54
+
+Log ID: 1386
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 14:03:54
+
+Log ID: 1387
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 14:13:44
+
+Log ID: 1388
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 14:13:44
+
+Log ID: 1389
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 14:14:57
+
+Log ID: 1390
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 14:14:57
+
+Log ID: 1391
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 14:15:19
+
+Log ID: 1392
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 14:15:19
+
+Log ID: 1393
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 19:49:08
+
+Log ID: 1394
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 19:49:08
+
+Log ID: 1395
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:04:45
+
+Log ID: 1396
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:04:45
+
+Log ID: 1397
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:13:41
+
+Log ID: 1398
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:13:41
+
+Log ID: 1399
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:13:48
+
+Log ID: 1400
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:13:48
+
+Log ID: 1401
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:14:01
+
+Log ID: 1402
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:14:01
+
+Log ID: 1403
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:18:57
+
+Log ID: 1404
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:18:57
+
+Log ID: 1405
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 20:20:13
+
+Log ID: 1406
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 20:20:13
+
+Log ID: 1407
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 21:00:43
+
+Log ID: 1408
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 21:00:43
+
+Log ID: 1409
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 21:12:32
+
+Log ID: 1410
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 21:12:32
+
+Log ID: 1411
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 21:12:46
+
+Log ID: 1412
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 21:12:46
+
+Log ID: 1413
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 21:18:16
+
+Log ID: 1414
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 21:18:16
+
+Log ID: 1415
+Message: kaszas2000 kijelentkezett.
+
+Time: 2021.Jul.30 - 23:00:43
+Log ID: 1416
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 23:06:34
+
++ Request Log ID: [ 1417 ]
+
+  -2021.Jul.30 - 23:06:36
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 6501s
+
+
+Log ID: 1418
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:08:53
+
+Log ID: 1419
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:08:53
+
+Log ID: 1420
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:10:09
+
+Log ID: 1421
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:10:09
+
+Log ID: 1422
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:11:35
+
+Log ID: 1423
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:11:35
+
++ Request Log ID: [ 1424 ]
+
+  -2021.Jul.30 - 23:11:35
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1s
+
+
++ Request Log ID: [ 1425 ]
+
+  -2021.Jul.30 - 23:11:38
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 4s
+
+
++ Request Log ID: [ 1426 ]
+
+  -2021.Jul.30 - 23:11:57
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 23s
+
+
+Log ID: 1427
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:12:34
+
+Log ID: 1428
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:12:34
+
+Log ID: 1429
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:13:54
+
+Log ID: 1430
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:13:54
+
+Log ID: 1431
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:14:22
+
+Log ID: 1432
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:14:22
+
++ Request Log ID: [ 1433 ]
+
+  -2021.Jul.30 - 23:14:24
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 1434
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:15:38
+
+Log ID: 1435
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:15:38
+
+Log ID: 1436
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:19:58
+
+Log ID: 1437
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:19:58
+
++ Request Log ID: [ 1438 ]
+
+  -2021.Jul.30 - 23:20:00
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2s
+
+
+Log ID: 1439
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:20:23
+
+Log ID: 1440
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:20:23
+
++ Request Log ID: [ 1441 ]
+
+  -2021.Jul.30 - 23:20:24
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 1442
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:21:54
+
+Log ID: 1443
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:21:54
+
++ Request Log ID: [ 1444 ]
+
+  -2021.Jul.30 - 23:22:06
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 13s
+
+
+Log ID: 1445
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:25:24
+
+Log ID: 1446
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:25:24
+
+Log ID: 1447
+Message: HTTP Server started on port 443
+Time: 2021.Jul.30 - 23:25:36
+
+Log ID: 1448
+Message: HTTPS Server started on port 80
+Time: 2021.Jul.30 - 23:25:36
+
+Log ID: 1449
+Message: kaszas2000 kijelentkezett.
+
+Time: 2021.Jul.30 - 23:26:08
+Log ID: 1450
+Message: kaszas2000 bejelentkezett.
+Time: 2021.Jul.30 - 23:26:22
+
++ Request Log ID: [ 1451 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 23:26:24
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Event:      User authentication check passed
+  -Address:    81.182.138.150
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+
+
+  -Server uptime: 49s
++ Request Log ID: [ 1452 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 23:35:29
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 593s
+
+
++ Request Log ID: [ 1453 ]
+
+  -2021.Jul.30 - 23:36:58
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 682s
+
+
++ Request Log ID: [ 1454 ]
+
+  -2021.Jul.30 - 23:37:52
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 736s
+
+
++ Request Log ID: [ 1455 ]
+
+  -2021.Jul.30 - 23:40:18
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 883s
+
+
++ Request Log ID: [ 1456 ]
+
+  -2021.Jul.30 - 23:40:58
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 923s
+
+
++ Request Log ID: [ 1457 ]
+
+  -2021.Jul.30 - 23:41:44
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 969s
+
+
++ Request Log ID: [ 1458 ]
+
+  -2021.Jul.30 - 23:43:38
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1083s
+
+
++ Request Log ID: [ 1459 ]
+
+  -Username:   kaszas2000
+  -2021.Jul.30 - 23:44:09
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1113s
+
+
++ Request Log ID: [ 1460 ]
+
+  -2021.Jul.30 - 23:44:26
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1130s
+
+
++ Request Log ID: [ 1461 ]
+
+  -2021.Jul.30 - 23:44:47
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Status:     200
+  -Address:    81.182.138.150
+  -Req URL:    https://www.evak.hu/main
+  -Event:      User authentication check passed
+  -Server uptime: 1151s
+
+
++ Request Log ID: [ 1462 ]
+
+  -2021.Jul.30 - 23:45:27
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1192s
+
+
++ Request Log ID: [ 1463 ]
+
+  -2021.Jul.30 - 23:46:16
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1240s
+
+
++ Request Log ID: [ 1464 ]
+
+  -2021.Jul.30 - 23:46:50
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1275s
+
+
++ Request Log ID: [ 1465 ]
+
+  -2021.Jul.30 - 23:47:16
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Mobile Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1301s
+
+
++ Request Log ID: [ 1466 ]
+
+  -2021.Jul.30 - 23:47:37
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Mobile Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1321s
+
+
++ Request Log ID: [ 1467 ]
+
+  -2021.Jul.30 - 23:48:24
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Mobile Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1369s
+
+
++ Request Log ID: [ 1468 ]
+
+  -2021.Jul.30 - 23:58:21
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 1966s
+
+
++ Request Log ID: [ 1469 ]
+
+  -2021.Jul.31 - 0:00:01
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2066s
+
+
++ Request Log ID: [ 1470 ]
+
+  -2021.Jul.31 - 0:00:37
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2102s
+
+
++ Request Log ID: [ 1471 ]
+
+  -2021.Jul.31 - 0:01:15
+  -Method:     GET
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Event:      User authentication check passed
+  -Address:    81.182.138.150
+  -Req URL:    https://www.evak.hu/main
+  -Status:     200
+  -Server uptime: 2140s
+
+
++ Request Log ID: [ 1472 ]
+
+  -2021.Jul.31 - 0:01:36
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2160s
+
+
++ Request Log ID: [ 1473 ]
+
+  -2021.Jul.31 - 0:09:08
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2613s
+
+
++ Request Log ID: [ 1474 ]
+
+  -2021.Jul.31 - 0:10:31
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+  -Address:    81.182.138.150
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 2696s
+
+

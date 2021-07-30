@@ -3,7 +3,10 @@ module.exports = {
 
 
     getClientAddress: function (req) {
-        let address = req.ip.split(":").pop();
+        let address = ""
+        if(req?.ip) {
+            address = req.ip.split(":").pop();
+        }
 
         switch (address) {
 

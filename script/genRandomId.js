@@ -1,9 +1,9 @@
-let genRandomId = () =>{
+let genRandomId = (length) =>{
     let string = ""
     let abc = "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"
     let array = []
   
-    for(let i = 0; i < 32; i++) {
+    for(let i = 0; i < (length / 2); i++) {
         array.push(Math.round(Math.random() * 9))
         let randomIndex = (Math.floor(Math.random() * abc.length))
         array.push(abc[randomIndex])

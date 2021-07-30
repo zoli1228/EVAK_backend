@@ -33,6 +33,10 @@ Jelenleg folyamatban:
 2021. 04. 16. 1:01:02
 - Verifikációs visszaigazoló oldalt kell csinálni
 - Elfelejtett jelszó
-- input validáció (!!!) kliens és szerver oldalon egyaránt
+- input validáció (!!!) kliens és szerver oldalon egyaránt #Kész
 
 Utána lehet dolgozni a rendszeren.
+
+
+2021. 05. 11. 22:44:54 
+Jelszó visszaállításnál IP címet is vizsgálni kell, hogy csak arról az eszközről lehessen bejelentkezni ideiglenes jelszóval, amelyről igényelték.

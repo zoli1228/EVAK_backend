@@ -1,0 +1,419 @@
+Log ID: 953
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 17:20:22
+
+Log ID: 954
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 17:20:22
+
+Log ID: 955
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 17:21:03
+
+Log ID: 956
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 17:21:03
+
+Log ID: 957
+Message: PW Reset Middleware: Érvénytelen ideiglenes jelszó, lejárt.
+Time: 2021.May.11 - 21:54:49
+
+Log ID: 958
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 21:59:25
+
+Log ID: 959
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 21:59:25
+
+Log ID: 960
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:02:40
+
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:02:40
+Log ID: 961
+
+Log ID: 962
+Message: kaszas2000 bejelentkezett.
+Time: 2021.May.11 - 22:02:48
+
++ Request Log ID: [ 963 ]
+
+  -2021.May.11 - 22:02:50
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 11s
+
+
+Log ID: 964
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:03:35
+
+Log ID: 965
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:03:35
+
+Log ID: 966
+Message: kaszas2000 kijelentkezett.
+Time: 2021.May.11 - 22:03:37
+
+Log ID: 967
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: kaszas2000
+Time: 2021.May.11 - 22:03:47
+
+Log ID: 968
+Message: Jelszó frissítve!
+Time: 2021.May.11 - 22:03:47
+
+Log ID: 969
+Message: pwrecovery Email sent to sz.zoltan091@gmail.com
+Time: 2021.May.11 - 22:03:51
+
+Log ID: 970
+Message: PW Reset Middleware: Érvénytelen ideiglenes jelszó, lejárt.
+Time: 2021.May.11 - 22:04:26
+
+Log ID: 971
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:05:35
+
+Log ID: 972
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:05:35
+
+Log ID: 973
+Message: PW Reset Middleware: Érvénytelen ideiglenes jelszó, lejárt. Napok száma: 22
+Time: 2021.May.11 - 22:05:42
+
+Log ID: 974
+Message: PW Reset Middleware: Érvénytelen ideiglenes jelszó, lejárt. Napok száma: 22
+Time: 2021.May.11 - 22:06:00
+
+Log ID: 975
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:07:23
+
+Log ID: 976
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:07:23
+
+Log ID: 977
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:11:27
+
+Log ID: 978
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:11:27
+
+Log ID: 979
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: kaszas2000
+Time: 2021.May.11 - 22:11:33
+
+Log ID: 980
+Message: Jelszó frissítve!
+Time: 2021.May.11 - 22:11:33
+
+Log ID: 981
+Message: pwrecovery Email sent to sz.zoltan091@gmail.com
+Time: 2021.May.11 - 22:11:36
+
+Log ID: 982
+Message: PW Reset Middleware: Ideiglenes jelszó érvényes, tovább...
+Time: 2021.May.11 - 22:12:05
+
+Log ID: 983
+Message: kaszas2000 bejelentkezett.
+
+Time: 2021.May.11 - 22:12:05
++ Request Log ID: [ 984 ]
+
+  -2021.May.11 - 22:12:08
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 41s
+
+
++ Request Log ID: [ 985 ]
+
+  -2021.May.11 - 22:12:08
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 41s
+
+
++ Request Log ID: [ 986 ]
+
+  -2021.May.11 - 22:12:42
+  -Username:   kaszas2000
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 75s
+
+
+Log ID: 987
+Message: Felhasználó adatai felülírva.
+Time: 2021.May.11 - 22:12:42
+
++ Request Log ID: [ 988 ]
+  -2021.May.11 - 22:12:42
+
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Method:     POST
+  -Address:    134.255.104.202
+  -Event:      kaszas2000 megváltoztatta az ideiglenes jelszavát.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 75s
+
+
++ Request Log ID: [ 989 ]
+
+  -2021.May.11 - 22:12:45
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 78s
+
+
+Log ID: 990
+Message: kaszas2000 kijelentkezett.
+
+Time: 2021.May.11 - 22:13:46
+Log ID: 991
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:17:23
+
+Log ID: 992
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:17:24
+
+Log ID: 993
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:21:34
+
+Log ID: 994
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:21:34
+
+Log ID: 995
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:21:51
+
+Log ID: 996
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:21:51
+
+Log ID: 997
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:42:16
+
+Log ID: 998
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:42:16
+
+Log ID: 999
+Message: HTTP Server started on port 80
+Time: 2021.May.11 - 22:42:37
+
+Log ID: 1000
+Message: HTTPS Server started on port 443
+Time: 2021.May.11 - 22:42:37
+
+Log ID: 1001
+Message: kaszas2000 bejelentkezett.
+Time: 2021.May.11 - 22:46:02
+
++ Request Log ID: [ 1002 ]
+
+  -2021.May.11 - 22:46:04
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 209s
+
+
++ Request Log ID: [ 1003 ]
+
+  -2021.May.11 - 22:50:16
+  -Username:   kaszas2000
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 461s
+
+
+Log ID: 1004
+Message: kaszas2000 kijelentkezett.
+Time: 2021.May.11 - 23:00:49
+
+Log ID: 1005
+Message: User registration process started
+Time: 2021.May.11 - 23:02:39
+
++ Request Log ID: [ 1006 ]
+
+  -2021.May.11 - 23:02:39
+  -Username:   heringH
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      heringH sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/signup
+  -Server uptime: 1203s
+
+
+Log ID: 1007
+Message: verify Email sent to mercii96.hh@gmail.com
+Time: 2021.May.11 - 23:02:41
+
+Log ID: 1008
+Message: heringH igazolta az email címét (mercii96.hh@gmail.com)
+Time: 2021.May.11 - 23:03:11
+
+Log ID: 1009
+Message: heringH bejelentkezett.
+Time: 2021.May.11 - 23:04:57
+
++ Request Log ID: [ 1010 ]
+
+  -2021.May.11 - 23:04:59
+  -Username:   heringH
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 1344s
+
+
+Log ID: 1011
+Message: heringH kijelentkezett.
+Time: 2021.May.11 - 23:05:52
+
+Log ID: 1012
+Message: PWRecovery: Egyezés! Felhasználói jelszó visszaállítása: heringH
+Time: 2021.May.11 - 23:06:01
+
+Log ID: 1013
+Message: Jelszó frissítve!
+Time: 2021.May.11 - 23:06:01
+
+Log ID: 1014
+Message: pwrecovery Email sent to mercii96.hh@gmail.com
+Time: 2021.May.11 - 23:06:04
+
+Log ID: 1015
+Message: PW Reset Middleware: Ideiglenes jelszó érvényes, tovább...
+Time: 2021.May.11 - 23:07:01
+
+Log ID: 1016
+Message: heringH bejelentkezett.
+
+Time: 2021.May.11 - 23:07:01
++ Request Log ID: [ 1017 ]
+
+  -2021.May.11 - 23:07:03
+  -Username:   heringH
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 1467s
+
+
++ Request Log ID: [ 1018 ]
+
+  -2021.May.11 - 23:07:03
+  -Username:   heringH
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 1467s
+
+
++ Request Log ID: [ 1019 ]
+
+  -2021.May.11 - 23:07:41
+  -Username:   heringH
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/newpassword
+  -Server uptime: 1506s
+
+
+Log ID: 1020
+Message: Felhasználó adatai felülírva.
+Time: 2021.May.11 - 23:07:41
+
++ Request Log ID: [ 1021 ]
+
+  -2021.May.11 - 23:07:41
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      heringH megváltoztatta az ideiglenes jelszavát.
+  -Username:   heringH
+  -Req URL:    https://www.evak.hu/newpassword
+  -Status:     200
+  -Server uptime: 1506s
+
+
++ Request Log ID: [ 1022 ]
+
+  -2021.May.11 - 23:07:44
+  -Username:   heringH
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.46
+  -Address:    134.255.104.202
+  -Event:      User authentication check passed
+  -Status:     200
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 1509s
+
+
+Log ID: 1023
+Message: heringH kijelentkezett.
+Time: 2021.May.11 - 23:07:58
+

@@ -1,7 +1,8 @@
 const nodemailer = require('nodemailer')
 const mailTemplate = require('./mailTemplates')
+const myLogger = require('./logger.js')
 
-async function sendMail(username, email, verificationId, template) {
+async function sendMail(template, username, email, verificationId, newPw, subject) {
 
     let transporter = nodemailer.createTransport({
     host: "smtp.zoho.com",
@@ -12,23 +13,23 @@ async function sendMail(username, email, verificationId, template) {
       pass: "Zoltan91-dt",
     },
   });
-  const emailTemplate = mailTemplate.setUp(template, username, email, verificationId)
+  const emailTemplate = mailTemplate.setUp(template, username, email, verificationId, newPw)
   
   const mailOptions = {
     from: "EVAK Rendszer <info@evak.hu>",
     to: email,
-    cc: "info@evak.hu",
-    subject: "Regisztráció megerősítése",
+    subject: subject,
     html: emailTemplate
    };
 
-   await transporter.sendMail(mailOptions, function(err, info) {
+   transporter.sendMail(mailOptions, function(err, info) {
     if (err) {
-        console.log(err)
-        res.send("Error: " + err)
+        myLogger("Email küldési hiba: sendMail.js: " + err)
     } else 
     {
-        console.log(template + " Email sent to " + email)}
+        myLogger(template + " Email sent to " + email)
+        myLogger("Message info: " + JSON.stringify(info))
+      }
   })}
 
   module.exports = sendMail
