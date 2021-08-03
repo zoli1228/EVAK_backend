@@ -20,7 +20,12 @@ module.exports = {
     aszf: loadPage("aszf.html"),
     modules: {
         test: loadModule("testtemplate.html"),
-        fapapucs: loadModule("fapapucs.html"),
-        homepage: loadModule("homepage.html")
+        homepage: loadModule("homepage.html"),
+        settings: loadModule("settings.html"),
+        profile: loadModule("profile.html"),
+        forum: loadModule("forum.html"),
+        help: loadModule("help.html"),
+        notfound: loadModule("404.html"),
+        quotes: loadModule("quotes.html")
     }
 }

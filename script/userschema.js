@@ -15,6 +15,7 @@ let userSchema = new Schema({
     pwReset: { type: Boolean, default: false },
     pwResetDateUnix: { type: String, default: (Math.floor((Date.now() / 1000 / 3600 / 24))) },
     verificationId: {type: String},
+    role: {type: String, default: "basic", enum: ["basic", "premium", "admin"]},
     lastLogin: {type: String, default: timestamp("precision") }
 });
 

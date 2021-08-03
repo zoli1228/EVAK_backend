@@ -1,23 +1,28 @@
 const express = require("express");
+const fs = require('fs')
 const router = express.Router()
 //const logger = require("./logger.js")
 const clientAddress = require("./getclientaddress.js")
-const adminIp = "81.182.138.150"
+const adminIp = "134.255.123.149"
 const path = require('path')
 const bcrypt = require('bcrypt')
 const session = require('express-session')
 const MongoDBStore = require('connect-mongodb-session')(session)
 const mongoose = require('mongoose');
 const userModel = require('./userschema.js')
+const chatModel = require('./chatmodule.js')
 const bodyParser = require('body-parser')
 const sendMail = require('./sendMail')
 const genRandomId = require('./genRandomId')
 const validate = require('./validation')
 const auth = require('./checkAuthState.js')
 const myLogger = require('./logger.js') // (Message, req, status) (if !req && !status) {message with timestamp}
+let timestamp = require('./timestamp')
 const pwResetCheck = require('./pwResetCheck')
-const pages = require("./pages.js")
+const pages = require("./pages.js");
 const saltRounds = 10
+const createModule = require("./createmodule")
+const genRandomRGB = require("./genRandomRGB")
 
 let mongoDB = 'mongodb://localhost:27017/evak';
 mongoose.connect(mongoDB, {
@@ -80,7 +85,13 @@ router.use((req, res, next) => {
 });
 
 
+router.get("/system/getuserdetails/", auth, async (req, res) => {
 
+    let username = await userModel.findOne({ username: req.session.user.username }).catch((err) => res.status(500).send("Hiba az adatok lekérdezésében"))
+    res.json({
+        username: username.username
+    })
+})
 
 
 
@@ -170,6 +181,7 @@ router.post("/login", pwResetCheck, async function (req, res) {
                         pwReset: user.pwReset
                     }
                     req.session.authenticated = true;
+                    req.session.role = user.role
                     user.updateOne({ isLoggedIn: true }).catch((err) => { myLogger(err) })
                     user.save()
                     myLogger(`${req.session.user.username} bejelentkezett.`)
@@ -216,9 +228,6 @@ router.get('/signedup', function (req, res) {
     res.sendFile(pages.signedup)
 })
 
-
-
-
 router.get('/verify', async function (req, res) {
     let verPage = require('./sendVerifiedPage.js')
     let id = req.query.id
@@ -247,7 +256,7 @@ router.get('/verify', async function (req, res) {
     else res.json({ message: "Felhasználó nem található az adatbázisban." })
 })
 
-router.get('/logout', async function (req, res) {
+router.get('/logout', auth, async function (req, res) {
 
     if (req.session.user) {
         let user = await userModel.findOne({ username: req.session.user.username })
@@ -385,8 +394,24 @@ router.get("/aszf", (req, res) => {
 
 //   logger.myLogger(req, "Main page accessed", res.statusCode)
 
+/* const createModule = async (template, {...data}, user) => {
+    let userPlaceholder = {
+        username: "No data"
+    }
+    if(user) {
+        userPlaceholder = await userModel.findOne({username : req.session.user.username}).catch((err) => {return console.log("No such user" + err)})
+    }
+    let stringTemplate = fs.readFileSync(template).toString()
+    return {
+        user: userPlaceholder.username,
+        data: data,
+        template: stringTemplate
+    }
+} */
+
 router.get("/", function (req, res) {
     if (!req.session?.user) {
+
         res.sendFile(pages.home)
     } else if (req.session.user.isVerified && !req.session.user.pwReset) {
         res.sendFile(pages.main)
@@ -417,19 +442,123 @@ router.get("/main", auth, function (req, res) {
 })
 
 
-router.get("/content/quotes", (req, res) => {
 
-    res.sendFile(pages.modules.test)
+router
+    .get("/content/quotes", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.quotes, {
+            header: "Árajánlatok"
+        })
+        res.json(loadedModule)
 
-}).get("/content/settings", (req, res) => {
-    res.sendFile(pages.modules.settings)
-}).get("/content/main", (req, res) => {
-    res.sendFile(pages.modules.homepage)
-}).get("/content/fapapucs", (req, res) => {
-    res.sendFile(pages.modules.fapapucs)
-}).get("/content/*", (req, res) => {
-    res.status(404).json({ content: "404 A keresett tartalom nem található." })
+    })
+    .get("/content/settings", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.settings, {
+            header: "Beállítások"
+        })
+        res.json(loadedModule)
+    })
+    .get("/content/main", auth, async (req, res) => {
+        let user = req.session.user.username
+        let loadedModule = await createModule(pages.modules.homepage, {
+            header: "Főoldal"
+        }, user)
+        res.json(loadedModule)
+
+    })
+    .get("/content/profile", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.profile, {
+            header: "Személyes adatlap"
+        })
+        res.json(loadedModule)
+    })
+    .get("/content/forum", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.forum, {
+            header: "Fórum"
+        })
+        res.json(loadedModule)
+    })
+    .get("/content/help", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.help, {
+            header: "Segítség"
+        })
+        res.json(loadedModule)
+    })
+    .get("/content/*", auth, async (req, res) => {
+        let loadedModule = await createModule(pages.modules.notfound, {
+            header: "Hiba"
+        })
+        res.json(loadedModule)
+    })
+
+router.post("/chat/messages", auth, async (req, res) => {
+    try {
+        let user = req.session.user.username
+        let message = req.body.message.toString()
+        let existing = await chatModel.findOne({ username: user })
+        let chat;
+        let time = timestamp()
+
+        if(existing) {
+             chat = new chatModel({
+                username: user,
+                message: message,
+                colour: existing.colour,
+                timestamp: time
+            })
+
+        }
+        else {
+             chat = new chatModel({
+                username: user,
+                message: message,
+                colour: genRandomRGB(),
+                timestamp: time
+            })
+        }
+        if(chat) {
+            chat.save().then((resolve, reject) => {
+                if (resolve) return
+                myLogger("Chat mentési hiba: " + reject)
+            })
+        }
+        
+        res.status(200).end("OK")
+
+
+    } catch (err) {
+        console.log(err)
+        res.status(500).end()
+    }
 })
+
+
+router.get("/chat/messages", auth, async (req, res) => {
+
+    await chatModel.find({}).then((resolved) => {
+        let data = resolved
+        res.json(data)
+    }).catch((err) => {
+        res.json({
+            message: "Unable to find messages"
+        })
+    })
+
+})
+
+/* user = new userModel({
+username,
+password: pwHash,
+email,
+verificationId: verificationId
+})
+await user.save().then((resolve, reject) => {
+if (resolve) return
+myLogger("User save error: " + reject)
+}) */
+
+
+
+
 
 
 
