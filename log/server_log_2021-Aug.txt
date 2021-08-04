@@ -12673,3 +12673,308 @@ Log ID: 3530
 Message: HTTPS Server started on port 80
 Time: 2021.Aug.3 - 22:47:32
 
+Log ID: 3531
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 0:09:47
+
+Log ID: 3532
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 0:09:47
+
+Log ID: 3533
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 0:13:42
+
+Log ID: 3534
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 7:54:06
+
+Log ID: 3535
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 7:54:06
+
+Log ID: 3536
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.4 - 8:12:16
+
+Log ID: 3537
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.4 - 19:26:46
+Log ID: 3538
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 19:52:03
+Log ID: 3539
+Message: Jancsika bejelentkezett.
+Time: 2021.Aug.4 - 19:52:21
+
+Log ID: 3540
+Message: Jancsika kijelentkezett.
+
+Time: 2021.Aug.4 - 19:52:56
+Log ID: 3541
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 19:53:16
+
+Log ID: 3542
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.4 - 19:54:54
+
+Log ID: 3543
+Message: User registration process started
+Time: 2021.Aug.4 - 19:55:10
+
++ Request Log ID: [ 3544 ]
+
+  -2021.Aug.4 - 19:55:10
+  -Username:   szevi
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62
+  -Address:    134.255.123.149
+  -Event:      szevi sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/signup
+  -Server uptime: 43264s
+
+
+Log ID: 3545
+Message: verify Email sent to szev.villszer@gmail.com
+Time: 2021.Aug.4 - 19:55:15
+
+Log ID: 3546
+Message: Message info: {"accepted":["szev.villszer@gmail.com"],"rejected":[],"envelopeTime":516,"messageTime":2456,"messageSize":2927,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["szev.villszer@gmail.com"]},"messageId":"<f961a988-68cb-b135-ea5e-f434b2b6c60f@evak.hu>"}
+Time: 2021.Aug.4 - 19:55:15
+
+Log ID: 3547
+Message: szevi igazolta az email címét (szev.villszer@gmail.com)
+Time: 2021.Aug.4 - 19:59:51
+
+Log ID: 3548
+Message: szevi bejelentkezett.
+Time: 2021.Aug.4 - 20:00:03
+
+Log ID: 3549
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:20:25
+
+Log ID: 3550
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:20:25
+
+Log ID: 3551
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:24:00
+
+Log ID: 3552
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:24:00
+
+Log ID: 3553
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:24:31
+
+Log ID: 3554
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:24:31
+
+Log ID: 3555
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:26:13
+
+Log ID: 3556
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:26:13
+
+Log ID: 3557
+Message: szevi kijelentkezett.
+
+Time: 2021.Aug.4 - 20:26:55
+Log ID: 3558
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 20:27:03
+
+Log ID: 3559
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.4 - 20:27:51
+Log ID: 3560
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:27:51
+
+Log ID: 3561
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.4 - 20:27:54
+
+Log ID: 3562
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 20:28:01
+
+Log ID: 3563
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:58:26
+
+Log ID: 3564
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:58:26
+
+Log ID: 3565
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 20:59:04
+
+Log ID: 3566
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:59:04
+
+Log ID: 3567
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.4 - 20:59:11
+Log ID: 3568
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 20:59:11
+
+Log ID: 3569
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 20:59:32
+Log ID: 3570
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 20:59:49
+
+Log ID: 3571
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.4 - 21:07:04
+
+Log ID: 3572
+Message: szevi bejelentkezett.
+
+Time: 2021.Aug.4 - 21:07:10
+Log ID: 3573
+Message: szevi kijelentkezett.
+Time: 2021.Aug.4 - 21:28:53
+
+Log ID: 3574
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 21:29:16
+
+Log ID: 3575
+Time: 2021.Aug.4 - 21:30:01
+Message: HTTP Server started on port 443
+Log ID: 3576
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 21:30:01
+
+Log ID: 3577
+Time: 2021.Aug.4 - 21:30:13
+Message: zoli1228 kijelentkezett.
+
+Log ID: 3578
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 21:30:27
+
+Log ID: 3579
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 21:31:16
+Log ID: 3580
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 21:31:25
+
+Log ID: 3581
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 21:31:40
+Log ID: 3582
+Time: 2021.Aug.4 - 21:31:48
+Message: szevi bejelentkezett.
+
+Log ID: 3583
+Message: szevi kijelentkezett.
+Time: 2021.Aug.4 - 21:32:41
+
+Log ID: 3584
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 21:32:49
+
+Log ID: 3585
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 21:47:21
+Log ID: 3586
+Message: szevi bejelentkezett.
+Time: 2021.Aug.4 - 21:47:26
+
+Log ID: 3587
+Message: szevi kijelentkezett.
+
+Time: 2021.Aug.4 - 21:48:04
+Log ID: 3588
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.4 - 21:48:09
+Log ID: 3589
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 21:59:20
+
+Log ID: 3590
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 21:59:20
+
+Log ID: 3591
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 22:00:57
+
+Log ID: 3592
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 22:00:57
+
+Log ID: 3593
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.4 - 22:01:58
+Log ID: 3594
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 22:02:06
+
+Log ID: 3595
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 22:05:17
+
+Log ID: 3596
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 22:05:17
+
+Log ID: 3597
+
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.4 - 22:11:59
+Log ID: 3598
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.4 - 22:12:14
+
+Log ID: 3599
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.4 - 22:45:10
+Log ID: 3600
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 22:45:10
+
+Log ID: 3601
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 23:06:49
+
+Log ID: 3602
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 23:06:49
+
+Log ID: 3603
+Message: HTTP Server started on port 443
+Time: 2021.Aug.4 - 23:07:44
+
+Log ID: 3604
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.4 - 23:07:44
+

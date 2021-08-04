@@ -23,7 +23,7 @@ const pages = require("./pages.js");
 const saltRounds = 10
 const createModule = require("./createmodule")
 const genRandomRGB = require("./genRandomRGB")
-
+const cookieParser = require("cookie-parser")
 let mongoDB = 'mongodb://localhost:27017/evak';
 mongoose.connect(mongoDB, {
     useNewUrlParser: true,
@@ -83,7 +83,7 @@ router.use((req, res, next) => {
     );
     next();
 });
-
+router.use(cookieParser())
 
 router.get("/system/getuserdetails/", auth, async (req, res) => {
 
@@ -185,13 +185,16 @@ router.post("/login", pwResetCheck, async function (req, res) {
                     user.updateOne({ isLoggedIn: true }).catch((err) => { myLogger(err) })
                     user.save()
                     myLogger(`${req.session.user.username} bejelentkezett.`)
+                    res.cookie("username", user.username)
                     if (req.session.user.pwReset) {
+                        
                         res.json({
                             status: "OK",
                             message: "Sikeres bejelentkezés ideiglenes jelszóval. Átirányítás folyamatban."
                         })
                     }
                     else {
+                        
                         res.json({
                             status: "OK",
                             message: "Sikeres bejelentkezés. Átirányítás folyamatban..."
@@ -457,7 +460,15 @@ router
         })
         res.json(loadedModule)
     })
-    .get("/content/main", auth, async (req, res) => {
+    .get("/content/chat", auth, async (req, res) => {
+        let user = req.session.user.username
+        let loadedModule = await createModule(pages.modules.chat, {
+            header: "Chat fal"
+        }, user)
+        res.json(loadedModule)
+
+    })
+    .get("/content/home", auth, async (req, res) => {
         let user = req.session.user.username
         let loadedModule = await createModule(pages.modules.homepage, {
             header: "Főoldal"
@@ -494,10 +505,16 @@ router.post("/chat/messages", auth, async (req, res) => {
     try {
         let user = req.session.user.username
         let message = req.body.message.toString()
+        if(message.includes("{{{username}}}")) {
+            user = genRandomId(Math.round(Math.random() * (10 - 5) + 5))
+            message = message.replace("{{{username}}}", "")
+        }
         let existing = await chatModel.findOne({ username: user })
         let chat;
         let time = timestamp()
-
+        if(message.length > 150) {
+            return res.end("Maximum 150 karakter engedélyezett.")
+        }
         if(existing) {
              chat = new chatModel({
                 username: user,

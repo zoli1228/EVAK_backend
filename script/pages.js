@@ -21,6 +21,7 @@ module.exports = {
     modules: {
         test: loadModule("testtemplate.html"),
         homepage: loadModule("homepage.html"),
+        chat: loadModule("chat.html"),
         settings: loadModule("settings.html"),
         profile: loadModule("profile.html"),
         forum: loadModule("forum.html"),
