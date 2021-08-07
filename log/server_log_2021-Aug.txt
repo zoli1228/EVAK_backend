@@ -13632,3 +13632,136 @@ Log ID: 3763
 Message: HTTPS Server started on port 80
 Time: 2021.Aug.7 - 15:04:52
 
+Log ID: 3764
+Message: HTTP Server started on port 443
+Time: 2021.Aug.7 - 15:05:44
+
+Log ID: 3765
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.7 - 15:05:44
+Log ID: 3766
+Message: HTTP Server started on port 443
+
+Log ID: 3767
+Time: 2021.Aug.7 - 15:07:31
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.7 - 15:07:31
+
+Log ID: 3768
+Message: HTTP Server started on port 443
+Time: 2021.Aug.7 - 15:09:22
+
+Log ID: 3769
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.7 - 15:09:22
+
+Log ID: 3770
+Message: HTTP Server started on port 443
+Time: 2021.Aug.7 - 23:21:03
+
+Log ID: 3771
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.7 - 23:21:03
+Log ID: 3772
+Time: 2021.Aug.7 - 23:21:28
+Message: zoli1228 kijelentkezett.
+
+Log ID: 3773
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.7 - 23:22:11
+
+Log ID: 3774
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.7 - 23:27:51
+
+Log ID: 3775
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.7 - 23:32:06
+
+Log ID: 3776
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.7 - 23:33:15
+
+Log ID: 3777
+Message: User registration process started
+
+Time: 2021.Aug.7 - 23:33:43
+Log ID: 3778
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.7 - 23:33:58
+
+Log ID: 3779
+Message: User registration process started
+
+Time: 2021.Aug.7 - 23:34:03
++ Request Log ID: [ 3780 ]
+
+  -2021.Aug.7 - 23:34:03
+  -Username:   Kzolii
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+  -Address:    81.182.75.62
+  -Event:      Kzolii sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/signup
+  -Server uptime: 780s
+
+
+Log ID: 3781
+Message: verify Email sent to zoltabp26@gmail.com
+Time: 2021.Aug.7 - 23:34:07
+
+Log ID: 3782
+Message: Message info: {"accepted":["zoltabp26@gmail.com"],"rejected":[],"envelopeTime":553,"messageTime":1829,"messageSize":2916,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["zoltabp26@gmail.com"]},"messageId":"<faf8b8c0-77de-a67f-c854-c37c30039d71@evak.hu>"}
+Time: 2021.Aug.7 - 23:34:07
+
+Log ID: 3783
+Message: Kzolii igazolta az email címét (zoltabp26@gmail.com)
+
+Time: 2021.Aug.7 - 23:34:47
+Log ID: 3784
+Message: Kzolii bejelentkezett.
+Time: 2021.Aug.7 - 23:36:29
+
+Log ID: 3785
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.7 - 23:48:15
+Log ID: 3786
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.7 - 23:48:15
+
+Log ID: 3787
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 0:07:17
+
+Log ID: 3788
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 0:07:17
+
+Log ID: 3789
+Time: 2021.Aug.8 - 0:08:28
+
+Log ID: 3790
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 0:08:28
+
+Message: HTTP Server started on port 443
+Log ID: 3791
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 0:10:11
+
+Log ID: 3792
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 0:10:11
+
+Log ID: 3793
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 0:10:48
+
+Log ID: 3794
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 0:10:48
+

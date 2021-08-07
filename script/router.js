@@ -4,7 +4,7 @@ const router = express.Router()
 //const logger = require("./logger.js")
 const clientAddress = require("./getclientaddress.js")
 const adminIp = "134.255.123.149"
-const guestIp = "94.21.69.15"
+const guestIp = "81.182.75.62"
 const path = require('path')
 const bcrypt = require('bcrypt')
 const session = require('express-session')
@@ -500,16 +500,35 @@ router
         res.json(loadedModule)
     })
     function escapeRegex(string) {
-        string = string.replace(/[.*^${}()<>|[\]\\]/g, "");
+        string = string.replace(/[.*^${}<>|[\]\\]/g, "");
         string = string.replace(/(<([^>]+)>)/ig, "")
         return string
+      }
+
+      let swapEmoji = (input) => {
+          input = input.replace(":)", "🙂")
+          input = input.replace(":D", "😃")
+          input = input.replace(":|", "😐")
+          input = input.replace(":(", "☹️")
+          input = input.replace(":'D", "😂")
+          input = input.replace("XD", "🤣")
+          input = input.replace(":P", "😜")
+          input = input.replace(":'('", "😢")
+          input = input.replace(":O", "😲")
+          input = input.replace(":@", "🤬")
+          input = input.replace(":*", "😙")
+          input = input.replace("B-)", "😎")
+          input = input.replace(":$", "🤢")
+          input = input.replace("<3", "❤️")
+          return input
       }
 
 router.post("/chat/messages", auth, async (req, res) => {
     try {
         let user = req.session.user.username
-        let rawMessage = req.body.message.toString()
-        let message = escapeRegex(rawMessage)
+        let message = req.body.message.toString()
+        message = swapEmoji(message)
+        message = escapeRegex(message)
 
         if(message.includes("{{{username}}}")) {
             user = genRandomId(Math.round(Math.random() * (10 - 5) + 5))

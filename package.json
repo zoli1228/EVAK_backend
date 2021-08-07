@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/zoli1228/EVAK_backend#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
@@ -28,6 +29,7 @@
     "express": "^4.17.1",
     "express-openid-connect": "^2.3.0",
     "express-session": "^1.17.1",
+    "font-awesome": "^4.7.0",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "https": "^1.0.0",
