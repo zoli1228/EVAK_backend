@@ -4,6 +4,7 @@ const router = express.Router()
 //const logger = require("./logger.js")
 const clientAddress = require("./getclientaddress.js")
 const adminIp = "134.255.123.149"
+const guestIp = "94.21.69.15"
 const path = require('path')
 const bcrypt = require('bcrypt')
 const session = require('express-session')
@@ -24,6 +25,7 @@ const saltRounds = 10
 const createModule = require("./createmodule")
 const genRandomRGB = require("./genRandomRGB")
 const cookieParser = require("cookie-parser")
+
 let mongoDB = 'mongodb://localhost:27017/evak';
 mongoose.connect(mongoDB, {
     useNewUrlParser: true,
@@ -41,9 +43,6 @@ let mongoStore = new MongoDBStore({
 mongoStore.on('error', function (error) {
     myLogger(error);
 });
-
-
-
 
 router.use(require('express-session')({
     secret: 'fd532d1539d094c47681dd6db74242d26a02af39132f3f7ea470507321eb847e',
@@ -65,7 +64,7 @@ router.use(require('express-session')({
 }));
 
 router.use(function (req, res, next) {
-    if (clientAddress.getClientAddress(req) == adminIp) {
+    if (clientAddress.getClientAddress(req) == adminIp || clientAddress.getClientAddress(req) == guestIp) {
         next()
     }
     else {
@@ -500,18 +499,29 @@ router
         })
         res.json(loadedModule)
     })
+    function escapeRegex(string) {
+        string = string.replace(/[.*^${}()<>|[\]\\]/g, "");
+        string = string.replace(/(<([^>]+)>)/ig, "")
+        return string
+      }
 
 router.post("/chat/messages", auth, async (req, res) => {
     try {
         let user = req.session.user.username
-        let message = req.body.message.toString()
+        let rawMessage = req.body.message.toString()
+        let message = escapeRegex(rawMessage)
+
         if(message.includes("{{{username}}}")) {
             user = genRandomId(Math.round(Math.random() * (10 - 5) + 5))
             message = message.replace("{{{username}}}", "")
         }
+        if(!message.trim().length) {
+            return
+        }
         let existing = await chatModel.findOne({ username: user })
         let chat;
         let time = timestamp()
+        let createdAt = timestamp("precision")
         if(message.length > 150) {
             return res.end("Maximum 150 karakter engedélyezett.")
         }
@@ -520,7 +530,8 @@ router.post("/chat/messages", auth, async (req, res) => {
                 username: user,
                 message: message,
                 colour: existing.colour,
-                timestamp: time
+                timestamp: time,
+                createdAt: createdAt
             })
 
         }
@@ -529,7 +540,8 @@ router.post("/chat/messages", auth, async (req, res) => {
                 username: user,
                 message: message,
                 colour: genRandomRGB(),
-                timestamp: time
+                timestamp: time,
+                createdAt: createdAt
             })
         }
         if(chat) {
@@ -551,7 +563,7 @@ router.post("/chat/messages", auth, async (req, res) => {
 
 router.get("/chat/messages", auth, async (req, res) => {
 
-    await chatModel.find({}).then((resolved) => {
+    await chatModel.find({}).sort({"createdAt" : -1}).limit(100).then((resolved) => {
         let data = resolved
         res.json(data)
     }).catch((err) => {
