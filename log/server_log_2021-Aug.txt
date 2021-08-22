@@ -13765,3 +13765,5269 @@ Log ID: 3794
 Message: HTTPS Server started on port 80
 Time: 2021.Aug.8 - 0:10:48
 
+Log ID: 3795
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.8 - 0:25:41
+Message: HTTPS Server started on port 80
+Log ID: 3796
+Time: 2021.Aug.8 - 0:25:41
+
+Log ID: 3797
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 8:01:00
+Log ID: 3798
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.8 - 8:01:00
+
+Log ID: 3799
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 8:01:57
+
+Log ID: 3800
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 8:01:57
+
+Log ID: 3801
+Message: HTTP Server started on port 443
+Time: 2021.Aug.8 - 11:37:55
+
+Log ID: 3802
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 11:37:55
+
+Log ID: 3803
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.8 - 11:38:14
+
+Log ID: 3804
+Message: HTTP Server started on port 443
+Log ID: 3805
+Time: 2021.Aug.8 - 22:42:46
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.8 - 22:42:46
+
+Log ID: 3806
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.8 - 22:56:25
+Log ID: 3807
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.8 - 22:56:38
+
+Log ID: 3808
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.10 - 5:07:47
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.10 - 5:07:47
+Log ID: 3809
+
+Log ID: 3810
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.10 - 5:12:09
+Log ID: 3811
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.11 - 19:58:37
+Message: HTTPS Server started on port 80
+Log ID: 3812
+Time: 2021.Aug.11 - 19:58:37
+
+Log ID: 3813
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.11 - 19:59:37
+Log ID: 3814
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.11 - 21:52:39
+Log ID: 3815
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 21:52:39
+
+Log ID: 3816
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:23:24
+
+Log ID: 3817
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:23:24
+
+Log ID: 3818
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:24:20
+Log ID: 3819
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:24:20
+
+Log ID: 3820
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:24:49
+
+Log ID: 3821
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:24:49
+
+Log ID: 3822
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:26:34
+
+Log ID: 3823
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:26:34
+
+Log ID: 3824
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:29:37
+
+Log ID: 3825
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:29:37
+
+Log ID: 3826
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:30:23
+
+Log ID: 3827
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:30:23
+
+Log ID: 3828
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:30:52
+
+Log ID: 3829
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:30:52
+
+Log ID: 3830
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:31:00
+
+Log ID: 3831
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:31:00
+
+Log ID: 3832
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:34:03
+
+Log ID: 3833
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:34:03
+
+Log ID: 3834
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:34:50
+
+Log ID: 3835
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:34:50
+
+Log ID: 3836
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:35:05
+
+Log ID: 3837
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:35:05
+
+Log ID: 3838
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:35:41
+
+Log ID: 3839
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:35:41
+
+Log ID: 3840
+Message: HTTP Server started on port 443
+Log ID: 3841
+Time: 2021.Aug.11 - 22:36:03
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.11 - 22:36:03
+
+Log ID: 3842
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:37:17
+Message: HTTPS Server started on port 80
+Log ID: 3843
+Time: 2021.Aug.11 - 22:37:17
+
+Log ID: 3844
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:37:36
+
+Log ID: 3845
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:37:36
+
+Log ID: 3846
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:37:51
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:37:51
+Log ID: 3847
+
+Log ID: 3848
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.11 - 22:38:03
+Log ID: 3849
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:38:03
+
+Log ID: 3850
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.11 - 22:38:40
+Log ID: 3851
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:38:40
+
+Log ID: 3852
+Message: HTTP Server started on port 443
+Time: 2021.Aug.11 - 22:39:19
+
+Log ID: 3853
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.11 - 22:39:19
+
+Log ID: 3854
+Message: HTTP Server started on port 443
+Time: 2021.Aug.12 - 11:57:45
+Log ID: 3855
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.12 - 11:57:45
+
+Log ID: 3856
+Message: HTTP Server started on port 443
+Time: 2021.Aug.13 - 19:44:54
+
+Log ID: 3857
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.13 - 19:44:54
+
+Log ID: 3858
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:12:32
+
+Log ID: 3859
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:12:32
+
+Log ID: 3860
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:18:02
+
+Log ID: 3861
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:18:02
+
+Log ID: 3862
+Time: 2021.Aug.14 - 5:19:58
+Message: HTTP Server started on port 443
+Log ID: 3863
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:19:58
+
+Log ID: 3864
+
+Message: HTTP Server started on port 443
+Log ID: 3865
+Time: 2021.Aug.14 - 5:20:16
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:20:16
+
+Log ID: 3866
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.14 - 5:20:33
+Log ID: 3867
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:20:33
+
+Log ID: 3868
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:25:00
+
+Log ID: 3869
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:25:00
+
+Log ID: 3870
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:25:21
+
+Log ID: 3871
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:25:21
+
+Log ID: 3872
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.14 - 5:27:59
+
+Log ID: 3873
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.14 - 5:28:13
+
+Log ID: 3874
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.14 - 5:28:58
+Log ID: 3875
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:28:58
+
+Log ID: 3876
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:37:23
+
+Log ID: 3877
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:37:23
+
+Log ID: 3878
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.14 - 5:37:31
+Log ID: 3879
+
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.14 - 5:37:36
+Log ID: 3880
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:40:03
+
+Log ID: 3881
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:40:03
+
+Log ID: 3882
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:40:55
+
+Log ID: 3883
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:40:55
+
+Log ID: 3884
+
+Message: HTTP Server started on port 443
+Log ID: 3885
+Time: 2021.Aug.14 - 5:48:16
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:48:16
+
+Log ID: 3886
+Message: HTTP Server started on port 443
+
+Log ID: 3887
+Time: 2021.Aug.14 - 5:55:33
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:55:33
+
+Log ID: 3888
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 5:56:38
+
+Log ID: 3889
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:56:38
+
+Log ID: 3890
+
+Message: HTTP Server started on port 443
+Log ID: 3891
+Time: 2021.Aug.14 - 5:58:10
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 5:58:10
+
+Log ID: 3892
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 6:09:28
+
+Log ID: 3893
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 6:09:28
+
+Log ID: 3894
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.14 - 9:40:21
+
+Log ID: 3895
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.14 - 9:41:34
+
+Log ID: 3896
+Message: HTTP Server started on port 443
+Log ID: 3897
+Time: 2021.Aug.14 - 19:00:26
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 19:00:26
+
+Log ID: 3898
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 19:08:15
+
+Log ID: 3899
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 19:08:15
+
+Log ID: 3900
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.14 - 19:09:20
+Log ID: 3901
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 19:09:20
+
+Log ID: 3902
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 19:22:51
+Log ID: 3903
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 19:22:51
+
+Log ID: 3904
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 19:26:09
+
+Log ID: 3905
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 19:26:09
+
+Log ID: 3906
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.14 - 22:38:27
+Log ID: 3907
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.14 - 22:38:37
+
+Log ID: 3908
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 22:52:28
+
+Log ID: 3909
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 22:52:28
+
+Log ID: 3910
+Message: HTTP Server started on port 443
+Time: 2021.Aug.14 - 22:52:40
+
+Log ID: 3911
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.14 - 22:52:40
+
+Log ID: 3912
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.15 - 14:45:11
+Message: HTTPS Server started on port 80
+Log ID: 3913
+Time: 2021.Aug.15 - 14:45:11
+
+Log ID: 3914
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.15 - 14:45:18
+Log ID: 3915
+Message: User registration process started
+Time: 2021.Aug.15 - 14:45:44
+
++ Request Log ID: [ 3916 ]
+
+  -2021.Aug.15 - 14:45:44
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73
+  -Address:    149.200.110.204
+  -Event:      admin sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/signup
+  -Server uptime: 42s
+
+
+Log ID: 3917
+Message: verify Email sent to admin@evak.hu
+Time: 2021.Aug.15 - 14:45:48
+Log ID: 3918
+Time: 2021.Aug.15 - 14:45:48
+Message: Message info: {"accepted":["admin@evak.hu"],"rejected":[],"envelopeTime":590,"messageTime":1041,"messageSize":2900,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["admin@evak.hu"]},"messageId":"<62a5bd7b-fb23-63d7-1bc4-ced7c63d79b4@evak.hu>"}
+
+
+Log ID: 3919
+Time: 2021.Aug.15 - 14:45:57
+Message: admin igazolta az email címét (admin@evak.hu)
+
+Log ID: 3920
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 14:46:11
+Log ID: 3921
+Message: admin kijelentkezett.
+Time: 2021.Aug.15 - 17:15:38
+
+Log ID: 3922
+Time: 2021.Aug.15 - 17:15:52
+Message: admin bejelentkezett.
+
+Log ID: 3923
+Time: 2021.Aug.15 - 17:16:54
+Message: HTTP Server started on port 443
+
+Log ID: 3924
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:16:54
+
+Log ID: 3925
+Message: admin kijelentkezett.
+Time: 2021.Aug.15 - 17:16:58
+
+Log ID: 3926
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 17:17:03
+
+Log ID: 3927
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:18:16
+
+Log ID: 3928
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:18:16
+
+Log ID: 3929
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.15 - 17:18:19
+Log ID: 3930
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 17:18:25
+Log ID: 3931
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:19:15
+Log ID: 3932
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:19:15
+
+Log ID: 3933
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.15 - 17:19:20
+Log ID: 3934
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 17:19:28
+Log ID: 3935
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:20:26
+
+Log ID: 3936
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:20:26
+
+Log ID: 3937
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:21:10
+
+Log ID: 3938
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:21:10
+
+Log ID: 3939
+Message: admin kijelentkezett.
+Time: 2021.Aug.15 - 17:21:24
+
+Log ID: 3940
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 17:21:32
+
+Log ID: 3941
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:21:58
+
+Log ID: 3942
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:21:58
+
+Log ID: 3943
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:22:23
+
+Log ID: 3944
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:22:23
+
+Log ID: 3945
+Time: 2021.Aug.15 - 17:24:03
+Log ID: 3946
+Message: HTTP Server started on port 443
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:24:04
+
+Log ID: 3947
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:24:19
+
+Log ID: 3948
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:24:19
+
+Log ID: 3949
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:41:00
+Message: HTTPS Server started on port 80
+
+Log ID: 3950
+Time: 2021.Aug.15 - 17:41:00
+
+Log ID: 3951
+Message: HTTP Server started on port 443
+Log ID: 3952
+Time: 2021.Aug.15 - 17:41:58
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.15 - 17:41:58
+
+Log ID: 3953
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:42:19
+
+Log ID: 3954
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:42:19
+
+Log ID: 3955
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:42:53
+
+Log ID: 3956
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:42:53
+
+Log ID: 3957
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 17:43:19
+
+Log ID: 3958
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 17:43:19
+
+Log ID: 3959
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:42:14
+Log ID: 3960
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:42:14
+
+Log ID: 3961
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:42:43
+
+Log ID: 3962
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:42:43
+
+Log ID: 3963
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:44:17
+
+Log ID: 3964
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:44:17
+
+Log ID: 3965
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:44:45
+
+Log ID: 3966
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:44:45
+
+Log ID: 3967
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:46:33
+
+Log ID: 3968
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:46:33
+
+Log ID: 3969
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:48:36
+
+Log ID: 3970
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:48:36
+
+Log ID: 3971
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:48:52
+
+Log ID: 3972
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:48:52
+
+Log ID: 3973
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:51:48
+
+Log ID: 3974
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:51:48
+
+Log ID: 3975
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:51:59
+
+Log ID: 3976
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:51:59
+
+Log ID: 3977
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:53:04
+
+Log ID: 3978
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:53:04
+
+Log ID: 3979
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:53:19
+
+Log ID: 3980
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:53:19
+
+Log ID: 3981
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:56:22
+
+Log ID: 3982
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:56:22
+
+Log ID: 3983
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:56:45
+
+Log ID: 3984
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:56:45
+
+Log ID: 3985
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:56:49
+
+Log ID: 3986
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:56:49
+
+Log ID: 3987
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 18:57:26
+
+Log ID: 3988
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 18:57:26
+
+Log ID: 3989
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:02:56
+
+Log ID: 3990
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:02:56
+
+Log ID: 3991
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:05:00
+
+Log ID: 3992
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:05:00
+
+Log ID: 3993
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:05:56
+
+Log ID: 3994
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:05:56
+
+Log ID: 3995
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:11:44
+
+Log ID: 3996
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:11:44
+
+Log ID: 3997
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:12:01
+
+Log ID: 3998
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:12:01
+
+Log ID: 3999
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:12:14
+
+Log ID: 4000
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:12:14
+
+Log ID: 4001
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:13:15
+
+Log ID: 4002
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:13:15
+
+Log ID: 4003
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:14:15
+
+Log ID: 4004
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:14:15
+
+Log ID: 4005
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:14:33
+
+Log ID: 4006
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:14:33
+
+Log ID: 4007
+Message: HTTP Server started on port 443
+Log ID: 4008
+Time: 2021.Aug.15 - 19:14:46
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:14:46
+
+Log ID: 4009
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:15:06
+
+Log ID: 4010
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:15:06
+
+Log ID: 4011
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:15:34
+
+Log ID: 4012
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:15:34
+
+Log ID: 4013
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:15:49
+
+Log ID: 4014
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:15:49
+
+Log ID: 4015
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:18:01
+
+Log ID: 4016
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:18:01
+
+Log ID: 4017
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.15 - 19:18:40
+Log ID: 4018
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:18:40
+
+Log ID: 4019
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:29:58
+
+Log ID: 4020
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:29:58
+
+Log ID: 4021
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:30:29
+
+Log ID: 4022
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:30:29
+
+Log ID: 4023
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:30:46
+
+Log ID: 4024
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:30:46
+
+Log ID: 4025
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:31:05
+
+Log ID: 4026
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:31:05
+
+Log ID: 4027
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:31:52
+
+Log ID: 4028
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:31:52
+
+Log ID: 4029
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:32:36
+
+Log ID: 4030
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:32:36
+
+Log ID: 4031
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:33:00
+
+Log ID: 4032
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:33:00
+
+Log ID: 4033
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:34:41
+
+Log ID: 4034
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:34:41
+
+Log ID: 4035
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 19:34:57
+
+Log ID: 4036
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 19:34:57
+
+Log ID: 4037
+Time: 2021.Aug.15 - 19:38:06
+Message: admin bejelentkezett.
+
+Log ID: 4038
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:29:44
+
+Log ID: 4039
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:29:44
+
+Log ID: 4040
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:30:03
+
+Log ID: 4041
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:30:03
+
+Log ID: 4042
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:30:12
+
+Log ID: 4043
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:30:12
+
+Log ID: 4044
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 22:30:21
+
+Log ID: 4045
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.15 - 22:30:30
+Log ID: 4046
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:32:28
+
+Log ID: 4047
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:32:28
+
+Log ID: 4048
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:32:34
+
+Log ID: 4049
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:32:34
+
+Log ID: 4050
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.15 - 22:32:39
+
+Log ID: 4051
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.15 - 22:35:00
+Message: HTTPS Server started on port 80
+Log ID: 4052
+Time: 2021.Aug.15 - 22:35:00
+
+Log ID: 4053
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:37:02
+
+Log ID: 4054
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:37:02
+
+Log ID: 4055
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:41:40
+
+Log ID: 4056
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:41:40
+
+Log ID: 4057
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:44:24
+Log ID: 4058
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:44:24
+
+Log ID: 4059
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:44:44
+
+Log ID: 4060
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:44:44
+
+Log ID: 4061
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:51:00
+
+Log ID: 4062
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:51:00
+
+Log ID: 4063
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:52:37
+
+Log ID: 4064
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:52:37
+
+Log ID: 4065
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 22:55:39
+
+Log ID: 4066
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 22:55:39
+
+Log ID: 4067
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 22:57:07
+
+Log ID: 4068
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 22:57:46
+Log ID: 4069
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:00:22
+
+Log ID: 4070
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:00:22
+
+Log ID: 4071
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:01:00
+Log ID: 4072
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:01:08
+Log ID: 4073
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:04:05
+
+Log ID: 4074
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:04:05
+
+Log ID: 4075
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:04:53
+
+Log ID: 4076
+Message: admin kijelentkezett.
+Time: 2021.Aug.15 - 23:05:35
+
+Log ID: 4077
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.15 - 23:06:17
+
+Log ID: 4078
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.15 - 23:06:47
+Log ID: 4079
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:07:18
+Log ID: 4080
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:08:53
+
+Log ID: 4081
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:08:53
+
+Log ID: 4082
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:10:01
+
+Log ID: 4083
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:10:01
+
+Log ID: 4084
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:11:09
+Log ID: 4085
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.15 - 23:13:18
+
+Log ID: 4086
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.15 - 23:13:31
+
+Log ID: 4087
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:13:37
+
+Log ID: 4088
+Message: Admin ellenőrzés sikeres.
+Time: 2021.Aug.15 - 23:13:42
+
+Log ID: 4089
+Message: admin kijelentkezett.
+Time: 2021.Aug.15 - 23:14:12
+
+Log ID: 4090
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:17:24
+
+Log ID: 4091
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:18:53
+Log ID: 4092
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:19:46
+
+Log ID: 4093
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:19:46
+
+Log ID: 4094
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:20:05
+Log ID: 4095
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:20:43
+
+Log ID: 4096
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:20:43
+
+Log ID: 4097
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:21:05
+
+Log ID: 4098
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:22:43
+
+Log ID: 4099
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:22:43
+
+Log ID: 4100
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:22:52
+
+Log ID: 4101
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:23:10
+
+Log ID: 4102
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:23:10
+
+Log ID: 4103
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:23:26
+
+Log ID: 4104
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.15 - 23:23:55
+Log ID: 4105
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:23:55
+
+Log ID: 4106
+Time: 2021.Aug.15 - 23:24:05
+Message: admin bejelentkezett.
+
+Log ID: 4107
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:24:29
+
+Log ID: 4108
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:24:29
+
+Log ID: 4109
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:24:48
+Log ID: 4110
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:24:48
+
+Log ID: 4111
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:24:55
+Log ID: 4112
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:25:53
+
+Log ID: 4113
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:25:53
+
+Log ID: 4114
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:26:05
+Log ID: 4115
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:27:07
+Log ID: 4116
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:27:07
+
+Log ID: 4117
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:28:12
+
+Log ID: 4118
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:28:12
+
+Log ID: 4119
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:28:28
+
+Log ID: 4120
+
+Message: HTTP Server started on port 443
+Log ID: 4121
+Time: 2021.Aug.15 - 23:28:37
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:28:37
+
+Log ID: 4122
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:29:01
+
+Log ID: 4123
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:31:33
+
+Log ID: 4124
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:31:33
+
+Log ID: 4125
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:32:18
+Log ID: 4126
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:32:52
+
+Log ID: 4127
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:34:56
+Log ID: 4128
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:34:56
+
+Log ID: 4129
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:35:42
+
+Log ID: 4130
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:35:42
+
+Log ID: 4131
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:35:50
+
+Log ID: 4132
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:36:58
+Log ID: 4133
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:43:12
+
+Log ID: 4134
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:43:12
+
+Log ID: 4135
+Time: 2021.Aug.15 - 23:44:47
+Message: HTTP Server started on port 443
+
+Log ID: 4136
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:44:47
+
+Log ID: 4137
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:44:47
+
+Log ID: 4138
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.15 - 23:44:47
+
+Log ID: 4139
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:45:05
+Log ID: 4140
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:47:21
+
+Log ID: 4141
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:47:21
+
+Log ID: 4142
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:47:22
+
+Log ID: 4143
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:47:25
+
+Log ID: 4144
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:48:32
+Log ID: 4145
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:49:40
+
+Log ID: 4146
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:49:40
+
+Log ID: 4147
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:50:39
+
+Log ID: 4148
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:50:39
+
+Log ID: 4149
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:51:43
+
+Log ID: 4150
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:53:14
+
+Log ID: 4151
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:53:14
+
+Log ID: 4152
+Message: HTTP Server started on port 443
+Log ID: 4153
+Time: 2021.Aug.15 - 23:53:42
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:53:42
+
+Log ID: 4154
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:53:47
+
+Log ID: 4155
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.15 - 23:54:20
+Log ID: 4156
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:54:21
+
+Log ID: 4157
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:54:59
+
+Log ID: 4158
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:55:53
+Log ID: 4159
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:57:06
+
+Log ID: 4160
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:57:06
+
+Log ID: 4161
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:57:14
+
+Log ID: 4162
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.15 - 23:58:27
+Log ID: 4163
+Message: HTTP Server started on port 443
+Time: 2021.Aug.15 - 23:59:28
+
+Log ID: 4164
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.15 - 23:59:28
+
+Log ID: 4165
+Message: admin bejelentkezett.
+Time: 2021.Aug.15 - 23:59:31
+
+Log ID: 4166
+Message: HTTP Server started on port 443
+Time: 2021.Aug.16 - 0:00:00
+
+Log ID: 4167
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:00:00
+
+Log ID: 4168
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:00:05
+
+Log ID: 4169
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:00:31
+Log ID: 4170
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:00:52
+
+Log ID: 4171
+Message: HTTP Server started on port 443
+Time: 2021.Aug.16 - 0:01:33
+
+Log ID: 4172
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:01:33
+
+Log ID: 4173
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:01:39
+
+Log ID: 4174
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.16 - 0:02:19
+Log ID: 4175
+Message: HTTP Server started on port 443
+Log ID: 4176
+Time: 2021.Aug.16 - 0:02:54
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.16 - 0:02:54
+
+Log ID: 4177
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:03:20
+
+Log ID: 4178
+Message: HTTP Server started on port 443
+Time: 2021.Aug.16 - 0:03:50
+
+Log ID: 4179
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:03:50
+
+Log ID: 4180
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:03:56
+
+Log ID: 4181
+Message: HTTP Server started on port 443
+Time: 2021.Aug.16 - 0:04:32
+Log ID: 4182
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:04:32
+
+Log ID: 4183
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:04:34
+
+Log ID: 4184
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.16 - 0:04:42
+Log ID: 4185
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:04:42
+
+Log ID: 4186
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:04:44
+
+Log ID: 4187
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.16 - 0:05:04
+Log ID: 4188
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.16 - 0:05:04
+
+Log ID: 4189
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:05:05
+Log ID: 4190
+Message: admin bejelentkezett.
+Time: 2021.Aug.16 - 0:05:13
+
+Log ID: 4191
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.16 - 0:06:10
+Log ID: 4192
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 20:35:47
+
+Log ID: 4193
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 20:35:47
+
+Log ID: 4194
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 20:36:19
+
+Log ID: 4195
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.18 - 20:41:14
+Log ID: 4196
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 20:42:37
+
+Log ID: 4197
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 20:42:37
+
+Log ID: 4198
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 20:47:10
+
+Log ID: 4199
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 20:47:10
+
+Log ID: 4200
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.18 - 20:52:58
+Log ID: 4201
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 20:52:58
+
+Log ID: 4202
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 20:54:25
+
+Log ID: 4203
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 20:54:57
+
+Log ID: 4204
+Time: 2021.Aug.18 - 20:55:31
+Message: zoli1228 bejelentkezett.
+
+Log ID: 4205
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 22:31:43
+
+Log ID: 4206
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 22:31:43
+
+Log ID: 4207
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 22:53:47
+
+Log ID: 4208
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.18 - 22:55:31
+Log ID: 4209
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.18 - 22:56:40
+Log ID: 4210
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.18 - 22:57:37
+Log ID: 4211
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 22:58:18
+
+Log ID: 4212
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 22:58:42
+
+Log ID: 4213
+Message: admin bejelentkezett.
+Time: 2021.Aug.18 - 22:59:23
+
+Log ID: 4214
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.18 - 23:02:38
+Log ID: 4215
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:04:57
+
+Log ID: 4216
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:08:15
+
+Log ID: 4217
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.18 - 23:08:15
+Log ID: 4218
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.18 - 23:08:34
+Log ID: 4219
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.18 - 23:11:08
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:11:08
+Log ID: 4220
+
+Log ID: 4221
+Time: 2021.Aug.18 - 23:11:22
+Message: zoli1228 bejelentkezett.
+
+Log ID: 4222
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:23:37
+
+Log ID: 4223
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:23:37
+
+Log ID: 4224
+Time: 2021.Aug.18 - 23:23:53
+Message: zoli1228 bejelentkezett.
+
+Log ID: 4225
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:24:59
+
+Log ID: 4226
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:29:25
+
+Log ID: 4227
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:29:25
+
+Log ID: 4228
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.18 - 23:29:52
+Log ID: 4229
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:29:52
+
+Log ID: 4230
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:30:28
+
+Log ID: 4231
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:30:28
+
+Log ID: 4232
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:31:03
+
+Log ID: 4233
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:31:03
+
+Log ID: 4234
+Message: HTTP Server started on port 443
+Time: 2021.Aug.18 - 23:31:40
+
+Log ID: 4235
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.18 - 23:31:40
+
+Log ID: 4236
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.18 - 23:32:32
+Log ID: 4237
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:40:17
+
+Log ID: 4238
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:41:03
+
+Log ID: 4239
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:41:49
+
+Log ID: 4240
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.18 - 23:59:56
+
+Log ID: 4241
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.19 - 0:00:55
+
+Log ID: 4242
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:05:10
+
+Log ID: 4243
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:05:10
+
+Log ID: 4244
+Time: 2021.Aug.19 - 0:06:38
+Log ID: 4245
+Message: HTTP Server started on port 443
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.19 - 0:06:38
+
+Log ID: 4246
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.19 - 0:06:52
+
+Log ID: 4247
+Message: HTTP Server started on port 443
+Log ID: 4248
+Time: 2021.Aug.19 - 0:10:23
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:10:23
+
+Log ID: 4249
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 0:11:19
+Log ID: 4250
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:11:19
+
+Log ID: 4251
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:11:36
+Log ID: 4252
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:14:56
+Log ID: 4253
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.19 - 0:16:52
+
+Log ID: 4254
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 0:18:23
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:18:23
+
+Log ID: 4255
+Log ID: 4256
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.19 - 0:18:39
+
+Log ID: 4257
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:19:42
+
+Log ID: 4258
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:19:42
+
+Log ID: 4259
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:21:07
+Log ID: 4260
+Message: HTTP Server started on port 443
+
+Log ID: 4261
+Time: 2021.Aug.19 - 0:23:08
+Time: 2021.Aug.19 - 0:23:08
+Message: HTTPS Server started on port 80
+
+Log ID: 4262
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:24:37
+Log ID: 4263
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:25:30
+Log ID: 4264
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:26:34
+
+Log ID: 4265
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:26:34
+
+Log ID: 4266
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 0:27:00
+Log ID: 4267
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:27:00
+
+Log ID: 4268
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.19 - 0:29:40
+
+Log ID: 4269
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:31:29
+
+Log ID: 4270
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:31:29
+
+Log ID: 4271
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:32:01
+
+Log ID: 4272
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:32:01
+
+Log ID: 4273
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 0:32:33
+Log ID: 4274
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:32:33
+
+Log ID: 4275
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:32:38
+
+Log ID: 4276
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:32:38
+
+Log ID: 4277
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.19 - 0:32:53
+Log ID: 4278
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 0:35:37
+
+Log ID: 4279
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 0:35:37
+
+Log ID: 4280
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 18:59:51
+Log ID: 4281
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 18:59:51
+
+Log ID: 4282
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:00:24
+
+Log ID: 4283
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 19:03:48
+Log ID: 4284
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:05:39
+
+Log ID: 4285
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:09:49
+
+Log ID: 4286
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:11:58
+
+Log ID: 4287
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:12:31
+
+Log ID: 4288
+Time: 2021.Aug.19 - 19:13:05
+
+Message: admin bejelentkezett.
+Log ID: 4289
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:15:16
+
+Log ID: 4290
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 19:15:58
+Log ID: 4291
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 19:16:02
+Log ID: 4292
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:16:12
+
+Log ID: 4293
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 19:35:53
+
+Log ID: 4294
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 19:35:53
+
+Log ID: 4295
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 19:37:29
+
+Log ID: 4296
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 19:37:29
+
+Log ID: 4297
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 19:40:28
+
+Log ID: 4298
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 19:40:28
+
+Log ID: 4299
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:44:04
+
+Log ID: 4300
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 19:45:55
+Log ID: 4301
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 19:47:41
+
+Log ID: 4302
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 19:47:41
+
+Log ID: 4303
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:48:25
+
+Log ID: 4304
+Message: HTTP Server started on port 443
+
+Log ID: 4305
+Time: 2021.Aug.19 - 19:49:15
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 19:49:15
+
+Log ID: 4306
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 19:51:35
+
+Log ID: 4307
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 20:13:47
+
+Log ID: 4308
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 20:13:47
+
+Log ID: 4309
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 20:18:00
+
+Log ID: 4310
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:18:40
+Log ID: 4311
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:43:59
+Log ID: 4312
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 20:44:25
+Log ID: 4313
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 20:44:25
+
+Log ID: 4314
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 20:44:28
+
+Log ID: 4315
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:45:37
+Log ID: 4316
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:46:31
+Log ID: 4317
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 20:46:36
+
+Log ID: 4318
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:47:01
+Log ID: 4319
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.19 - 20:48:17
+Log ID: 4320
+Message: admin bejelentkezett.
+Time: 2021.Aug.19 - 20:49:30
+
+Log ID: 4321
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 20:55:18
+
+Log ID: 4322
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 20:55:18
+
+Log ID: 4323
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 20:55:28
+
+Log ID: 4324
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 20:55:28
+
+Log ID: 4325
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 21:05:42
+
+Log ID: 4326
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:05:42
+
+Log ID: 4327
+Message: HTTP Server started on port 443
+
+Log ID: 4328
+Time: 2021.Aug.19 - 21:07:13
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:07:13
+
+Log ID: 4329
+Message: HTTP Server started on port 443
+Log ID: 4330
+Time: 2021.Aug.19 - 21:07:57
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:07:57
+
+Log ID: 4331
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.19 - 21:08:36
+Log ID: 4332
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:08:36
+
+Log ID: 4333
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 21:23:11
+
+Log ID: 4334
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:23:11
+
+Log ID: 4335
+Message: HTTP Server started on port 443
+Time: 2021.Aug.19 - 21:23:34
+
+Log ID: 4336
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.19 - 21:23:34
+
+Log ID: 4337
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 11:51:52
+
+Log ID: 4338
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 11:51:52
+
+Log ID: 4339
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 16:47:40
+
+Log ID: 4340
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:47:40
+
+Log ID: 4341
+Message: HTTP Server started on port 443
+Log ID: 4342
+Time: 2021.Aug.20 - 16:47:56
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:47:56
+
+Log ID: 4343
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 16:50:24
+Log ID: 4344
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:50:24
+
+Log ID: 4345
+Message: HTTP Server started on port 443
+Log ID: 4346
+Time: 2021.Aug.20 - 16:50:26
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:50:26
+
+Log ID: 4347
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 16:51:12
+Log ID: 4348
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:51:12
+
+Log ID: 4349
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 16:51:52
+
+Log ID: 4350
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:51:52
+
+Log ID: 4351
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 16:53:43
+
+Log ID: 4352
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:53:43
+
+Log ID: 4353
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 16:55:12
+
+Log ID: 4354
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 16:55:12
+
+Log ID: 4355
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.20 - 17:00:43
+
+Log ID: 4356
+Time: 2021.Aug.20 - 17:19:35
+
+Log ID: 4357
+Message: HTTPS Server started on port 80
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:19:35
+
+Log ID: 4358
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:20:26
+
+Log ID: 4359
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:20:26
+
+Log ID: 4360
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:20:58
+
+Log ID: 4361
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:20:58
+
+Log ID: 4362
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:37:51
+Message: HTTPS Server started on port 80
+Log ID: 4363
+Time: 2021.Aug.20 - 17:37:51
+
+Log ID: 4364
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:38:37
+
+Log ID: 4365
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:38:37
+
+Log ID: 4366
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:40:30
+
+Log ID: 4367
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:40:30
+
+Log ID: 4368
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:40:41
+
+Log ID: 4369
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:40:41
+
+Log ID: 4370
+
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.20 - 17:42:25
+Log ID: 4371
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 17:45:00
+Log ID: 4372
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 17:45:02
+
+Log ID: 4373
+Time: 2021.Aug.20 - 17:47:25
+Message: admin bejelentkezett.
+
+Log ID: 4374
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:48:44
+
+Log ID: 4375
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:48:44
+
+Log ID: 4376
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 17:48:44
+
+Log ID: 4377
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:50:33
+
+Log ID: 4378
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:50:33
+
+Log ID: 4379
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 17:50:42
+Log ID: 4380
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:52:09
+
+Log ID: 4381
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:52:09
+
+Log ID: 4382
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 17:52:28
+
+Log ID: 4383
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:57:55
+Log ID: 4384
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:57:55
+
+Log ID: 4385
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 17:58:08
+
+Log ID: 4386
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 17:58:09
+
+Log ID: 4387
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 17:59:04
+Log ID: 4388
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 18:06:50
+
+Log ID: 4389
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 18:06:50
+
+Log ID: 4390
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 18:06:58
+
+Log ID: 4391
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 18:11:09
+Log ID: 4392
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 18:17:25
+
+Log ID: 4393
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 19:58:17
+
+Log ID: 4394
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 19:58:17
+
+Log ID: 4395
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 19:58:29
+Log ID: 4396
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 19:58:29
+
+Log ID: 4397
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 22:04:06
+
+Log ID: 4398
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 22:44:18
+Log ID: 4399
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 22:46:09
+Log ID: 4400
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 22:46:09
+
+Log ID: 4401
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 22:46:19
+
+Log ID: 4402
+Time: 2021.Aug.20 - 22:47:52
+Message: admin bejelentkezett.
+
+Log ID: 4403
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 22:52:05
+
+Log ID: 4404
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 22:56:37
+Log ID: 4405
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 22:56:37
+
+Log ID: 4406
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 22:56:44
+
+Log ID: 4407
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 22:57:29
+
+Log ID: 4408
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 22:57:29
+
+Log ID: 4409
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 22:57:34
+Log ID: 4410
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 22:57:34
+
+Log ID: 4411
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 22:57:40
+Log ID: 4412
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 22:59:57
+
+Log ID: 4413
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 22:59:57
+
+Log ID: 4414
+Time: 2021.Aug.20 - 23:00:04
+Message: admin bejelentkezett.
+
+Log ID: 4415
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.20 - 23:02:06
+Log ID: 4416
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:02:06
+
+Log ID: 4417
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:02:25
+
+Log ID: 4418
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:02:25
+
+Log ID: 4419
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:02:49
+
+Log ID: 4420
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:02:49
+
+Log ID: 4421
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:03:03
+
+Log ID: 4422
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:03:03
+
+Log ID: 4423
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:04:09
+
+Log ID: 4424
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:04:09
+
+Log ID: 4425
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:04:24
+
+Log ID: 4426
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:04:24
+
+Log ID: 4427
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:04:40
+
+Log ID: 4428
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:04:40
+
+Log ID: 4429
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:05:05
+
+Log ID: 4430
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:05:05
+
+Log ID: 4431
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:05:41
+
+Log ID: 4432
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:05:41
+
+Log ID: 4433
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:06:09
+
+Log ID: 4434
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:06:09
+
+Log ID: 4435
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 23:06:18
+
+Log ID: 4436
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:07:28
+
+Log ID: 4437
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:07:28
+
+Log ID: 4438
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 23:07:40
+
+Log ID: 4439
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.20 - 23:07:55
+Log ID: 4440
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:08:57
+
+Log ID: 4441
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:08:57
+
+Log ID: 4442
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 23:09:06
+
+Log ID: 4443
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:09:58
+
+Log ID: 4444
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:09:58
+
+Log ID: 4445
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 23:10:05
+
+Log ID: 4446
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:10:48
+
+Log ID: 4447
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:10:48
+
+Log ID: 4448
+Message: admin bejelentkezett.
+Time: 2021.Aug.20 - 23:10:55
+
+Log ID: 4449
+Message: HTTP Server started on port 443
+Time: 2021.Aug.20 - 23:11:32
+
+Log ID: 4450
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.20 - 23:11:33
+
+Log ID: 4451
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:02:04
+Log ID: 4452
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:02:04
+
+Log ID: 4453
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.21 - 8:02:17
+Log ID: 4454
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:03:54
+
+Log ID: 4455
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:03:54
+
+Log ID: 4456
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:04:33
+
+Log ID: 4457
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:04:33
+
+Log ID: 4458
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:05:13
+
+Log ID: 4459
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:05:13
+
+Log ID: 4460
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:05:29
+
+Log ID: 4461
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:05:29
+
+Log ID: 4462
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:30:52
+
+Log ID: 4463
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:30:52
+
+Log ID: 4464
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:31:34
+
+Log ID: 4465
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:31:34
+
+Log ID: 4466
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:33:35
+
+Log ID: 4467
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:33:35
+
+Log ID: 4468
+Message: HTTP Server started on port 443
+Log ID: 4469
+Time: 2021.Aug.21 - 8:34:30
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:34:30
+
+Log ID: 4470
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:35:51
+
+Log ID: 4471
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:35:51
+
+Log ID: 4472
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.21 - 8:36:02
+Log ID: 4473
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:37:02
+
+Log ID: 4474
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:37:02
+
++ Request Log ID: [ 4475 ]
+
+  -2021.Aug.21 - 8:39:11
+  -Username:   kamugetzi
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78
+  -Address:    149.200.98.205
+  -Event:      kamugetzi sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 130s
+
+
+Log ID: 4476
+Message: verify Email sent to abababababab@ababababba.aba
+Time: 2021.Aug.21 - 8:39:14
+
+Log ID: 4477
+Message: Message info: {"accepted":["abababababab@ababababba.aba"],"rejected":[],"envelopeTime":582,"messageTime":1113,"messageSize":2943,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["abababababab@ababababba.aba"]},"messageId":"<3afd610d-f246-8a1b-b06d-8f737856fba1@evak.hu>"}
+Time: 2021.Aug.21 - 8:39:14
+
+Log ID: 4478
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.21 - 8:40:25
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:40:25
+
+Log ID: 4479
+Log ID: 4480
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:40:58
+
+Log ID: 4481
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:40:58
+
+Log ID: 4482
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:43:40
+
+Log ID: 4483
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:43:40
+
+Log ID: 4484
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:43:59
+
+Log ID: 4485
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:43:59
+
+Log ID: 4486
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:44:10
+
+Log ID: 4487
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:44:10
+
+Log ID: 4488
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:45:36
+
+Log ID: 4489
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:45:36
+
+Log ID: 4490
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.21 - 8:45:44
+Log ID: 4491
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:45:44
+
+Log ID: 4492
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:48:29
+
+Log ID: 4493
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:48:29
+
+Log ID: 4494
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:48:42
+
+Log ID: 4495
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:48:42
+
+Log ID: 4496
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:48:46
+
+Log ID: 4497
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:48:46
+
+Log ID: 4498
+Message: HTTP Server started on port 443
+Log ID: 4499
+Time: 2021.Aug.21 - 8:50:06
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:50:06
+
+
+Log ID: 4500
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:51:29
+
+Log ID: 4501
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:51:29
+
+Log ID: 4502
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:53:49
+
+Log ID: 4503
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:53:49
+
+Log ID: 4504
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:56:25
+
+Log ID: 4505
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:56:25
+
+Log ID: 4506
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:56:34
+
+Log ID: 4507
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:56:34
+
+Log ID: 4508
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:57:46
+
+Log ID: 4509
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:57:46
+
+Log ID: 4510
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 8:57:50
+
+Log ID: 4511
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 8:57:50
+
+Log ID: 4512
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 9:00:20
+
+Log ID: 4513
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 9:00:20
+
+Log ID: 4514
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.21 - 14:27:01
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:27:01
+
+Log ID: 4515
+Log ID: 4516
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:27:18
+
+Log ID: 4517
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:27:18
+
+Log ID: 4518
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.21 - 14:27:25
+Log ID: 4519
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:31:50
+
+Log ID: 4520
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:31:50
+
+Log ID: 4521
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:34:06
+
+Log ID: 4522
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:34:06
+
+Log ID: 4523
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:36:09
+
+Log ID: 4524
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:36:09
+
+Log ID: 4525
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:39:57
+
+Log ID: 4526
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:39:57
+
+Log ID: 4527
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:40:34
+
+Log ID: 4528
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:40:34
+
+Log ID: 4529
+Message: HTTP Server started on port 443
+
+Log ID: 4530
+Time: 2021.Aug.21 - 14:42:26
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:42:26
+
+Log ID: 4531
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:46:18
+
+Log ID: 4532
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:46:18
+
+Log ID: 4533
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:48:41
+
+Log ID: 4534
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:48:41
+
+Log ID: 4535
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:49:10
+
+Log ID: 4536
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:49:10
+
+Log ID: 4537
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:49:37
+
+Log ID: 4538
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:49:37
+
+Log ID: 4539
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.21 - 14:51:38
+Log ID: 4540
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:51:38
+
+Log ID: 4541
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:54:33
+
+Log ID: 4542
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:54:33
+
+Log ID: 4543
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:55:54
+
+Log ID: 4544
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:55:54
+
+Log ID: 4545
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 14:56:11
+
+Log ID: 4546
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 14:56:11
+
+Log ID: 4547
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:37:06
+
+Log ID: 4548
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:37:06
+
+Log ID: 4549
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:38:16
+
+Log ID: 4550
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:38:16
+
+Log ID: 4551
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:42:18
+
+Log ID: 4552
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:42:18
+
+Log ID: 4553
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:42:20
+
+Log ID: 4554
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:42:20
+
+Log ID: 4555
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:44:52
+
+Log ID: 4556
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:44:52
+
+Log ID: 4557
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:47:39
+
+Log ID: 4558
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:47:39
+
+Log ID: 4559
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:47:41
+
+Log ID: 4560
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:47:41
+
+Log ID: 4561
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:50:03
+
+Log ID: 4562
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:50:03
+
+Log ID: 4563
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:51:30
+
+Log ID: 4564
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:51:30
+
+Log ID: 4565
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:51:56
+
+Log ID: 4566
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:51:56
+
+Log ID: 4567
+Message: HTTP Server started on port 443
+Time: 2021.Aug.21 - 19:52:37
+
+Log ID: 4568
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.21 - 19:52:37
+
+Log ID: 4569
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 5:52:04
+
+Log ID: 4570
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 5:52:04
+
+Log ID: 4571
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 5:53:23
+
+Log ID: 4572
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 5:53:23
+
+Log ID: 4573
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 5:55:40
+
+Log ID: 4574
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 5:55:40
+
+Log ID: 4575
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.22 - 5:56:17
+Log ID: 4576
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 5:56:28
+Log ID: 4577
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 5:58:18
+
+Log ID: 4578
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 5:58:18
+
+Log ID: 4579
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 5:58:32
+Log ID: 4580
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 5:58:54
+
+Log ID: 4581
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 5:58:54
+
+Log ID: 4582
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:10:42
+
+Log ID: 4583
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:10:43
+
+Log ID: 4584
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 6:10:49
+
+Log ID: 4585
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.22 - 6:10:57
+
+Log ID: 4586
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.22 - 6:11:03
+
+Log ID: 4587
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 6:11:11
+
+Log ID: 4588
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:15:53
+
+Log ID: 4589
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:15:53
+
+Log ID: 4590
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:18:23
+Log ID: 4591
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:18:23
+
+Log ID: 4592
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:18:55
+
+Log ID: 4593
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:18:55
+
+Log ID: 4594
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:41:58
+
+Log ID: 4595
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:41:58
+
+Log ID: 4596
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:42:37
+
+Log ID: 4597
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:42:37
+
+Log ID: 4598
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:43:48
+
+Log ID: 4599
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:43:49
+
+Log ID: 4600
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:44:33
+
+Log ID: 4601
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:44:33
+
+Log ID: 4602
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 6:45:49
+
+Log ID: 4603
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 6:45:55
+Log ID: 4604
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 6:47:14
+
+Log ID: 4605
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 6:47:22
+Log ID: 4606
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 6:59:07
+
+Log ID: 4607
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 6:59:07
+
+Log ID: 4608
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 7:00:00
+
+Log ID: 4609
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 7:00:00
+
+Log ID: 4610
+
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 7:20:04
+Log ID: 4611
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 7:20:17
+
+Log ID: 4612
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:17:28
+
+Log ID: 4613
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:17:28
+
+Log ID: 4614
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:18:34
+
+Log ID: 4615
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:18:34
+
+Log ID: 4616
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:18:55
+
+Log ID: 4617
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:21:54
+
+Log ID: 4618
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:21:54
+
+Log ID: 4619
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:22:04
+
+Log ID: 4620
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 8:22:45
+Log ID: 4621
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:27:14
+
+Log ID: 4622
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:30:39
+
+Log ID: 4623
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:30:39
+
+Log ID: 4624
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:35:52
+
+Log ID: 4625
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:35:52
+
+Log ID: 4626
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:38:06
+
+Log ID: 4627
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:38:07
+
+Log ID: 4628
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:39:05
+Log ID: 4629
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:39:05
+
+Log ID: 4630
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:41:05
+
+Log ID: 4631
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:41:05
+
+Log ID: 4632
+Message: HTTP Server started on port 443
+Log ID: 4633
+Time: 2021.Aug.22 - 8:41:20
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:41:20
+
+
+Log ID: 4634
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:41:29
+
+Log ID: 4635
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:44:08
+
+Log ID: 4636
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:44:08
+
+Log ID: 4637
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 8:44:46
+
+Log ID: 4638
+Message: zoli1228 bejelentkezett.
+
+Time: 2021.Aug.22 - 8:44:51
+Log ID: 4639
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.22 - 8:45:02
+
+Log ID: 4640
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 8:45:08
+
+Log ID: 4641
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:45:31
+
+Log ID: 4642
+
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:46:02
+Log ID: 4643
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:46:02
+
+Log ID: 4644
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 8:46:13
+
+Log ID: 4645
+Message: HTTP Server started on port 443
+Log ID: 4646
+Time: 2021.Aug.22 - 8:46:25
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:46:25
+
+Log ID: 4647
+Message: HTTP Server started on port 443
+
+Log ID: 4648
+Time: 2021.Aug.22 - 8:46:47
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:46:47
+
+Log ID: 4649
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 8:46:57
+
+Log ID: 4650
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 8:47:52
+
+Log ID: 4651
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 8:47:52
+
+Log ID: 4652
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:09:09
+
+Log ID: 4653
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:09:09
+
+Log ID: 4654
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 10:11:12
+Log ID: 4655
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 10:11:29
+
+Log ID: 4656
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.22 - 10:11:48
+
+Log ID: 4657
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:12:29
+
+Log ID: 4658
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:12:29
+
+Log ID: 4659
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:12:43
+
+Log ID: 4660
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:12:43
+
+Log ID: 4661
+Message: zoli1228 kijelentkezett.
+
+Time: 2021.Aug.22 - 10:13:04
+Log ID: 4662
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 10:13:12
+Log ID: 4663
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 10:13:33
+
+Log ID: 4664
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 10:15:30
+
+Log ID: 4665
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:16:06
+
+Log ID: 4666
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.22 - 10:16:06
+Log ID: 4667
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 10:16:17
+Log ID: 4668
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:16:40
+
+Log ID: 4669
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:16:40
+
+Log ID: 4670
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 10:16:48
+
+Log ID: 4671
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:18:04
+
+Log ID: 4672
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:18:04
+
+Log ID: 4673
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:18:22
+
+Log ID: 4674
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:18:22
+
+Log ID: 4675
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:18:39
+Log ID: 4676
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:18:39
+
+Log ID: 4677
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:24:34
+Log ID: 4678
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.22 - 10:24:34
+
+Log ID: 4679
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:24:48
+
+Log ID: 4680
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:24:48
+
+Log ID: 4681
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:25:16
+
+Log ID: 4682
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:25:16
+
+Log ID: 4683
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:26:42
+
+Log ID: 4684
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:26:42
+
+Log ID: 4685
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 10:26:42
+
+Log ID: 4686
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:28:25
+Log ID: 4687
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:28:25
+
+Log ID: 4688
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 10:28:34
+Log ID: 4689
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 10:31:06
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:31:07
+Log ID: 4690
+
+Log ID: 4691
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 10:31:11
+
+Log ID: 4692
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 10:31:22
+Log ID: 4693
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:31:46
+
+Log ID: 4694
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:31:46
+
+Log ID: 4695
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:32:11
+
+Log ID: 4696
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:34:24
+
+Log ID: 4697
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:34:24
+
+Log ID: 4698
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 10:35:20
+Log ID: 4699
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:35:21
+
+Log ID: 4700
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:35:21
+
+Log ID: 4701
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:36:11
+
+Log ID: 4702
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:37:53
+
+Log ID: 4703
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:37:53
+
+Log ID: 4704
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:38:26
+Log ID: 4705
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:38:26
+
+Log ID: 4706
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:38:58
+
+Log ID: 4707
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:38:58
+
+Log ID: 4708
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.22 - 10:39:06
+
+Log ID: 4709
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:41:38
+
+Log ID: 4710
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:41:38
+
+Log ID: 4711
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:41:47
+
+Log ID: 4712
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:42:46
+
+Log ID: 4713
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:42:46
+
+Log ID: 4714
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:43:01
+
+Log ID: 4715
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:43:01
+
+Log ID: 4716
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:43:11
+
+Log ID: 4717
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:43:11
+
+Log ID: 4718
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:46:08
+
+Log ID: 4719
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:46:08
+
+Log ID: 4720
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:46:31
+
+Log ID: 4721
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.22 - 10:46:31
+Log ID: 4722
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:47:49
+
+Log ID: 4723
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:47:49
+
+Log ID: 4724
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:48:32
+
+Log ID: 4725
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:48:32
+
+Log ID: 4726
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:49:14
+
+Log ID: 4727
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:49:14
+
+Log ID: 4728
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:49:14
+
+Log ID: 4729
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:50:02
+
+Log ID: 4730
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:50:02
+
+Log ID: 4731
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:53:26
+
+Log ID: 4732
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:53:26
+
+Log ID: 4733
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 10:53:41
+Log ID: 4734
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:54:18
+
+Log ID: 4735
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:54:18
+
+Log ID: 4736
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 10:54:29
+
+Log ID: 4737
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 10:57:24
+
+Log ID: 4738
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 10:57:24
+
+Log ID: 4739
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:00:47
+
+Log ID: 4740
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:00:47
+
+Log ID: 4741
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:01:37
+
+Log ID: 4742
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:01:37
+
+Log ID: 4743
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:03:57
+
+Log ID: 4744
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:03:57
+
+Log ID: 4745
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:06:54
+
+Log ID: 4746
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:06:54
+
+Log ID: 4747
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 11:08:57
+Log ID: 4748
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:08:57
+
+Log ID: 4749
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 11:09:34
+Log ID: 4750
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:09:34
+
+Log ID: 4751
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:10:34
+
+Log ID: 4752
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:10:34
+
+Log ID: 4753
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:12:20
+
+Log ID: 4754
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:12:20
+
+Log ID: 4755
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:13:48
+
+Log ID: 4756
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:13:48
+
+Log ID: 4757
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:15:38
+
+Log ID: 4758
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:15:38
+
+Log ID: 4759
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:16:41
+
+Log ID: 4760
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:16:41
+
+Log ID: 4761
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:22:46
+
+Log ID: 4762
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:22:46
+
+Log ID: 4763
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:22:48
+
+Log ID: 4764
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:22:48
+
+Log ID: 4765
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:22:50
+
+Log ID: 4766
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:22:50
+
+Log ID: 4767
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.22 - 11:23:01
+
+Log ID: 4768
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:23:30
+Log ID: 4769
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:23:30
+
+Log ID: 4770
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:24:33
+
+Log ID: 4771
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:24:33
+
+Log ID: 4772
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.22 - 11:24:39
+
+Log ID: 4773
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 11:24:45
+Log ID: 4774
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:26:31
+
+Log ID: 4775
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:26:31
+
+Log ID: 4776
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:26:56
+
+Log ID: 4777
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:27:32
+
+Log ID: 4778
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:27:32
+
+Log ID: 4779
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:28:21
+
+Log ID: 4780
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:30:30
+
+Log ID: 4781
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:30:30
+
+Log ID: 4782
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 11:30:40
+Log ID: 4783
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:31:19
+
+Log ID: 4784
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:31:19
+
+Log ID: 4785
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:31:40
+
+Log ID: 4786
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:31:45
+
+Log ID: 4787
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:31:45
+
+Log ID: 4788
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:32:51
+
+Log ID: 4789
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:32:51
+
+Log ID: 4790
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:32:59
+
+Log ID: 4791
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:33:05
+
+Log ID: 4792
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:33:14
+
+Log ID: 4793
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:33:14
+
+Log ID: 4794
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 11:34:16
+Log ID: 4795
+
+Time: 2021.Aug.22 - 11:35:49
+Message: admin bejelentkezett az admin menübe.
+Log ID: 4796
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:37:35
+
+Log ID: 4797
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:38:30
+
+Log ID: 4798
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:38:30
+
+Log ID: 4799
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:38:47
+
+Log ID: 4800
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:39:07
+
+Log ID: 4801
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:39:07
+
+Log ID: 4802
+Time: 2021.Aug.22 - 11:39:24
+
+Message: admin bejelentkezett az admin menübe.
+Log ID: 4803
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:42:03
+Log ID: 4804
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:42:55
+Log ID: 4805
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:46:37
+
+Log ID: 4806
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:46:37
+
+Log ID: 4807
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:46:43
+Log ID: 4808
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:47:16
+Log ID: 4809
+
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:48:52
+Log ID: 4810
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 11:50:33
+Log ID: 4811
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:50:33
+
+Log ID: 4812
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 11:50:40
+
+Log ID: 4813
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:51:25
+
+Log ID: 4814
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:51:25
+
+Log ID: 4815
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 11:51:48
+
+Log ID: 4816
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 11:51:49
+
+Log ID: 4817
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 11:54:16
+
+Log ID: 4818
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 13:33:26
+
+Log ID: 4819
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:36:45
+
+Log ID: 4820
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:36:45
+
+Log ID: 4821
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 13:36:55
+Log ID: 4822
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:41:49
+
+Log ID: 4823
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:41:49
+
+Log ID: 4824
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:43:11
+
+Log ID: 4825
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:43:11
+
+Log ID: 4826
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 13:43:15
+
+Log ID: 4827
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 13:43:22
+
+Log ID: 4828
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:44:21
+
+Log ID: 4829
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:44:21
+
+Log ID: 4830
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:45:26
+
+Log ID: 4831
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:45:26
+
+Log ID: 4832
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 13:45:38
+
+Log ID: 4833
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:49:57
+
+Log ID: 4834
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:49:57
+
+Log ID: 4835
+Message: HTTP Server started on port 443
+
+Log ID: 4836
+Time: 2021.Aug.22 - 13:50:19
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:50:19
+
+Log ID: 4837
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:51:01
+
+Log ID: 4838
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:51:01
+
+Log ID: 4839
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.22 - 13:51:27
+Log ID: 4840
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 13:51:35
+
+Log ID: 4841
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 13:52:14
+
+Log ID: 4842
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:54:59
+
+Log ID: 4843
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:54:59
+
+Log ID: 4844
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 13:55:12
+
+Log ID: 4845
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:55:28
+
+Log ID: 4846
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:55:28
+
+Log ID: 4847
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:59:04
+
+Log ID: 4848
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:59:04
+
+Log ID: 4849
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 13:59:24
+
+Log ID: 4850
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 13:59:24
+
+Log ID: 4851
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:03:09
+
+Log ID: 4852
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:03:09
+
+Log ID: 4853
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:14:08
+
+Log ID: 4854
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:14:08
+
+Log ID: 4855
+
+Message: HTTP Server started on port 443
+Log ID: 4856
+Time: 2021.Aug.22 - 14:16:39
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:16:39
+
+Log ID: 4857
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:18:08
+
+Log ID: 4858
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:18:08
+
+Log ID: 4859
+
+Time: 2021.Aug.22 - 14:18:47
+Message: HTTP Server started on port 443
+Log ID: 4860
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:18:47
+
+Log ID: 4861
+Message: HTTP Server started on port 443
+Log ID: 4862
+
+Time: 2021.Aug.22 - 14:19:47
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:19:47
+
+Log ID: 4863
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:20:00
+
+Log ID: 4864
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:20:00
+
+Log ID: 4865
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 14:20:53
+Log ID: 4866
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:20:53
+
+Log ID: 4867
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:22:09
+
+Log ID: 4868
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:22:09
+
+Log ID: 4869
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:25:02
+
+Log ID: 4870
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:25:02
+
+Log ID: 4871
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 14:27:45
+Log ID: 4872
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:27:45
+
+Log ID: 4873
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:29:21
+
+Log ID: 4874
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:29:21
+
+Log ID: 4875
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:29:22
+Log ID: 4876
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:29:22
+
+Log ID: 4877
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:30:29
+
+Log ID: 4878
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:30:29
+
+Log ID: 4879
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:34:19
+
+Log ID: 4880
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:34:19
+
+Log ID: 4881
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 14:37:20
+Log ID: 4882
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:37:20
+
+Log ID: 4883
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:37:29
+
+Log ID: 4884
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:37:29
+
+Log ID: 4885
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:37:45
+Log ID: 4886
+
+Time: 2021.Aug.22 - 14:37:45
+
+Message: HTTPS Server started on port 80
+Log ID: 4887
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:38:10
+
+Log ID: 4888
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:38:10
+
+Log ID: 4889
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:38:30
+
+Log ID: 4890
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:38:30
+
+Log ID: 4891
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:38:34
+
+Log ID: 4892
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:38:34
+
+Log ID: 4893
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:38:51
+
+Log ID: 4894
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:38:51
+
+Log ID: 4895
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.22 - 14:39:21
+Log ID: 4896
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 14:39:28
+Log ID: 4897
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:40:52
+
+Log ID: 4898
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:40:52
+
+Log ID: 4899
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:42:50
+
+Log ID: 4900
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:42:50
+
+Log ID: 4901
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:42:55
+
+Log ID: 4902
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:42:55
+
+Log ID: 4903
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 14:43:04
+
+Log ID: 4904
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.22 - 14:43:35
+Log ID: 4905
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.22 - 14:43:51
+Log ID: 4906
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Aug.22 - 14:44:46
+Log ID: 4907
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:48:40
+
+Log ID: 4908
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:48:40
+
+Log ID: 4909
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:48:52
+
+Log ID: 4910
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:48:52
+
+Log ID: 4911
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 14:50:32
+
+Log ID: 4912
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 14:50:32
+
+Log ID: 4913
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.22 - 14:58:36
+Log ID: 4914
+Message: zoli1228 bejelentkezett.
+Time: 2021.Aug.22 - 14:58:48
+
+Log ID: 4915
+Message: zoli1228 kijelentkezett.
+Time: 2021.Aug.22 - 14:59:03
+
+Log ID: 4916
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 14:59:09
+
+Log ID: 4917
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 14:59:30
+
+Log ID: 4918
+Log ID: 4919
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:41:11
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:41:11
+
+Log ID: 4920
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:42:47
+
+Log ID: 4921
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:42:47
+
+Log ID: 4922
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:43:49
+
+Log ID: 4923
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:43:49
+
+Log ID: 4924
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:43:54
+
+Log ID: 4925
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:43:54
+
+Log ID: 4926
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:45:00
+
+Log ID: 4927
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:45:00
+
+Log ID: 4928
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:46:15
+
+Log ID: 4929
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:46:15
+
+Log ID: 4930
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 16:55:45
+
+Log ID: 4931
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 16:55:45
+
+Log ID: 4932
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:05:45
+
+Log ID: 4933
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:05:45
+
+Log ID: 4934
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:07:13
+
+Log ID: 4935
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:07:13
+
+Log ID: 4936
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:07:21
+
+Log ID: 4937
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:07:21
+
+Log ID: 4938
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:11:05
+
+Log ID: 4939
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:11:05
+
+Log ID: 4940
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:14:23
+
+Log ID: 4941
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:14:23
+
+Log ID: 4942
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:16:09
+
+Log ID: 4943
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:16:09
+
+Log ID: 4944
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:16:32
+
+Log ID: 4945
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:16:32
+
+Log ID: 4946
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:21:37
+
+Log ID: 4947
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:21:37
+
+Log ID: 4948
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:22:50
+
+Log ID: 4949
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:22:50
+
+Log ID: 4950
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 18:23:29
+Log ID: 4951
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:23:29
+
+Log ID: 4952
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 18:24:56
+Log ID: 4953
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:24:56
+
+Log ID: 4954
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:29:14
+
+Log ID: 4955
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:29:14
+
+Log ID: 4956
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:30:24
+
+Log ID: 4957
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:30:24
+
+Log ID: 4958
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:31:45
+
+Log ID: 4959
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:31:45
+
+Log ID: 4960
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:32:21
+
+Log ID: 4961
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:32:21
+
+Log ID: 4962
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:34:01
+
+Log ID: 4963
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:34:01
+
+Log ID: 4964
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:35:15
+
+Log ID: 4965
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:35:15
+
+Log ID: 4966
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:35:55
+
+Log ID: 4967
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:35:55
+
+Log ID: 4968
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:36:32
+
+Log ID: 4969
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:36:32
+
+Log ID: 4970
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 18:37:17
+
+Log ID: 4971
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:39:08
+
+Log ID: 4972
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:39:08
+
+Log ID: 4973
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:42:05
+
+Log ID: 4974
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:42:05
+
+Log ID: 4975
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:45:02
+
+Log ID: 4976
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:45:02
+
+Log ID: 4977
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:45:12
+
+Log ID: 4978
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:45:12
+
+Log ID: 4979
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:46:29
+
+Log ID: 4980
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:46:29
+
+Log ID: 4981
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.22 - 18:48:06
+Log ID: 4982
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:48:58
+
+Log ID: 4983
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:48:59
+
+Log ID: 4984
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 18:49:40
+
+Log ID: 4985
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 18:57:20
+
+Log ID: 4986
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 18:57:20
+
+Log ID: 4987
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 19:01:06
+Log ID: 4988
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:01:06
+
+Log ID: 4989
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 19:01:22
+
+Log ID: 4990
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:01:22
+
+Log ID: 4991
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.22 - 19:06:13
+Log ID: 4992
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 19:14:48
+
+Log ID: 4993
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 19:15:01
+
+Log ID: 4994
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 19:16:18
+
+Log ID: 4995
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:16:18
+
+Log ID: 4996
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 19:16:30
+
+Log ID: 4997
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:16:30
+
+Log ID: 4998
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 19:16:49
+
+Log ID: 4999
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:16:49
+
+Log ID: 5000
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 19:17:07
+
+Log ID: 5001
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 19:17:34
+
+Log ID: 5002
+Message: admin kijelentkezett.
+Time: 2021.Aug.22 - 19:17:41
+
+Log ID: 5003
+Message: admin bejelentkezett.
+Time: 2021.Aug.22 - 19:17:50
+
+Log ID: 5004
+Time: 2021.Aug.22 - 19:19:01
+Message: HTTP Server started on port 443
+Log ID: 5005
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:19:01
+
+Log ID: 5006
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.22 - 19:20:45
+Log ID: 5007
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:20:45
+
+Log ID: 5008
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 19:20:52
+
+Log ID: 5009
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 19:20:52
+
+Log ID: 5010
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.22 - 19:21:19
+
+Log ID: 5011
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.22 - 19:21:35
+
+Log ID: 5012
+Message: HTTP Server started on port 443
+Time: 2021.Aug.22 - 23:29:56
+
+Log ID: 5013
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.22 - 23:29:56
+
+Log ID: 5014
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:05:21
+
+Log ID: 5015
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:05:21
+
+Log ID: 5016
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:10:53
+
+Log ID: 5017
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:10:53
+
+Log ID: 5018
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:13:33
+
+Log ID: 5019
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:13:33
+
+Log ID: 5020
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:13:41
+
+Log ID: 5021
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:13:41
+
+Log ID: 5022
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:14:08
+
+Log ID: 5023
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:14:08
+
+Log ID: 5024
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:14:34
+
+Log ID: 5025
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:14:34
+
+Log ID: 5026
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:15:06
+
+Log ID: 5027
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:15:06
+
+Log ID: 5028
+Message: HTTP Server started on port 443
+Log ID: 5029
+Time: 2021.Aug.23 - 0:15:09
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:15:09
+
+
+Log ID: 5030
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:18:24
+
+Log ID: 5031
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:18:24
+
+Log ID: 5032
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:19:44
+
+Log ID: 5033
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:19:44
+
+Log ID: 5034
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:20:02
+
+Log ID: 5035
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:20:02
+
+Log ID: 5036
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:21:01
+
+Log ID: 5037
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:21:01
+
+Log ID: 5038
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 0:21:10
+Log ID: 5039
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:23:02
+
+Log ID: 5040
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:23:02
+
+Log ID: 5041
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:23:49
+
+Log ID: 5042
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:23:49
+
+Log ID: 5043
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:24:09
+
+Log ID: 5044
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:24:09
+
+Log ID: 5045
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:24:47
+
+Log ID: 5046
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:24:47
+
+Log ID: 5047
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 0:24:56
+
+Log ID: 5048
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:28:49
+
+Log ID: 5049
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:28:49
+
+Log ID: 5050
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:29:23
+
+Log ID: 5051
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:29:23
+
+Log ID: 5052
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 0:29:31
+Log ID: 5053
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 0:31:02
+Log ID: 5054
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:32:34
+
+Log ID: 5055
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:32:34
+
+Log ID: 5056
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:34:32
+
+Log ID: 5057
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:34:32
+
+Log ID: 5058
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:36:00
+
+Log ID: 5059
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:36:00
+
+Log ID: 5060
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:37:01
+
+Log ID: 5061
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:37:01
+
+Log ID: 5062
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 0:38:19
+
+Log ID: 5063
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:39:45
+
+Log ID: 5064
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:39:45
+
+Log ID: 5065
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:40:52
+
+Log ID: 5066
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.23 - 0:40:52
+Log ID: 5067
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:41:12
+
+Log ID: 5068
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:41:12
+
+Log ID: 5069
+Time: 2021.Aug.23 - 0:42:01
+Message: HTTP Server started on port 443
+
+Log ID: 5070
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:42:01
+
+Log ID: 5071
+Message: hiba!!!
+Time: 2021.Aug.23 - 0:42:03
+
+Log ID: 5072
+Message: hiba!!!
+Time: 2021.Aug.23 - 0:42:09
+
+Log ID: 5073
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:42:21
+Log ID: 5074
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:42:21
+
+
+Log ID: 5075
+Message: hiba!!!MongoError: E11000 duplicate key error collection: evak.worklists index: workID_1 dup key: { workID: null }
+Time: 2021.Aug.23 - 0:42:24
+
+Log ID: 5076
+Message: HTTP Server started on port 443
+
+Log ID: 5077
+Time: 2021.Aug.23 - 0:43:10
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.23 - 0:43:10
+Log ID: 5078
+Message: hiba!!!MongoError: E11000 duplicate key error collection: evak.worklists index: workID_1 dup key: { workID: null }
+Time: 2021.Aug.23 - 0:43:14
+
+Log ID: 5079
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.23 - 0:43:24
+Log ID: 5080
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:43:24
+
+Log ID: 5081
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 0:43:27
+
+Log ID: 5082
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 0:43:37
+Log ID: 5083
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.23 - 0:43:58
+Log ID: 5084
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:43:58
+
+Log ID: 5085
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:44:05
+
+Log ID: 5086
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:44:05
+
+Log ID: 5087
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 0:45:59
+
+Log ID: 5088
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 0:46:17
+
+Log ID: 5089
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.23 - 0:52:55
+Log ID: 5090
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:52:55
+
+Log ID: 5091
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:54:16
+
+Log ID: 5092
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:54:16
+
+Log ID: 5093
+Message: 970496
+Time: 2021.Aug.23 - 0:54:25
+
+Log ID: 5094
+Time: 2021.Aug.23 - 0:54:34
+Message: 552111
+
+Log ID: 5095
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:54:59
+
+Log ID: 5096
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:54:59
+
+Log ID: 5097
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:59:19
+
+Log ID: 5098
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:59:19
+
+Log ID: 5099
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 0:59:36
+
+Log ID: 5100
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 0:59:36
+
+Log ID: 5101
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 1:01:11
+
+Log ID: 5102
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 1:01:27
+
+Log ID: 5103
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 1:01:30
+
+Log ID: 5104
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 1:01:33
+
+Log ID: 5105
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 1:02:58
+Log ID: 5106
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 1:03:06
+
