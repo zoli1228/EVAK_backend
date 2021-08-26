@@ -29,10 +29,11 @@ let sslOptions = {
 try {
   http.createServer(httpApp).listen(httpPort)
   myLogger(`HTTP Server started on port ${httpPort}`)
-  https.createServer(sslOptions, app).listen(httpsPort);
-  myLogger(`HTTPS Server started on port ${httpsPort}`);
-} catch(err) {
-  return myLogger("Hiba a szerver indítása során.")
+  https.createServer(sslOptions, app).listen(httpsPort)
+  myLogger(`HTTPS Server started on port ${httpsPort}`)
+
+} catch (err) {
+  return myLogger("Hiba a szerver indítása során. Hibaüzenet: " + err)
 }
 
 httpApp.get("*", function (req, res, next) {

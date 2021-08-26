@@ -19031,3 +19031,2850 @@ Log ID: 5106
 Message: Sikeres adatbeküldés
 Time: 2021.Aug.23 - 1:03:06
 
+Log ID: 5107
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 11:25:56
+Log ID: 5108
+
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.23 - 11:25:56
+Log ID: 5109
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.23 - 11:56:41
+Log ID: 5110
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 11:56:41
+
+Log ID: 5111
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.23 - 12:08:05
+Log ID: 5112
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 12:08:05
+
+Log ID: 5113
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 12:13:45
+
+Log ID: 5114
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 12:13:45
+
+Log ID: 5115
+Message: hiba!!!ValidationError: category: Path `category` is required., workprice: Path `workprice` is required.
+Time: 2021.Aug.23 - 12:51:46
+
+Log ID: 5116
+Message: hiba!!!ValidationError: category: Path `category` is required.
+Time: 2021.Aug.23 - 12:52:43
+
+Log ID: 5117
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 12:53:40
+Log ID: 5118
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 12:53:40
+
+Log ID: 5119
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 12:53:41
+
+Log ID: 5120
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 13:02:28
+
+Log ID: 5121
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 13:02:28
+
+Log ID: 5122
+Message: HTTP Server started on port 443
+Time: 2021.Aug.23 - 13:03:12
+
+Log ID: 5123
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.23 - 13:03:12
+
+Log ID: 5124
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:03:21
+
+Log ID: 5125
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:03:30
+
+Log ID: 5126
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.23 - 13:04:28
+Log ID: 5127
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:36:14
+
+Log ID: 5128
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:38:07
+
+Log ID: 5129
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:38:27
+
+Log ID: 5130
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:38:58
+
+Log ID: 5131
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.23 - 13:52:36
+
+Log ID: 5132
+Time: 2021.Aug.23 - 13:53:34
+Message: Sikeres adatbeküldés
+
+Log ID: 5133
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:18:27
+
+Log ID: 5134
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:18:27
+
+Log ID: 5135
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:19:52
+
+Log ID: 5136
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:19:52
+
+Log ID: 5137
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:20:17
+
+Log ID: 5138
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:20:17
+
+Log ID: 5139
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:20:31
+
+Log ID: 5140
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:20:31
+
+Log ID: 5141
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:22:15
+
+Log ID: 5142
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:22:15
+
+Log ID: 5143
+Message: HTTP Server started on port 80
+Time: 2021.Aug.24 - 5:22:52
+
+Log ID: 5144
+Message: HTTPS Server started on port 443
+Time: 2021.Aug.24 - 5:22:52
+
+Log ID: 5145
+Message: HTTP Server started on port 80
+Time: 2021.Aug.24 - 5:23:32
+
+Log ID: 5146
+Message: Hiba a szerver indítása során.
+Time: 2021.Aug.24 - 5:23:33
+
+Log ID: 5147
+Message: HTTP Server started on port 80
+Time: 2021.Aug.24 - 5:23:56
+
+Log ID: 5148
+Message: Hiba a szerver indítása során. Hibaüzenet: TypeError: http.createServer(...).listen(...).then is not a function
+Time: 2021.Aug.24 - 5:23:56
+
+Log ID: 5149
+
+Message: HTTP Server started on port 80
+Time: 2021.Aug.24 - 5:24:29
+Log ID: 5150
+Message: HTTPS Server started on port 443
+Time: 2021.Aug.24 - 5:24:29
+
+Log ID: 5151
+Message: HTTP Server started on port 80
+Time: 2021.Aug.24 - 5:25:22
+
+Log ID: 5152
+Message: HTTPS Server started on port 443
+Time: 2021.Aug.24 - 5:25:22
+
+Log ID: 5153
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:27:50
+
+Log ID: 5154
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:27:50
+
+Log ID: 5155
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:35:14
+
+Log ID: 5156
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:35:14
+
+Log ID: 5157
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:35:50
+
+Log ID: 5158
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:35:50
+
+Log ID: 5159
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.24 - 5:42:55
+Log ID: 5160
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:42:55
+
+Log ID: 5161
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:48:55
+
+Log ID: 5162
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:48:55
+
+Log ID: 5163
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:50:14
+
+Log ID: 5164
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:50:14
+
+Log ID: 5165
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:59:12
+
+Log ID: 5166
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:59:12
+
+Log ID: 5167
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:59:47
+
+Log ID: 5168
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:59:47
+
+Log ID: 5169
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 5:59:54
+
+Log ID: 5170
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 5:59:54
+
+Log ID: 5171
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 6:00:38
+
+Log ID: 5172
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 6:00:38
+
+Log ID: 5173
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 6:15:21
+
+Log ID: 5174
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 6:15:21
+
+Log ID: 5175
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 6:17:21
+
+Log ID: 5176
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 6:17:21
+
+Log ID: 5177
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 7:03:58
+
+Log ID: 5178
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 7:03:58
+
+Log ID: 5179
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 14:39:20
+
+Log ID: 5180
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 14:39:20
+
+Log ID: 5181
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 14:40:23
+
+Log ID: 5182
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 14:40:23
+
+Log ID: 5183
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 14:47:54
+
+Log ID: 5184
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 14:47:54
+
+Log ID: 5185
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:01:24
+
+Log ID: 5186
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:01:24
+
+Log ID: 5187
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:06:15
+
+Log ID: 5188
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:06:15
+
+Log ID: 5189
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:11:23
+
+Log ID: 5190
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:11:23
+
+Log ID: 5191
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: added_at: Path `added_at` is required.
+
+Time: 2021.Aug.24 - 15:13:44
+Log ID: 5192
+Time: 2021.Aug.24 - 15:14:54
+Message: HTTP Server started on port 443
+
+Log ID: 5193
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:14:54
+
+Log ID: 5194
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:17:12
+Log ID: 5195
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:19:03
+
+Log ID: 5196
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:19:03
+
+Log ID: 5197
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:19:21
+
+Log ID: 5198
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:19:48
+
+Log ID: 5199
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:19:48
+
+Log ID: 5200
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:21:02
+
+Log ID: 5201
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:21:02
+
+Log ID: 5202
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:21:06
+Log ID: 5203
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:24:01
+
+Log ID: 5204
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:24:02
+
+Log ID: 5205
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.24 - 15:24:08
+
+Log ID: 5206
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:24:41
+
+Log ID: 5207
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:24:41
+
+Log ID: 5208
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: title_1 dup key: { title: "Műanyag védőcső 13mm" }
+Time: 2021.Aug.24 - 15:24:44
+
+Log ID: 5209
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.24 - 15:24:57
+
+Log ID: 5210
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:25:30
+
+Log ID: 5211
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:25:30
+
+Log ID: 5212
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:27:48
+
+Log ID: 5213
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:29:10
+
+Log ID: 5214
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:32:30
+
+Log ID: 5215
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:33:14
+
+Log ID: 5216
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:33:14
+
+Log ID: 5217
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:33:35
+
+Log ID: 5218
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:33:35
+
+Log ID: 5219
+
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:39:20
+Log ID: 5220
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:39:58
+
+Log ID: 5221
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:41:44
+
+Log ID: 5222
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:41:44
+
+Log ID: 5223
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:41:44
+
+Log ID: 5224
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:42:09
+
+Log ID: 5225
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:42:09
+
+Log ID: 5226
+
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required., category: Path `category` is required.
+Time: 2021.Aug.24 - 15:42:17
+Log ID: 5227
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:42:48
+
+Log ID: 5228
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:42:48
+
+Log ID: 5229
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:42:52
+Log ID: 5230
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.24 - 15:44:34
+
+Log ID: 5231
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:45:17
+
+Log ID: 5232
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:45:17
+
+Log ID: 5233
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:45:32
+Log ID: 5234
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:46:35
+
+Log ID: 5235
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.24 - 15:46:35
+Log ID: 5236
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.24 - 15:47:01
+Log ID: 5237
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:47:01
+
+Log ID: 5238
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:47:21
+Log ID: 5239
+Message: HTTP Server started on port 443
+Time: 2021.Aug.24 - 15:48:08
+
+Log ID: 5240
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:48:08
+
+Log ID: 5241
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:48:50
+Log ID: 5242
+Message: Sikeres adatbeküldés
+Time: 2021.Aug.24 - 15:49:48
+
+Log ID: 5243
+Message: Sikeres adatbeküldés
+
+Time: 2021.Aug.24 - 15:51:57
+Log ID: 5244
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.24 - 15:52:34
+Log ID: 5245
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.24 - 15:52:34
+
+Log ID: 5246
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'fasfas', value: 'asfasf' },
+    { key: 'fasfas', value: 'afsfas' },
+    { key: 'fassfa', value: 'fassfa' }
+  ],
+  _id: 6124fa13fd6ae23f603ce7db,
+  title: 'asffasfas',
+  price: 2142,
+  category: 'segédanyagok',
+  added_at: '2021.Aug.24 - 15:54:27',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.24 - 15:54:27
+Log ID: 5247
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'fasfas', value: 'asfasf' },
+    { key: 'fasfas', value: 'afsfas' },
+    { key: 'fassfa', value: 'fassfa' },
+    { key: 'fasf', value: 'fsafas' }
+  ],
+  _id: 6124fa1dfd6ae23f603ce7dc,
+  title: 'asffasfasasffas',
+  price: 21422,
+  category: 'segédanyagok',
+  added_at: '2021.Aug.24 - 15:54:37',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:54:37
+
+Log ID: 5248
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfafs', value: 'asffas' },
+    { key: 'asffas', value: 'asffas' },
+    { key: 'asfasf', value: 'fasfas' }
+  ],
+  _id: 6124fa73fd6ae23f603ce7dd,
+  title: 'asffasf2afs',
+  price: 21,
+  category: 'bilincsek',
+  added_at: '2021.Aug.24 - 15:56:03',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:56:03
+
+Log ID: 5249
+
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfafs', value: 'asffas' },
+    { key: 'asffas', value: 'asffas' },
+    { key: 'asfasf', value: 'fasfas' },
+    { key: 'fasafs', value: 'fasfas' }
+  ],
+  _id: 6124fa7bfd6ae23f603ce7de,
+  title: 'asffasf2afsasf',
+  price: 21,
+  category: 'bilincsek',
+  added_at: '2021.Aug.24 - 15:56:11',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:56:11
+Log ID: 5250
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'asfasf' },
+    { key: 'fasafs', value: 'fasfas' }
+  ],
+  _id: 6124faa3fd6ae23f603ce7df,
+  title: 'afsfas',
+  price: 232,
+  category: 'elágazódobozok',
+  added_at: '2021.Aug.24 - 15:56:51',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:56:51
+
+Log ID: 5251
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'asfasf' },
+    { key: 'fasafs', value: 'fasfas' },
+    { key: 'afas', value: 'asffas' }
+  ],
+  _id: 6124fab0fd6ae23f603ce7e0,
+  title: 'afsfasasf',
+  price: 2322,
+  category: 'sokrapcsok',
+  added_at: '2021.Aug.24 - 15:57:04',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:57:04
+
+Log ID: 5252
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: title_1 dup key: { title: "afsfasasf" }
+
+Time: 2021.Aug.24 - 15:57:16
+Log ID: 5253
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'asfasf' },
+    { key: 'fasafs', value: 'fasfas' },
+    { key: 'afas', value: 'asffas' }
+  ],
+  _id: 6124fac7fd6ae23f603ce7e2,
+  title: 'afsfasasfs',
+  price: 2322,
+  category: 'sokrapcsok',
+  added_at: '2021.Aug.24 - 15:57:27',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.24 - 15:57:27
+Log ID: 5254
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'asfasf' },
+    { key: 'asfasf', value: 'fasfas' }
+  ],
+  _id: 6124fae2fd6ae23f603ce7e3,
+  title: 'asfasf',
+  price: 214,
+  category: 'védőcsövek',
+  added_at: '2021.Aug.24 - 15:57:54',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:57:54
+
+Log ID: 5255
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'fasfas' },
+    { key: 'asfsfa', value: 'fasfas' },
+    { key: 'asfasf', value: 'asfsfa' }
+  ],
+  _id: 6124fb4dfd6ae23f603ce7e4,
+  title: 'fasfas',
+  price: 241,
+  category: 'elágazódobozok',
+  added_at: '2021.Aug.24 - 15:59:41',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:59:41
+
+Log ID: 5256
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'fasfas' },
+    { key: 'asfsfa', value: 'fasfas' },
+    { key: 'asfasf', value: 'asfsfa' },
+    { key: 'fasfas', value: 'asffas' }
+  ],
+  _id: 6124fb54fd6ae23f603ce7e5,
+  title: 'fasfasasf',
+  price: 2412,
+  category: 'elágazódobozok',
+  added_at: '2021.Aug.24 - 15:59:48',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.24 - 15:59:48
+
+Log ID: 5257
+Message: HTTP Server started on port 443
+Log ID: 5258
+Time: 2021.Aug.25 - 11:10:30
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:10:30
+
+Log ID: 5259
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:34:43
+
+Log ID: 5260
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:34:43
+
+Log ID: 5261
+Message: Hiba az anyaglista elérése közben. Hibaüzenet: ReferenceError: Cannot access 'result' before initialization
+Time: 2021.Aug.25 - 11:36:08
+
+Log ID: 5262
+Message: Hiba az anyaglista elérése közben. Hibaüzenet: ReferenceError: Cannot access 'result' before initialization
+
+Time: 2021.Aug.25 - 11:37:09
+Log ID: 5263
+Message: Hiba az anyaglista elérése közben. Hibaüzenet: ReferenceError: Cannot access 'result' before initialization
+Time: 2021.Aug.25 - 11:38:10
+
+Log ID: 5264
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:39:09
+
+Log ID: 5265
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:39:09
+
+Log ID: 5266
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:39:42
+
+Log ID: 5267
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:39:42
+
+Log ID: 5268
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:40:27
+
+Log ID: 5269
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:40:27
+
+Log ID: 5270
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:41:21
+
+Log ID: 5271
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:41:21
+
+Log ID: 5272
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:41:37
+
+Log ID: 5273
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:41:37
+
+Log ID: 5274
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:43:31
+
+Log ID: 5275
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:43:31
+
+Log ID: 5276
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:45:26
+
+Log ID: 5277
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:45:26
+
+Log ID: 5278
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:46:58
+
+Log ID: 5279
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:46:58
+
+Log ID: 5280
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'Gyártó', value: 'Pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü ii' }
+  ],
+  _id: 612611db019c5b2678895124,
+  title: 'Műanyag védőcső 13mm átmérő',
+  price: 86,
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 11:48:11',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 11:48:11
+
+Log ID: 5281
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:52:26
+
+Log ID: 5282
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:52:26
+
+Log ID: 5283
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:52:47
+
+Log ID: 5284
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:52:47
+
+Log ID: 5285
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:55:47
+
+Log ID: 5286
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:55:47
+
+Log ID: 5287
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 11:58:42
+
+Log ID: 5288
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:58:42
+
+Message: HTTP Server started on port 443
+Log ID: 5289
+Log ID: 5290
+
+Time: 2021.Aug.25 - 11:59:36
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 11:59:36
+
+Log ID: 5291
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:03:05
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:03:05
+
+Log ID: 5292
+Log ID: 5293
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:04:31
+
+Log ID: 5294
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:04:31
+
+Log ID: 5295
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:05:53
+
+Log ID: 5296
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:05:53
+
+Log ID: 5297
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:06:45
+
+Log ID: 5298
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:06:45
+
+Log ID: 5299
+Message: HTTP Server started on port 443
+
+Log ID: 5300
+Time: 2021.Aug.25 - 12:08:45
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:08:45
+
+Log ID: 5301
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:13:00
+
+Log ID: 5302
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:13:00
+
+Log ID: 5303
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:17:07
+
+Log ID: 5304
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:17:07
+
+Log ID: 5305
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:17:38
+
+Log ID: 5306
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:17:38
+
+Log ID: 5307
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:18:23
+
+Log ID: 5308
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:18:23
+
+Log ID: 5309
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:19:13
+
+Log ID: 5310
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:19:13
+
+Log ID: 5311
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:22:46
+
+Log ID: 5312
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:22:46
+
+Log ID: 5313
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:24:17
+
+Log ID: 5314
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:24:17
+
+Log ID: 5315
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'GYÁRTÓ', value: 'PipElIfe' },
+    { key: 'Hossz', value: '2,5FM' }
+  ],
+  _id: 61261a8a0148291dd82adaec,
+  title: 'műanyag védőcső 16mm átmérő',
+  price: 95,
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 12:25:14',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 12:25:14
+
+Log ID: 5316
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 12:28:31
+Log ID: 5317
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:28:31
+
+Log ID: 5318
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:29:01
+
+Log ID: 5319
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:29:01
+
+Log ID: 5320
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:29:53
+
+Log ID: 5321
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:29:53
+
+Log ID: 5322
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'falikar', value: '200' },
+    { key: 'kolbász', value: '400' },
+    { key: 'FAAPAPUCS', value: 'KoLBáSz' }
+  ],
+  _id: 61261bab56bce71d94bae8c6,
+  title: 'műanyag védőcső 20mm átmérő',
+  price: 95,
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 12:30:03',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 12:30:03
+Log ID: 5323
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:30:25
+
+Log ID: 5324
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:30:25
+
+Log ID: 5325
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: title_1 dup key: { title: "műanyag védőcső 20mm átmérő" }
+Time: 2021.Aug.25 - 12:30:28
+
+Log ID: 5326
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:30:37
+
+Log ID: 5327
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:30:37
+
+Log ID: 5328
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: title_1 dup key: { title: "műanyag védőcső 20mm átmérő" }
+Time: 2021.Aug.25 - 12:30:47
+
+Log ID: 5329
+Message: HTTP Server started on port 443
+Log ID: 5330
+Time: 2021.Aug.25 - 12:33:06
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:33:06
+
+Log ID: 5331
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: title_1 dup key: { title: "műanyag védőcső 20mm átmérő" }
+Time: 2021.Aug.25 - 12:33:48
+
+Log ID: 5332
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:34:06
+
+Log ID: 5333
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:34:06
+
+Log ID: 5334
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'típus', value: 'mü ii' },
+    { key: 'köteg', value: '100fm' }
+  ],
+  _id: 61261d0972739b1948123424,
+  title: 'műanyag védőcső 13mm',
+  price: 86,
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 12:35:53',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 12:35:53
+Log ID: 5335
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:46:43
+
+Log ID: 5336
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:46:43
+
+Log ID: 5337
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:48:08
+
+Log ID: 5338
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:48:08
+
+Log ID: 5339
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:49:01
+
+Log ID: 5340
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:49:01
+
+Log ID: 5341
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:49:32
+Log ID: 5342
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:49:32
+
+Log ID: 5343
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:49:43
+
+Log ID: 5344
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:49:43
+
+Log ID: 5345
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:50:07
+
+Log ID: 5346
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:50:07
+
+Log ID: 5347
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:50:49
+
+Log ID: 5348
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:50:49
+
+Log ID: 5349
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 12:54:06
+
+Log ID: 5350
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 12:54:06
+
+Log ID: 5351
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'gyártó', value: 'hager' } ],
+  _id: 612621777027131a342db9d6,
+  title: 'elosztó2',
+  price: 84,
+  category: 'elosztó szekrények',
+  added_at: '2021.Aug.25 - 12:54:47',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 12:54:47
+Log ID: 5352
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'gyártó', value: 'hager' } ],
+  _id: 6126217a7027131a342db9d7,
+  title: 'elosztó3',
+  price: 84,
+  category: 'elosztó szekrények',
+  added_at: '2021.Aug.25 - 12:54:50',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 12:54:50
+
+Log ID: 5353
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'gyártó', value: 'hager' } ],
+  _id: 612621807027131a342db9d8,
+  title: 'elosztó4',
+  price: 84,
+  category: 'elosztó szekrények',
+  added_at: '2021.Aug.25 - 12:54:56',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 12:54:56
+
+Log ID: 5354
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'gyártó', value: 'pipelife' } ],
+  _id: 6126223b7027131a342db9d9,
+  title: 'cső2',
+  price: 84,
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 12:58:03',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 12:58:03
+
+Log ID: 5355
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'gyártó', value: 'pipelife' } ],
+  _id: 6126223e7027131a342db9da,
+  title: 'cső3',
+  price: 84,
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 12:58:06',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 12:58:06
+
+Log ID: 5356
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:02:06
+
+Log ID: 5357
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:02:06
+
+Log ID: 5358
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:10:26
+
+Log ID: 5359
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:10:26
+
+Log ID: 5360
+Message: HTTP Server started on port 443
+
+Log ID: 5361
+Time: 2021.Aug.25 - 13:14:42
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:14:42
+
+Log ID: 5362
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:15:16
+
+Log ID: 5363
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:15:16
+
+Log ID: 5364
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:18:01
+
+Log ID: 5365
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:18:01
+
+Log ID: 5366
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:20:47
+
+Log ID: 5367
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:20:47
+
+Log ID: 5368
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:21:30
+
+Log ID: 5369
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:21:30
+
+Log ID: 5370
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:28:02
+
+Log ID: 5371
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:28:02
+
+Log ID: 5372
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:28:41
+
+Log ID: 5373
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:28:41
+
+Log ID: 5374
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 13:29:36
+
+Log ID: 5375
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 13:29:36
+
+Log ID: 5376
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:26:14
+
+Log ID: 5377
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:26:14
+
+Log ID: 5378
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 15:26:52
+Log ID: 5379
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:26:52
+
+Log ID: 5380
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:29:14
+
+Log ID: 5381
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:29:15
+
+Log ID: 5382
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:30:25
+
+Log ID: 5383
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:30:25
+
+Log ID: 5384
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:31:48
+
+Log ID: 5385
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:31:48
+
+Log ID: 5386
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:32:51
+
+Log ID: 5387
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:32:51
+
+Log ID: 5388
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:33:39
+
+Log ID: 5389
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:33:39
+
+Log ID: 5390
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 15:34:24
+Log ID: 5391
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:34:24
+
+Log ID: 5392
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:38:06
+
+Log ID: 5393
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:38:06
+
+Log ID: 5394
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:38:40
+
+Log ID: 5395
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:38:40
+
+Log ID: 5396
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:39:13
+
+Log ID: 5397
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:39:13
+
+Log ID: 5398
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:41:18
+
+Log ID: 5399
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:41:18
+
+Log ID: 5400
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:41:53
+
+Log ID: 5401
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:41:53
+
+Log ID: 5402
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:42:53
+
+Log ID: 5403
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:42:53
+
+Log ID: 5404
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:43:15
+Log ID: 5405
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:43:15
+
+Log ID: 5406
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:43:35
+Log ID: 5407
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:43:35
+
+Log ID: 5408
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:44:50
+
+Log ID: 5409
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:44:50
+
+Log ID: 5410
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:45:08
+
+Log ID: 5411
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:45:08
+
+Log ID: 5412
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 15:46:41
+
+Log ID: 5413
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 15:46:41
+
+Log ID: 5414
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü iii' }
+  ],
+  _id: 61264a06e3a964319cbb9f37,
+  title: 'műanyag védőcső 13mm átmérő',
+  price: '86',
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 15:47:50',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 15:47:50
+Log ID: 5415
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü iii' }
+  ],
+  _id: 61264a0fe3a964319cbb9f38,
+  title: 'műanyag védőcső 16mm átmérő',
+  price: '95',
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 15:47:59',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 15:47:59
+
+Log ID: 5416
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü iii' }
+  ],
+  _id: 61264a30e3a964319cbb9f39,
+  title: 'műanyag védőcső 20mm átmérő',
+  price: '95',
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 15:48:32',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 15:48:32
+
+Log ID: 5417
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü iii' }
+  ],
+  _id: 61264a33e3a964319cbb9f3a,
+  title: 'műanyag védőcső 200mm átmérő',
+  price: '95',
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 15:48:35',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 15:48:35
+Log ID: 5418
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 22:07:35
+
+Log ID: 5419
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 22:07:35
+
+Log ID: 5420
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'pipelife' },
+    { key: 'hossz', value: '2,5fm' },
+    { key: 'köteg', value: '100fm' },
+    { key: 'típus', value: 'mü ii' }
+  ],
+  _id: 6126a365a91ef135642551d9,
+  title: 'műanyag védőcső 13mm átmérő',
+  price: '86',
+  category: 'védőcsövek',
+  added_at: '2021.Aug.25 - 22:09:09',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 22:09:09
+Log ID: 5421
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: tags_1 dup key: { tags: { key: "gyártó", value: "pipelife" } }
+Time: 2021.Aug.25 - 22:09:30
+
+Log ID: 5422
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: tags_1 dup key: { tags: { key: "hossz", value: "2,5fm" } }
+Time: 2021.Aug.25 - 22:10:02
+
+Log ID: 5423
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: MongoError: E11000 duplicate key error collection: evak.materials index: tags_1 dup key: { tags: { key: "hossz", value: "2,5fm" } }
+Time: 2021.Aug.25 - 22:10:08
+
+Log ID: 5424
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 22:10:49
+
+Log ID: 5425
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 22:10:49
+
+Log ID: 5426
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 22:12:49
+
+Log ID: 5427
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 22:12:49
+
+Log ID: 5428
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'jancsi', value: '12' }, { key: 'béla', value: '23' } ],
+  _id: 6126a4604d28cb2ddcd8606f,
+  title: 'kolbász',
+  price: '12',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:13:20',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 22:13:20
+Log ID: 5429
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'béluci', value: '23' }, { key: 'józsika', value: '32' } ],
+  _id: 6126a4774d28cb2ddcd86070,
+  title: 'kolbászok',
+  price: '120',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:13:43',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:13:43
+
+Log ID: 5430
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'béluci', value: '23' }, { key: 'józsika', value: '32' } ],
+  _id: 6126a48d4d28cb2ddcd86071,
+  title: 'kolbászok',
+  price: '120',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:14:05',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:14:05
+
+Log ID: 5431
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'béluci', value: '23' }, { key: 'józsika', value: '32' } ],
+  _id: 6126a4964d28cb2ddcd86072,
+  title: 'kolbászok',
+  price: '120',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:14:14',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:14:14
+
+Log ID: 5432
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 22:14:36
+
+Log ID: 5433
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 22:14:36
+
+Log ID: 5434
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: TypeError: reject is not a function
+
+Time: 2021.Aug.25 - 22:14:40
+Log ID: 5435
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 22:14:58
+Log ID: 5436
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 22:14:58
+
+Log ID: 5437
+
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'béluci', value: '23' }, { key: 'józsika', value: '32' } ],
+  _id: 6126a4c74a06e613d81a26ba,
+  title: 'kolbászok',
+  price: '120',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:15:03',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:15:03
+Log ID: 5438
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126a7334a06e613d81a26bb,
+  title: 'ragasztóhabarcs / gipsz',
+  price: '125',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 22:25:23',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:25:23
+
+Log ID: 5439
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'gyártó', value: 'király plusz acél' },
+    { key: 'cikkszám', value: 'rf/2 rd10' },
+    { key: 'hossz', value: '2m' },
+    { key: 'rd', value: '10' },
+    { key: 'anyag', value: 'horganyzott' }
+  ],
+  _id: 6126a8734a06e613d81a26bc,
+  title: 'rúdföldelő d20 2m horg.+horganyzott rd10 köracél',
+  price: '11800',
+  category: 'földelőrudak',
+  added_at: '2021.Aug.25 - 22:30:43',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:30:43
+
+Log ID: 5440
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126a9b64a06e613d81a26bd,
+  title: 'fasfasasf',
+  price: '241',
+  category: 'toldóhüvelyek',
+  added_at: '2021.Aug.25 - 22:36:06',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:36:06
+
+Log ID: 5441
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126a9b64a06e613d81a26be,
+  title: 'fasfasasf',
+  price: '241',
+  category: 'toldóhüvelyek',
+  added_at: '2021.Aug.25 - 22:36:06',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:36:06
+
+Log ID: 5442
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126a9bf4a06e613d81a26bf,
+  title: 'fasfas',
+  price: '124',
+  category: 'sorkapcsok',
+  added_at: '2021.Aug.25 - 22:36:15',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 22:36:15
+Log ID: 5443
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126a9bf4a06e613d81a26c0,
+  title: 'fasfas',
+  price: '124',
+  category: 'sorkapcsok',
+  added_at: '2021.Aug.25 - 22:36:15',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:36:15
+
+Log ID: 5444
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126aad74a06e613d81a26c1,
+  title: 'gdsdg',
+  price: '412',
+  category: 'elágazódobozok',
+  added_at: '2021.Aug.25 - 22:40:55',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 22:40:55
+
+Log ID: 5445
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6126ab044a06e613d81a26c2,
+  title: 'asfafs',
+  price: '241241',
+  category: 'toldóhüvelyek',
+  added_at: '2021.Aug.25 - 22:41:40',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 22:41:40
+Log ID: 5446
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'kolbász', value: 'van' } ],
+  _id: 6126ab0e4a06e613d81a26c3,
+  title: 'asfafsas',
+  price: '241241',
+  category: 'toldóhüvelyek',
+  added_at: '2021.Aug.25 - 22:41:50',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 22:41:50
+Log ID: 5447
+Message: Sikeres adatbeküldés: {
+  tags: [ { key: 'asdasd', value: 'asdsda' } ],
+  _id: 6126b4374a06e613d81a26c4,
+  title: 'kolbász',
+  price: '123',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 23:20:55',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 23:20:55
+
+Log ID: 5448
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asfasf', value: 'asfasf' },
+    { key: 'asfafs', value: 'fasfas' },
+    { key: '', value: '' }
+  ],
+  _id: 6126b4d94a06e613d81a26c5,
+  title: 'asffas',
+  price: '213',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 23:23:37',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.25 - 23:23:37
+Log ID: 5449
+
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:24:55
+Log ID: 5450
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:25:11
+
+Log ID: 5451
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:25:11
+
+Log ID: 5452
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:25:11
+
+Log ID: 5453
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'asffas', value: 'asfsfa' },
+    { key: 'asffas', value: 'fasfas' }
+  ],
+  _id: 6126b53ebe17d1347cf9434a,
+  title: 'fasfas',
+  price: '214',
+  category: 'segédanyagok',
+  added_at: '2021.Aug.25 - 23:25:18',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.25 - 23:25:18
+
+Log ID: 5454
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:25:52
+
+Log ID: 5455
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:26:22
+
+Log ID: 5456
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:26:22
+
+Log ID: 5457
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:26:22
+
+Log ID: 5458
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:26:26
+
+Log ID: 5459
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:26:26
+
+Log ID: 5460
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:26:49
+
+Log ID: 5461
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:26:49
+
+Log ID: 5462
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:26:57
+
+Log ID: 5463
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:29:03
+
+Log ID: 5464
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:29:03
+
+Log ID: 5465
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:29:07
+
+Log ID: 5466
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:29:39
+
+Log ID: 5467
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:29:51
+
+Log ID: 5468
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:30:08
+
+Log ID: 5469
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:30:34
+
+Log ID: 5470
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:30:45
+
+Log ID: 5471
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+
+Time: 2021.Aug.25 - 23:34:42
+Log ID: 5472
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:35:17
+
+Log ID: 5473
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:35:59
+
+Log ID: 5474
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:35:59
+
+Log ID: 5475
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:36:03
+
+Log ID: 5476
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:36:11
+
+Log ID: 5477
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:36:11
+
+Log ID: 5478
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:36:14
+
+Log ID: 5479
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:36:54
+
+Log ID: 5480
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:37:16
+
+Log ID: 5481
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:37:39
+
+Log ID: 5482
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:37:58
+
+Log ID: 5483
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:38:30
+Log ID: 5484
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:38:30
+
+Log ID: 5485
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:39:06
+
+Log ID: 5486
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:40:06
+
+Log ID: 5487
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:40:36
+
+Log ID: 5488
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:41:00
+
+Log ID: 5489
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:43:09
+Log ID: 5490
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:43:09
+
+Log ID: 5491
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:43:13
+
+Log ID: 5492
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:43:36
+
+Log ID: 5493
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:43:52
+
+Log ID: 5494
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:44:10
+
+Log ID: 5495
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:44:10
+
+Log ID: 5496
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:44:13
+
+Log ID: 5497
+Time: 2021.Aug.25 - 23:44:30
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+
+Log ID: 5498
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:44:41
+
+Log ID: 5499
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:44:49
+
+Log ID: 5500
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:45:03
+
+Log ID: 5501
+Time: 2021.Aug.25 - 23:45:14
+
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Log ID: 5502
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:45:24
+
+Log ID: 5503
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:46:21
+
+Log ID: 5504
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:46:21
+
+Log ID: 5505
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:46:25
+
+Log ID: 5506
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:46:41
+
+Log ID: 5507
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:47:39
+
+Log ID: 5508
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 23:47:58
+Log ID: 5509
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:47:58
+
+Log ID: 5510
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:48:02
+
+Log ID: 5511
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:48:02
+
+Log ID: 5512
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:48:05
+
+Log ID: 5513
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:48:39
+
+Log ID: 5514
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:48:39
+
+Log ID: 5515
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:48:41
+
+Log ID: 5516
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:49:00
+
+Log ID: 5517
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:49:00
+
+Log ID: 5518
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:49:02
+
+Log ID: 5519
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.25 - 23:49:24
+Log ID: 5520
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:49:24
+
+Log ID: 5521
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:49:26
+
+Log ID: 5522
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:53:08
+
+Log ID: 5523
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:53:08
+
+Log ID: 5525
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:53:34
+
+Log ID: 5526
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:53:34
+
+Log ID: 5527
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: TypeError: Cannot read property 'then' of undefined
+Time: 2021.Aug.25 - 23:53:37
+
+Log ID: 5528
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:54:23
+
+Log ID: 5529
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:54:23
+
+Log ID: 5531
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:54:52
+
+Log ID: 5532
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:54:52
+
+Log ID: 5534
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:55:17
+
+Log ID: 5535
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:55:17
+
+Log ID: 5537
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:55:41
+
+Log ID: 5538
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:55:41
+
+Log ID: 5539
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: TypeError: Cannot read property 'then' of undefined
+
+Time: 2021.Aug.25 - 23:55:54
+Log ID: 5540
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:58:56
+
+Log ID: 5541
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:58:56
+
+Log ID: 5542
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:59:25
+
+Log ID: 5543
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:59:25
+
+Log ID: 5544
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.25 - 23:59:34
+
+Log ID: 5545
+Message: HTTP Server started on port 443
+Time: 2021.Aug.25 - 23:59:58
+
+Log ID: 5546
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.25 - 23:59:58
+
+Log ID: 5547
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:00:00
+
+Log ID: 5548
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:00:27
+
+Log ID: 5549
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:00:27
+
+Log ID: 5550
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:00:29
+
+Log ID: 5551
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:01:03
+
+Log ID: 5552
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:01:03
+
+Log ID: 5553
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:01:11
+
+Log ID: 5554
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:01:50
+
+Log ID: 5555
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:02:24
+
+Log ID: 5556
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:02:43
+
+Log ID: 5557
+Message: Hiba az anyag adatbázisba való mentés során. Hibaüzenet: ValidationError: title: Path `title` is required., price: Path `price` is required.
+
+Time: 2021.Aug.26 - 0:02:57
+Log ID: 5558
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:04:41
+
+Log ID: 5559
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:04:41
+
+Log ID: 5560
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.26 - 0:04:44
+Log ID: 5561
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:04:44
+
+Log ID: 5563
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:05:10
+
+Log ID: 5564
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:05:10
+
+Log ID: 5565
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:05:13
+
+Log ID: 5566
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:08:32
+
+Log ID: 5567
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:08:32
+
+Log ID: 5568
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:08:49
+
+Log ID: 5569
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:09:46
+
+Log ID: 5570
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:09:58
+
+Log ID: 5571
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:10:16
+
+Log ID: 5572
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:11:46
+
+Log ID: 5573
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:12:05
+
+Log ID: 5574
+Message: ValidationError: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:12:17
+
+Log ID: 5575
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:13:10
+
+Log ID: 5576
+Message: HTTPS Server started on port 80
+
+Time: 2021.Aug.26 - 0:13:10
+Log ID: 5577
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:13:13
+
+Log ID: 5578
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:13:25
+
+Log ID: 5579
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:13:25
+
+Log ID: 5580
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:13:28
+
+Log ID: 5581
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:13:57
+
+Log ID: 5582
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:13:57
+
+Log ID: 5583
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:14:00
+
+Log ID: 5584
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:14:12
+
+Log ID: 5585
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:14:54
+
+Log ID: 5586
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:14:54
+
+Log ID: 5587
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+
+Time: 2021.Aug.26 - 0:15:04
+Log ID: 5588
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:16:17
+
+Log ID: 5589
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:16:45
+
+Log ID: 5590
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:16:55
+
+Log ID: 5591
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:17:05
+
+Log ID: 5592
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:17:24
+
+Log ID: 5593
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:18:01
+
+Log ID: 5594
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:18:08
+
+Log ID: 5595
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:18:51
+
+Log ID: 5596
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:19:28
+
+Log ID: 5597
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:19:41
+
+Log ID: 5598
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+
+Time: 2021.Aug.26 - 0:19:56
+Log ID: 5599
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:20:19
+
+Log ID: 5600
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:21:20
+
+Log ID: 5601
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+Time: 2021.Aug.26 - 0:22:07
+
+Log ID: 5602
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:24:35
+
+Log ID: 5603
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:24:35
+
+Log ID: 5604
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.,
+Time: 2021.Aug.26 - 0:25:18
+
+Log ID: 5605
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:25:46
+
+Log ID: 5606
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:25:46
+
+Log ID: 5607
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.,
+Time: 2021.Aug.26 - 0:25:50
+
+Log ID: 5608
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:26:21
+
+Log ID: 5609
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:26:21
+
+Log ID: 5610
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:26:41
+
+Log ID: 5611
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:26:41
+
+Log ID: 5612
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.,
+Time: 2021.Aug.26 - 0:26:43
+
+Log ID: 5613
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 0:27:32
+
+Log ID: 5614
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 0:27:32
+
+Log ID: 5615
+Message: materialslist validation failed: title: Path `title` is required., price: Path `price` is required.
+
+Time: 2021.Aug.26 - 0:27:47
+Log ID: 5616
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:31:50
+
+Log ID: 5617
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 6:31:50
+
+Log ID: 5618
+Message: admin kijelentkezett.
+
+Time: 2021.Aug.26 - 6:32:19
+Log ID: 5619
+Message: admin bejelentkezett.
+
+Time: 2021.Aug.26 - 6:32:29
+Log ID: 5620
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Aug.26 - 6:33:20
+
+Log ID: 5621
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:35:02
+
+Log ID: 5622
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 6:35:02
+
+Log ID: 5623
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:54:41
+
+Log ID: 5624
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 6:54:41
+
+Log ID: 5625
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:55:15
+
+Log ID: 5626
+Time: 2021.Aug.26 - 6:55:15
+
+Message: HTTPS Server started on port 80
+Log ID: 5627
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:59:33
+
+Log ID: 5628
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 6:59:33
+
+Log ID: 5629
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 6:59:55
+
+Log ID: 5630
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 6:59:55
+
+Log ID: 5631
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:18:36
+
+Log ID: 5632
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:18:36
+
+Log ID: 5633
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:18:45
+
+Log ID: 5634
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:18:45
+
+Log ID: 5635
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:22:25
+
+Log ID: 5636
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:22:25
+
+Log ID: 5637
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:22:29
+
+Log ID: 5638
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:22:29
+
+Log ID: 5639
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:22:52
+Log ID: 5640
+
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:22:52
+
+Log ID: 5641
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6127252f5f9a7c3180b27cfb,
+  title: 'vavava',
+  price: '2500',
+  category: 'kábelek',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:22:55
+
+Log ID: 5642
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:23:30
+
+Log ID: 5643
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:23:30
+
+Log ID: 5644
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 6127256b507ff845d0fc868c,
+  title: 'aaacaaaa',
+  price: '56111',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:23:55
+
+Log ID: 5645
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:24:13
+
+Log ID: 5646
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:24:13
+
+Log ID: 5647
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'jgjfgfgjfjg', value: 'fgjjfgjfgfgj' },
+    { key: 'xcvvxcxcvvxc', value: 'xcvvxcxcvvxc' },
+    { key: 'asasasas', value: 'asasasas' }
+  ],
+  _id: 612725908adc950d5ce966a6,
+  title: 'aaacaaaa',
+  price: '56111',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.26 - 7:24:32
+Log ID: 5648
+Message: Sikeres adatbeküldés: {
+  tags: [
+    { key: 'yxcxcyyxc', value: 'yxcxcyyxc' },
+    { key: 'qweqweqwe', value: 'eqwqweqwe' }
+  ],
+  _id: 612725a78adc950d5ce966a7,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:24:55
+
+Log ID: 5649
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b08adc950d5ce966a8,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.26 - 7:25:04
+Log ID: 5650
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b08adc950d5ce966a9,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:04
+
+Log ID: 5651
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b08adc950d5ce966aa,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:04
+
+Log ID: 5652
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b08adc950d5ce966ab,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:04
+
+Log ID: 5653
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966ac,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:05
+
+Log ID: 5654
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966ad,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:05
+
+Log ID: 5655
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966ae,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:05
+
+Log ID: 5656
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966af,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:05
+
+Log ID: 5657
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966b0,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.26 - 7:25:05
+Log ID: 5658
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b18adc950d5ce966b1,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+Time: 2021.Aug.26 - 7:25:05
+
+Log ID: 5659
+Message: Sikeres adatbeküldés: {
+  tags: [],
+  _id: 612725b28adc950d5ce966b2,
+  title: 'aaacaaaafff',
+  price: '222',
+  category: 'elosztó szekrények',
+  added_at: '2021/Aug/26',
+  added_by: 'admin',
+  __v: 0
+}
+
+Time: 2021.Aug.26 - 7:25:06
+Log ID: 5660
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:29:06
+
+Log ID: 5661
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:29:06
+
+Log ID: 5662
+Message: HTTP Server started on port 443
+
+Time: 2021.Aug.26 - 7:29:38
+Log ID: 5663
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:29:38
+
+Log ID: 5664
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:30:30
+
+Log ID: 5665
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:30:30
+
+Log ID: 5666
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:31:01
+
+Log ID: 5667
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:31:01
+
+Log ID: 5668
+Message: HTTP Server started on port 443
+Time: 2021.Aug.26 - 7:31:04
+
+Log ID: 5669
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:31:04
+
+Log ID: 5670
+Message: HTTP Server started on port 443
+
+Log ID: 5671
+Time: 2021.Aug.26 - 7:32:00
+Message: HTTPS Server started on port 80
+Time: 2021.Aug.26 - 7:32:00
+

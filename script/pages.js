@@ -22,7 +22,8 @@ module.exports = {
         admin: {
             landing: loadModule("admin/landing.html"),
             dbactions: loadModule("admin/dbactions.html"),
-            main: loadModule("admin/main.html")
+            main: loadModule("admin/main.html"),
+            materiallist: loadModule("admin/materiallist.html")
         },
         test: loadModule("testtemplate.html"),
         homepage: loadModule("homepage.html"),

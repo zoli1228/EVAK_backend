@@ -17,6 +17,9 @@ router.use(cookieParser())
 const userSession = require('express-session')
 const MongoDBStore = require('connect-mongodb-session')(userSession)
     
+try {
+
+
     let usersMongoStore = new MongoDBStore({
         uri: 'mongodb://localhost:27017/evak',
         collection: 'usersessions',
@@ -46,6 +49,7 @@ const MongoDBStore = require('connect-mongodb-session')(userSession)
     
     }));
 
+    
 let mongoDB = 'mongodb://localhost:27017/evak';
 mongoose.connect(mongoDB, {
     useNewUrlParser: true,
@@ -56,7 +60,9 @@ mongoose.connect(mongoDB, {
 let db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
-
+} catch (err) {
+    myLogger("Hiba az adatbázishoz kapcsolódás során. Hibaüzenet: " + err)
+}
 
 
 
@@ -130,7 +136,7 @@ router
     .get("/", function (req, res) {
         if (!req.session?.user) {
             res.sendFile(pages.home)
-        } else if (req.session.user.isVerified && !req.session.user.pwReset && req.session.user.role != "admin") {
+        } else if (req.session.user.isVerified && !req.session.user.pwReset) {
             res.sendFile(pages.main)
         } else if (req.session.user.pwReset) {
             res.sendFile(pages.changepassword)
