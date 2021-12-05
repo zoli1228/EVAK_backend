@@ -74,13 +74,13 @@ router
         let { title, price, category, tags } = req.body
         let tagsLowercase = []
         tags.forEach(element => {
-            if(element) {
+            if (element) {
                 tagsLowercase.push({
-                "key" : `${element["key"].toLowerCase()}`,
-                "value" : `${element["value"].toLowerCase()}`
-            })
+                    "key": `${element["key"].toLowerCase()}`,
+                    "value": `${element["value"].toLowerCase()}`
+                })
             }
-            
+
         })
 
         let materialObject = new matModel({
@@ -101,15 +101,15 @@ router
                     return
                 }
             },
-            reject => {
-                
-                throw reject.message
-            })
+                reject => {
+
+                    throw reject.message
+                })
         }
 
         catch (err) {
             myLogger(err)
-            res.status(406).json({"message" : err})
+            res.status(406).json({ "message": err })
         }
 
     })
@@ -120,33 +120,33 @@ router
         req.params.location ? paramLocation = req.params.location : "root"
 
         let query = {}
-        if( paramKey == "none" && paramValue == "none" && paramLocation == "root") {
+        if (paramKey == "none" && paramValue == "none" && paramLocation == "root") {
             query = {}
-        } else if(paramLocation == "tags") {
+        } else if (paramLocation == "tags") {
             query = {
                 tags: {
-                    "key" : paramKey,
-                    "value" : paramValue
+                    "key": paramKey,
+                    "value": paramValue
                 }
             }
-        } 
-        else if(paramLocation == "root") {
-            query[paramKey] = paramValue       
+        }
+        else if (paramLocation == "root") {
+            query[paramKey] = paramValue
         }
         try {
-                await matModel.find(query).sort({ "category" : 1 })
-                    .then((result) => { 
-                        res.status(200).json(result) 
-                    })
-                    .catch(err => {
-                        res.status(406).json({"message" : `Hiba az adatok lekérdezése közben. Hibaüzenet: ${err}`})
-                        console.log(err)
-                    })
+            await matModel.find(query).sort({ "category": 1 })
+                .then(result => {
+                    res.status(200).json(result)
+                })
+                .catch(err => {
+                    res.status(406).json({ "message": `Hiba az adatok lekérdezése közben. Hibaüzenet: ${err}` })
+                    console.log(err)
+                })
 
-            } catch (err) {
-                res.status(500).json({"message" : `Hiba az adatok lekérdezése közben. Hibaüzenet: ${err}`})
-                myLogger(`* Hiba miközben ${req.session.user} adatokat kért le a "materialslist" táblából. Hiba: ${err}`)
-            }
+        } catch (err) {
+            res.status(500).json({ "message": `Hiba az adatok lekérdezése közben. Hibaüzenet: ${err}` })
+            myLogger(`* Hiba miközben ${req.session.user} adatokat kért le a "materialslist" táblából. Hiba: ${err}`)
+        }
     })
     .get("/", auth, async (req, res) => {
         let adminaccess = req.session.adminaccess

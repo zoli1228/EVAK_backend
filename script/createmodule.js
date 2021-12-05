@@ -12,7 +12,7 @@ const createModule = async (template, {...data}, user) => {
 }
 
     if(user) {
-        userPlaceholder = await userModel.findOne({username : user}).catch((err) => {return console.log("No such user" + err)})
+        userPlaceholder = await userModel.findOne({username : user}).catch(err => {return console.log("No such user" + err)})
     }
     if(template) {
         stringTemplate = fs.readFileSync(template).toString()

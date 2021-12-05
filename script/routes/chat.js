@@ -46,6 +46,9 @@ router
             return
         }
         let existing = await chatModel.findOne({ username: user })
+        .catch(error => {
+            return res.status(503).json({message : "Hiba" + error})
+        })
         let chat;
         let time = timestamp()
         let createdAt = timestamp("precision")
@@ -88,9 +91,10 @@ router
 })
 .get("/messages", auth, async (req, res) => {
 
-    await chatModel.find({}).sort({ "createdAt": -1 }).limit(100).then((resolved) => {
-        let data = resolved
-        if (!data.length) {
+
+    await chatModel.find({}).sort({ "createdAt": -1 }).limit(100).then(resolved => {
+
+        if (!resolved.length) {
             res.json([{
                 username: "Rendszerüzenet",
                 message: swapEmoji("Sajnos a chat fal üres. :( Szólj hozzá! B-)"),
@@ -103,10 +107,19 @@ router
             }])
             return
         }
-        res.json(data)
+
+        res.status(200).json(resolved)
     }).catch((err) => {
+ 
         res.json({
-            message: "Unable to find messages"
+            username: "Rendszerüzenet",
+            message: "Unable to find messages",
+            timestamp: "",
+            colour: {
+                "R": 255,
+                "G": 255,
+                "B": 255
+            }
         })
     })
 

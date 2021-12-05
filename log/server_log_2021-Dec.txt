@@ -1,0 +1,913 @@
+Log ID: 9844
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 14:43:15
+Log ID: 9845
+
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 14:43:15
+
+Log ID: 9846
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 14:43:16
+
+Log ID: 9847
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 14:43:16
+
+Log ID: 9848
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+
+Time: 2021.Dec.5 - 14:43:44
+Log ID: 9849
+Message: HTTP Server started on port 80
+
+Time: 2021.Dec.5 - 14:45:50
+Log ID: 9850
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 14:45:50
+
+Log ID: 9851
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 14:45:52
+
+Log ID: 9852
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 14:45:52
+
+Log ID: 9853
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 14:46:20
+
+Log ID: 9856
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 15:08:08
+
+Log ID: 9857
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 15:08:08
+
+Log ID: 9858
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 15:08:10
+
+Log ID: 9859
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 15:08:10
+
+Log ID: 9860
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 15:09:31
+
+Log ID: 9861
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 15:09:31
+
+Log ID: 9862
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 15:09:32
+
+Log ID: 9863
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 15:09:32
+
+Log ID: 9864
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 17:32:44
+
+Log ID: 9865
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 17:32:44
+
+Log ID: 9866
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+
+Time: 2021.Dec.5 - 17:32:46
+Log ID: 9867
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 17:32:46
+
+Log ID: 9868
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 17:59:06
+
+Log ID: 9869
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 17:59:06
+
+Log ID: 9870
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+
+Time: 2021.Dec.5 - 17:59:08
+Log ID: 9871
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Dec.5 - 17:59:08
+
+Log ID: 9872
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 18:00:30
+
+Log ID: 9873
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 18:00:30
+
+Log ID: 9874
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 18:00:30
+
+Log ID: 9877
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 18:10:49
+
+Log ID: 9878
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 18:10:49
+
+Log ID: 9879
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 18:10:49
+
+Log ID: 9880
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 18:11:13
+
+Log ID: 9881
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 18:11:13
+
+Log ID: 9882
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 18:11:14
+
+Log ID: 9883
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:20:32
+
+Log ID: 9884
+Message: HTTPS Server started on port 443
+Time: 2021.Dec.5 - 19:20:32
+
+Log ID: 9885
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:20:32
+
+Log ID: 9886
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:21:17
+
+Log ID: 9887
+Message: HTTPS Server started on port 5500
+Time: 2021.Dec.5 - 19:21:17
+
+Log ID: 9888
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:21:17
+
+Log ID: 9889
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:22:45
+
+Log ID: 9890
+Message: HTTPS Server started on port 5500
+Time: 2021.Dec.5 - 19:22:45
+
+Log ID: 9891
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:22:45
+
+Log ID: 9892
+Message: HTTP Server started on port 443
+Time: 2021.Dec.5 - 19:24:50
+
+Log ID: 9893
+Message: HTTPS Server started on port 5500
+Time: 2021.Dec.5 - 19:24:50
+
+Log ID: 9894
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+
+Time: 2021.Dec.5 - 19:24:50
+Log ID: 9895
+Message: HTTP Server started on port 443
+Time: 2021.Dec.5 - 19:25:17
+
+Log ID: 9896
+Message: HTTPS Server started on port 80
+Time: 2021.Dec.5 - 19:25:17
+
+Log ID: 9897
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:25:17
+
+Log ID: 9898
+Message: HTTP Server started on port 443
+Time: 2021.Dec.5 - 19:29:01
+
+Log ID: 9899
+Message: HTTPS Server started on port 80
+Time: 2021.Dec.5 - 19:29:01
+
+Log ID: 9900
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:29:01
+
++ Request Log ID: [ 9901 ]
+
+  -2021.Dec.5 - 19:29:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    192.168.1.253
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://192.168.1.253:80/
+  -Server uptime: 50s
+
+
++ Request Log ID: [ 9902 ]
+
+  -2021.Dec.5 - 19:29:54
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    192.168.1.253
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://192.168.1.253:80/
+  -Method:     GET
+  -Server uptime: 54s
+
+
++ Request Log ID: [ 9903 ]
+
+  -2021.Dec.5 - 19:30:19
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+  -Address:    128.14.209.242
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:8087/
+  -Server uptime: 78s
+
+
+Log ID: 9904
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:31:05
+
+Log ID: 9905
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:31:05
+
+Log ID: 9906
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:31:05
+
+Log ID: 9907
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:32:16
+
+Log ID: 9908
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:32:16
+
+Log ID: 9909
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:32:16
+
+Log ID: 9910
+Message: HTTP Server started on port 80
+Time: 2021.Dec.5 - 19:36:15
+
+Log ID: 9911
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:36:15
+
+Log ID: 9912
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:36:15
+
+Log ID: 9913
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:47:29
+
+Log ID: 9914
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:47:29
+
+Log ID: 9915
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:47:29
+
+Log ID: 9916
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:47:46
+
+Log ID: 9917
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:47:46
+
+Log ID: 9918
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:47:46
+
++ Request Log ID: [ 9919 ]
+
+  -2021.Dec.5 - 19:51:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    curl/7.64.1
+  -Address:    170.106.174.246
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 251s
+
+
++ Request Log ID: [ 9920 ]
+
+  -2021.Dec.5 - 19:52:03
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Chrome/54.0 (Windows NT 10.0)
+  -Address:    209.141.51.49
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:9201/
+  -Server uptime: 257s
+
+
++ Request Log ID: [ 9921 ]
+
+  -2021.Dec.5 - 19:52:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+  -Address:    209.141.36.231
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:9201/
+  -Server uptime: 258s
+
+
++ Request Log ID: [ 9922 ]
+
+  -2021.Dec.5 - 19:52:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    167.94.138.43
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:7433/
+  -Server uptime: 261s
+
+
++ Request Log ID: [ 9923 ]
+
+  -2021.Dec.5 - 19:52:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    167.94.138.43
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:7433/
+  -Server uptime: 262s
+
+
++ Request Log ID: [ 9924 ]
+
+  -2021.Dec.5 - 19:52:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    167.94.145.57
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:33473/
+  -Server uptime: 298s
+
+
++ Request Log ID: [ 9925 ]
+
+  -2021.Dec.5 - 19:52:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    167.94.145.57
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113:33473/
+  -Server uptime: 298s
+
+
+Log ID: 9926
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:56:50
+
+Log ID: 9927
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:56:50
+
+Log ID: 9928
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:56:50
+
++ Request Log ID: [ 9929 ]
+
+  -2021.Dec.5 - 19:59:19
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    149.200.101.113
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 149s
+
+
+Log ID: 9930
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:59:29
+
+Log ID: 9931
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:59:29
+
+Log ID: 9932
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:59:29
+
+Log ID: 9933
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:59:38
+
+Log ID: 9934
+Message: HTTPS Server started on port 13000
+Time: 2021.Dec.5 - 19:59:38
+
+Log ID: 9935
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:59:38
+
+Log ID: 9936
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 19:59:50
+
+Log ID: 9937
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 19:59:50
+
+Log ID: 9938
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 19:59:50
+
++ Request Log ID: [ 9939 ]
+
+  -2021.Dec.5 - 19:59:51
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    149.200.101.113
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1s
+
+
+Log ID: 9940
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:00:32
+
+Log ID: 9941
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:00:32
+
+Log ID: 9942
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:00:32
+
++ Request Log ID: [ 9943 ]
+
+  -2021.Dec.5 - 20:00:33
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    149.200.101.113
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 9944
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:00:39
+
+Log ID: 9945
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:00:39
+
+Log ID: 9946
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:00:39
+
++ Request Log ID: [ 9947 ]
+
+  -2021.Dec.5 - 20:03:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.133.58
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113/owa/
+  -Server uptime: 150s
+
+
+Log ID: 9948
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:52:26
+
+Log ID: 9949
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:52:26
+
+Log ID: 9950
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:52:26
+
+Log ID: 9951
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:52:41
+
+Log ID: 9952
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:52:41
+
+Log ID: 9953
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:52:41
+
+Log ID: 9954
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:52:52
+
+Log ID: 9955
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:52:52
+
+Log ID: 9956
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:52:52
+
+Log ID: 9957
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:55:27
+
+Log ID: 9958
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:55:27
+
+Log ID: 9959
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:55:27
+
++ Request Log ID: [ 9960 ]
+
+  -2021.Dec.5 - 20:55:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    89.47.163.37
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/.well-known/acme-challenge/kz8BAN-bRvcJ-zSoHLB2vfl0B3QaK7_GgxAfIJ2NENk
+  -Server uptime: 5s
+
+
++ Request Log ID: [ 9961 ]
+
+  -2021.Dec.5 - 20:55:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    89.47.163.37
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/.well-known/acme-challenge/9UWf_941mYJS_e6WXlMTYDX_FCBgjUdvPzp218B_ef0
+  -Server uptime: 5s
+
+
++ Request Log ID: [ 9962 ]
+
+  -2021.Dec.5 - 20:56:24
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20041001 Firefox/0.10.1
+  -Address:    193.46.255.247
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.101.113/recordings/
+  -Server uptime: 58s
+
+
+Log ID: 9963
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:56:39
+
+Log ID: 9964
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:56:39
+
+Log ID: 9965
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:56:39
+
+Log ID: 9966
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:56:56
+Log ID: 9967
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:56:56
+
+Log ID: 9968
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:56:56
+
+Log ID: 9969
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:57:29
+
+Log ID: 9970
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:57:29
+
+Log ID: 9971
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:57:29
+
+Log ID: 9972
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:58:20
+Log ID: 9973
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:58:20
+
+Log ID: 9974
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:58:20
+
+Log ID: 9975
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:58:32
+
+Log ID: 9976
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:58:32
+
+Log ID: 9977
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:58:32
+
+Log ID: 9978
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:58:57
+
+Log ID: 9979
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:58:57
+
+Log ID: 9980
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:58:57
+
+Log ID: 9981
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 20:59:24
+
+Log ID: 9982
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 20:59:24
+
+Log ID: 9983
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 20:59:24
+
+Log ID: 9984
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:00:01
+
+Log ID: 9985
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:00:01
+
+Log ID: 9986
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:00:01
+
+Log ID: 9987
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:00:11
+
+Log ID: 9988
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:00:11
+
+Log ID: 9989
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:00:11
+
+Log ID: 9990
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:01:36
+
+Log ID: 9991
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:01:36
+
+Log ID: 9992
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:01:37
+
+Log ID: 9993
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:02:37
+
+Log ID: 9994
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:02:37
+
+Log ID: 9995
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:02:37
+
+Log ID: 9996
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:03:08
+
+Log ID: 9997
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:03:08
+
+Log ID: 9998
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:03:08
+
+Log ID: 9999
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:03:21
+Log ID: 10000
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:03:21
+
+Log ID: 10001
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:03:21
+
+Log ID: 10005
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:07:25
+
+Log ID: 10006
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:07:25
+
+Log ID: 10007
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:07:26
+
+Log ID: 10008
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:08:02
+
+Log ID: 10009
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:08:02
+
+Log ID: 10010
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:08:02
+
+Log ID: 10011
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.5 - 21:13:02
+Log ID: 10012
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:13:02
+
+Log ID: 10013
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:13:02
+
+Log ID: 10018
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:15:53
+
+Log ID: 10019
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:15:53
+
+Log ID: 10020
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:15:53
+
+Log ID: 10021
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:15:58
+
+Log ID: 10022
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:15:58
+
+Log ID: 10023
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:15:58
+
+Log ID: 10028
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:25:25
+
+Log ID: 10029
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:25:25
+
+Log ID: 10030
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:27:06
+
+Log ID: 10031
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:27:06
+
+Log ID: 10032
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:27:06
+
++ Request Log ID: [ 10033 ]
+
+  -2021.Dec.5 - 21:28:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+  -Address:    179.43.169.181
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 70s
+
+
++ Request Log ID: [ 10034 ]
+
+  -2021.Dec.5 - 21:28:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+  -Address:    179.43.169.181
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 70s
+
+
++ Request Log ID: [ 10035 ]
+
+  -2021.Dec.5 - 21:28:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+  -Address:    179.43.169.181
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 85s
+
+
++ Request Log ID: [ 10036 ]
+
+  -2021.Dec.5 - 21:28:32
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+  -Address:    179.43.169.181
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 86s
+
+
+Log ID: 10037
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 21:31:26
+
+Log ID: 10038
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 21:31:26
+
+Log ID: 10039
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 21:31:26
+

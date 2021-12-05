@@ -6,7 +6,11 @@ let checkAdmin = (req, res, next) => {
         next();
     }
     else {
-        res.sendStatus(401)
+        res.status(401).json({
+            "status" : "error",
+            "errormessage" : "Nincs rendszergazda jogosultsága a tartalom megtekintéséhez.",
+            "header" : "Admin auth hiba"
+        })
     }
 }
 

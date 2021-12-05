@@ -1,0 +1,804 @@
+Log ID: 9715
+
+Message: HTTP Server started on port 443
+Message: HTTPS Server started on port 80
+Log ID: 9716
+Time: 2021.Sep.5 - 5:28:10
+Time: 2021.Sep.5 - 5:28:10
+Message: MONGO ERROR:  MongooseServerSelectionError: Server selection timed out after 2000 ms
+Time: 2021.Sep.5 - 5:28:10
+
+Log ID: 9718
+Message: MONGODB HIBA: MongooseServerSelectionError: Server selection timed out after 2000 ms
+Log ID: 9717
+Time: 2021.Sep.5 - 5:28:10
+
+
++ Request Log ID: [ 9719 ]
+
+  -2021.Sep.5 - 5:28:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    74.120.14.60
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.106.176:7170/
+
+
+  -Server uptime: 25s
++ Request Log ID: [ 9720 ]
+
+  -2021.Sep.5 - 5:28:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    74.120.14.60
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.106.176:7170/
+  -Server uptime: 26s
+
+
+Log ID: 9721
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 5:28:44
+
+Log ID: 9722
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:28:44
+
+Log ID: 9723
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:28:44
+
+Log ID: 9724
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 5:37:03
+
+Log ID: 9725
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:37:03
+
+Log ID: 9726
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:37:03
+
+Log ID: 9727
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 5:37:23
+
+Log ID: 9728
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:37:23
+
+Log ID: 9729
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:37:23
+
+Log ID: 9730
+Message: HTTP Server started on port 80
+
+Time: 2021.Sep.5 - 5:38:37
+Log ID: 9731
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:38:38
+
+Log ID: 9732
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:38:38
+
+Log ID: 9733
+Message: HTTP Server started on port 443
+Time: 2021.Sep.5 - 5:39:00
+
+Log ID: 9734
+Message: HTTPS Server started on port 80
+Time: 2021.Sep.5 - 5:39:00
+
+Log ID: 9735
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:39:00
+
++ Request Log ID: [ 9736 ]
+
+  -2021.Sep.5 - 5:41:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    74.120.14.43
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137:1458/
+  -Server uptime: 165s
+
+
++ Request Log ID: [ 9737 ]
+
+  -2021.Sep.5 - 5:41:44
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    74.120.14.43
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137:1458/
+  -Server uptime: 165s
+
+
++ Request Log ID: [ 9738 ]
+
+  -2021.Sep.5 - 5:43:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38
+  -Address:    134.255.112.137
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137:1458/
+  -Server uptime: 257s
+
+
++ Request Log ID: [ 9739 ]
+
+  -2021.Sep.5 - 5:44:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38
+  -Address:    134.255.112.137
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137/
+  -Server uptime: 306s
+
+
++ Request Log ID: [ 9740 ]
+
+  -2021.Sep.5 - 5:44:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    162.142.125.195
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137:8064/
+  -Server uptime: 315s
+
+
++ Request Log ID: [ 9741 ]
+
+  -2021.Sep.5 - 5:44:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    162.142.125.195
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137:8064/
+  -Server uptime: 315s
+
+
++ Request Log ID: [ 9742 ]
+
+  -2021.Sep.5 - 5:45:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38
+  -Address:    134.255.112.137
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.137/
+  -Server uptime: 398s
+
+
+Log ID: 9743
+Message: HTTP Server started on port 443
+Time: 2021.Sep.5 - 5:45:46
+
+Log ID: 9744
+Message: HTTPS Server started on port 80
+Time: 2021.Sep.5 - 5:45:46
+
+Log ID: 9745
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:45:46
+
+Log ID: 9746
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 5:46:10
+
+Log ID: 9747
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:46:10
+
+Log ID: 9748
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:46:10
+
+Log ID: 9749
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 5:46:38
+
+Log ID: 9750
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 5:46:38
+
+Log ID: 9751
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 5:46:38
+
+Log ID: 9752
+Message: HTTP Server started on port 80
+Time: 2021.Sep.5 - 6:08:46
+
+Log ID: 9753
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.5 - 6:08:46
+
+Log ID: 9754
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Sep.5 - 6:08:46
+
+Log ID: 9755
+Message: HTTP Server started on port 80
+Time: 2021.Sep.12 - 22:59:48
+
+Log ID: 9756
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.12 - 22:59:48
+
+Log ID: 9757
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 22:59:49
+
+Log ID: 9758
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 22:59:49
+
+Log ID: 9759
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:00:17
+
+Log ID: 9760
+Message: HTTP Server started on port 80
+Time: 2021.Sep.12 - 23:04:00
+
+Log ID: 9761
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.12 - 23:04:00
+
+Log ID: 9762
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:04:02
+
+Log ID: 9763
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:04:02
+
+Log ID: 9764
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:04:30
+
+Log ID: 9765
+Message: HTTP Server started on port 80
+Log ID: 9766
+
+Time: 2021.Sep.12 - 23:05:38
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.12 - 23:05:38
+
+Log ID: 9767
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:05:40
+
+Log ID: 9768
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:05:40
+
+Log ID: 9769
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.12 - 23:06:08
+
+Log ID: 9770
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 21:56:36
+Log ID: 9771
+
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 21:56:36
+
+Log ID: 9772
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 21:56:37
+
+Log ID: 9773
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 21:56:37
+
+Log ID: 9774
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 21:57:05
+
+Log ID: 9775
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:00:19
+
+Log ID: 9776
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:00:19
+
+Log ID: 9777
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:00:20
+
+Log ID: 9778
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:00:20
+
+Log ID: 9779
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:00:48
+
+Log ID: 9780
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:02:04
+
+Log ID: 9781
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:02:04
+
+Log ID: 9782
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:02:06
+
+Log ID: 9783
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:02:06
+
++ Request Log ID: [ 9784 ]
+
+  -2021.Sep.18 - 22:02:17
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 14s
+
+
+Log ID: 9785
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:02:34
+
+Log ID: 9786
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:02:45
+
+Log ID: 9787
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:02:45
+
+Log ID: 9788
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:02:47
+
+Log ID: 9789
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:02:47
+
++ Request Log ID: [ 9790 ]
+
+  -2021.Sep.18 - 22:02:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 4s
+
+
++ Request Log ID: [ 9791 ]
+
+  -2021.Sep.18 - 22:02:51
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 7s
+
+
++ Request Log ID: [ 9792 ]
+
+  -2021.Sep.18 - 22:02:53
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 8s
+
+
+Log ID: 9793
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:03:15
+
++ Request Log ID: [ 9794 ]
+
+  -2021.Sep.18 - 22:03:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 42s
+
+
++ Request Log ID: [ 9795 ]
+
+  -2021.Sep.18 - 22:03:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 42s
+
+
++ Request Log ID: [ 9796 ]
+
+  -2021.Sep.18 - 22:03:31
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 47s
+
+
+Log ID: 9797
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:03:56
+
+Log ID: 9798
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:03:56
+
+Log ID: 9799
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:03:58
+
+Log ID: 9800
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:03:58
+
++ Request Log ID: [ 9801 ]
+
+  -2021.Sep.18 - 22:03:59
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 4s
+
+
++ Request Log ID: [ 9802 ]
+
+  -2021.Sep.18 - 22:04:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 4s
+
+
++ Request Log ID: [ 9803 ]
+
+  -2021.Sep.18 - 22:04:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 5s
+
+
++ Request Log ID: [ 9804 ]
+
+  -2021.Sep.18 - 22:04:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 6s
+
+
+Log ID: 9805
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:04:26
+
+Log ID: 9806
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:04:37
+
+Log ID: 9807
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:04:37
+
+Log ID: 9808
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:04:39
+
+Log ID: 9809
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:04:39
+
++ Request Log ID: [ 9810 ]
+
+  -2021.Sep.18 - 22:04:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9811 ]
+
+  -2021.Sep.18 - 22:04:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
+Log ID: 9812
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:04:47
+
+Log ID: 9813
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:04:47
+
+Log ID: 9814
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:04:49
+
+Log ID: 9815
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:04:49
+
++ Request Log ID: [ 9816 ]
+
+  -2021.Sep.18 - 22:04:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9817 ]
+
+  -2021.Sep.18 - 22:04:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9818 ]
+
+  -2021.Sep.18 - 22:04:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 4s
+
+
+Log ID: 9819
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:05:00
+Log ID: 9820
+
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:05:00
+
++ Request Log ID: [ 9821 ]
+
+  -2021.Sep.18 - 22:05:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 2s
+
+
+Log ID: 9822
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:02
+
+Log ID: 9823
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:02
+
++ Request Log ID: [ 9824 ]
+
+  -2021.Sep.18 - 22:05:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9825 ]
+
+  -2021.Sep.18 - 22:05:03
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
+Log ID: 9826
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:05:12
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:05:12
+
+
+Log ID: 9827
+Log ID: 9828
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:14
+
+Log ID: 9829
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:14
+
+Log ID: 9830
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:42
+
+Log ID: 9831
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:05:46
+
+Log ID: 9832
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:05:46
+
+Log ID: 9833
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:48
+
+Log ID: 9834
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:05:48
+
++ Request Log ID: [ 9835 ]
+
+  -2021.Sep.18 - 22:05:48
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 9836 ]
+
+  -2021.Sep.18 - 22:05:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9837 ]
+
+  -2021.Sep.18 - 22:05:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 9838 ]
+
+  -2021.Sep.18 - 22:05:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52
+  -Address:    1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+  -Server uptime: 5s
+
+
+Log ID: 9839
+Message: HTTP Server started on port 80
+Time: 2021.Sep.18 - 22:06:04
+
+Log ID: 9840
+Message: HTTPS Server started on port 443
+Time: 2021.Sep.18 - 22:06:04
+
+Log ID: 9841
+Message: MONGO ERROR:  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:06:05
+
+Log ID: 9842
+Message: MONGODB HIBA: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:06:05
+
+Log ID: 9843
+Message: Error: Error connecting to db: connect ECONNREFUSED 127.0.0.1:27017
+Time: 2021.Sep.18 - 22:06:33
+

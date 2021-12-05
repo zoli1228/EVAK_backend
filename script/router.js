@@ -2,8 +2,8 @@ const express = require("express");
 
 const router = express.Router()
 const clientAddress = require("./getclientaddress.js")
-const adminIp = "149.200.98.205"
-const guestIp = "37.76.29.6"
+const adminIp = "149.200.101.113"
+const guestIp = "1"
 const path = require('path')
 const bodyParser = require('body-parser')
 const auth = require('./checkAuthState.js')
@@ -16,9 +16,19 @@ router.use(express.urlencoded({ extended: true }));
 router.use(cookieParser())
 const userSession = require('express-session')
 const MongoDBStore = require('connect-mongodb-session')(userSession)
-    
-try {
+const blackListed = require('./BLACKLIST')
 
+    router.use((req, res, next) => {
+        let hostAddress = clientAddress.getClientAddress(req)
+        if(blackListed.includes(hostAddress)) {
+            myLogger("Request from blacklisted IP address")
+           return res.status(418).send("Your IP address is blacklisted on this site.")
+        }
+        else {
+            next()
+        }
+
+    })
 
     let usersMongoStore = new MongoDBStore({
         uri: 'mongodb://localhost:27017/evak',
@@ -49,29 +59,34 @@ try {
     
     }));
 
-    
+
 let mongoDB = 'mongodb://localhost:27017/evak';
 mongoose.connect(mongoDB, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
     serverSelectionTimeoutMS: 2000
-});
+})
+.then(resolve => {
+    myLogger("MONGO DB EVAK KAPCSOLÓDÁS SIKERES")
+})
+.catch(err => {
+    myLogger("MONGO ERROR:  " + err)
+    return
+})
 let db = mongoose.connection;
-db.on('error', console.error.bind(console, 'MongoDB connection error:'));
-
-} catch (err) {
-    myLogger("Hiba az adatbázishoz kapcsolódás során. Hibaüzenet: " + err)
-}
-
+db.on('error', (error) => {
+    return myLogger("MONGODB HIBA: " + error)
+});
 
 
 
 router.use((req, res, next) => {
     if (clientAddress.getClientAddress(req) == adminIp || clientAddress.getClientAddress(req) == guestIp) {
-        next()
+       return next()
     }
     else {
+        myLogger("Oldalfelkeresés" , req)
         res.sendFile(pages.underCs)
     }
 })
@@ -79,8 +94,6 @@ router.use((req, res, next) => {
 
 router.use((req, res, next) => {
     try {
-
-    
     let origin = req.headers.origin
     if (req.headers.origin == "http://localhost:8000" || req.headers.origin == "https://www.evak.hu") {
 

@@ -5,7 +5,11 @@ let checkAuthState = (req, res, next) => {
         next();
     }
     else {
-        res.sendStatus(401)
+        res.status(401).json({
+            "status" : "error",
+            "errormessage" : "Nincs jogosultsága a tartalom megtekintéséhez.",
+            "header" : "Auth hiba"
+        })
     }
 }
 
