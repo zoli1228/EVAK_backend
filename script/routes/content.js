@@ -1,8 +1,12 @@
 const router = require("express").Router()
 const auth = require("../checkAuthState")
+const myLogger = require("../logger.js")
+const timestamp = require("../timestamp.js")
 
 const createModule = require("../createmodule")
 const pages = require("../pages")
+
+const model = require("../quoteSchema.js")
 
 router
     .get("/quotes/:page", auth, async (req, res) => {
@@ -27,6 +31,48 @@ router
         }
         res.json(loadedModule)
 
+    })
+    .post("/quotes/savequote", auth, async (req, res) => {
+        let time = timestamp()
+        let d = req.body;
+        console.log(d.clientname)
+        let quote = new model({
+            username: req.session.user.username,
+            timestamp: time,
+            createdAt: Date.now(),
+            modifiedAt: Date.now(),
+            clientname: d.clientname,
+            clientaddress: d.clientaddress,
+            contract_type: d.contract_type,
+            serialnumber: d.serialnumber,
+            worklist: d.worklist,
+            materiallist: d.materiallist,
+            netPrice: d.netPrice,
+            discount: d.discount,
+            discountValue: d.discountValue,
+            valueAfterDiscount: d.valueAfterDiscount,
+            taxCode: d.taxCode,
+            taxAmount: d.taxAmount,
+            grossTotal: d.grossTotal,
+            expiryDate: d.expiryDate,
+            globalMatMultiplier: d.globalMatMultiplier,
+            globalNormPrice: d.globalNormPrice,
+        })
+        await quote.save().then(
+            (result) => {
+                myLogger(result)
+                res.status(200).json({
+                    status: "OK"
+                })
+            }
+        ).catch(
+            (error) => {
+                res.status(500).json({
+                    status: "ERROR",
+                    message: error
+                })
+            }
+        )
     })
     .get("/settings", auth, async (req, res) => {
         let loadedModule = await createModule(pages.modules.settings, {

@@ -1,0 +1,1 @@
+D:\cygwin64\bin\mintty.exe -i "F:\Dev Projects\Web\EVAK_backend\resource\evak01_iuQ_icon.ico" --title "EVAK Backend Server" --hold 'always' -c "cd F:\Dev Projects\Web\EVAK_backend" -e node app.js

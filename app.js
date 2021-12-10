@@ -17,7 +17,7 @@ app.use(express.static(path.resolve("..", "EVAK-0.0.1", "public")));
 app.use(express.static(path.resolve("..", "EVAK-0.0.1", "themes")));
 app.use(express.static(path.resolve("..", "EVAK-0.0.1", "script")));
 app.use(express.static(path.resolve("..", "EVAK-0.0.1", "pages", "modules")));
-app.use(express.static(path.resolve("node_modules", "bootstrap")));
+/* app.use(express.static(path.resolve("node_modules", "bootstrap"))); */
 
 let cert = fs.readFileSync('./cert/fullchain.pem')
 let key = fs.readFileSync('./cert/evak.hu.key')
@@ -40,7 +40,9 @@ httpApp.get("*", function (req, res, next) {
 app.get("/adminservermenu", function (req, res) {
   res.sendFile(path.resolve('admin.html'))
 })
-/* httpApp.get("/.well-known/acme-challenge/9UWf_941mYJS_e6WXlMTYDX_FCBgjUdvPzp218B_ef0", (req, res) => {
+/* SSL Certificate Acme Challenge -> 
+
+httpApp.get("/.well-known/acme-challenge/9UWf_941mYJS_e6WXlMTYDX_FCBgjUdvPzp218B_ef0", (req, res) => {
   let myPath = path.resolve("cert", "challenge", ".well-known", "acme-challenge", "9UWf_941mYJS_e6WXlMTYDX_FCBgjUdvPzp218B_ef0")
   let result = fs.readFileSync(myPath)
   res.send(result)

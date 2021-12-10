@@ -911,3 +911,2045 @@ Log ID: 10039
 Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
 Time: 2021.Dec.5 - 21:31:26
 
+Log ID: 10040
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 22:01:26
+
+Log ID: 10041
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 22:01:26
+
+Log ID: 10042
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 22:01:26
+
++ Request Log ID: [ 10043 ]
+
+  -2021.Dec.5 - 22:02:03
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    149.200.101.113
+  -Event:      admin sikeresen regisztrált.
+  -Status:     200
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 37s
+
+
+Log ID: 10044
+Message: verify Email sent to sz.zoltan091@gmail.com
+Time: 2021.Dec.5 - 22:02:06
+
+Log ID: 10045
+Message: Message info: {"accepted":["sz.zoltan091@gmail.com"],"rejected":[],"envelopeTime":564,"messageTime":801,"messageSize":2924,"response":"250 Message received","envelope":{"from":"info@evak.hu","to":["sz.zoltan091@gmail.com"]},"messageId":"<e7dc022e-4b2f-0fab-afaa-b0e869ff4837@evak.hu>"}
+Time: 2021.Dec.5 - 22:02:06
+
+Log ID: 10046
+Message: admin igazolta az email címét (sz.zoltan091@gmail.com)
+Time: 2021.Dec.5 - 22:09:23
+
+Log ID: 10047
+Message: admin bejelentkezett.
+
+Time: 2021.Dec.5 - 22:09:33
++ Request Log ID: [ 10048 ]
+
+  -2021.Dec.5 - 22:11:19
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+  -Address:    64.137.83.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 593s
+
+
++ Request Log ID: [ 10049 ]
+
+  -2021.Dec.5 - 22:13:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+  -Address:    181.214.186.143
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 711s
+
+
+Log ID: 10050
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.5 - 22:50:28
+
+Log ID: 10051
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.5 - 22:50:28
+
+Log ID: 10052
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.5 - 22:50:28
+
++ Request Log ID: [ 10053 ]
+
+  -2021.Dec.5 - 22:55:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+  -Address:    54.221.27.173
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 288s
+
+
++ Request Log ID: [ 10054 ]
+
+  -2021.Dec.5 - 23:11:16
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J700F Build/MMB29K)
+  -Address:    185.67.34.1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/gate.php
+  -Server uptime: 1248s
+
+
+Log ID: 10055
+Message: admin bejelentkezett az admin menübe.
+
+Time: 2021.Dec.5 - 23:13:02
+Log ID: 10056
+Message: admin kijelentkezett.
+Time: 2021.Dec.5 - 23:14:43
+
++ Request Log ID: [ 10057 ]
+
+  -2021.Dec.5 - 23:19:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+  -Address:    65.154.226.165
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1735s
+
+
+Log ID: 10058
+Message: admin bejelentkezett.
+Time: 2021.Dec.5 - 23:19:31
+
++ Request Log ID: [ 10059 ]
+
+  -2021.Dec.5 - 23:21:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+  -Address:    205.169.39.95
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1841s
+
+
++ Request Log ID: [ 10060 ]
+
+  -2021.Dec.5 - 23:21:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+  -Address:    205.169.39.95
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1845s
+
+
++ Request Log ID: [ 10061 ]
+
+  -2021.Dec.5 - 23:21:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+  -Address:    65.154.226.220
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1847s
+
+
++ Request Log ID: [ 10062 ]
+
+  -2021.Dec.5 - 23:21:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+  -Address:    65.154.226.220
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 1850s
+
+
+Log ID: 10063
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.7 - 15:12:26
+Message: HTTPS Server started on port 12000
+Log ID: 10064
+Time: 2021.Dec.7 - 15:12:26
+
+Log ID: 10065
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:12:26
+
++ Request Log ID: [ 10066 ]
+
+  -2021.Dec.7 - 15:13:22
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN
+  -Address:    42.236.10.84
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 58s
+
+
++ Request Log ID: [ 10067 ]
+
+  -2021.Dec.7 - 15:20:32
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Method:     GET
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://www.evak.hu/
+  -Status:     undefined
+  -Address:    134.255.112.121
+  -Server uptime: 488s
+
+
+Log ID: 10068
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:21:38
+Log ID: 10069
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:21:38
+
+
+Log ID: 10070
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:21:38
+
++ Request Log ID: [ 10071 ]
+
+  -2021.Dec.7 - 15:21:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    134.255.112.121
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 10072 ]
+
+  -2021.Dec.7 - 15:21:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    134.255.112.121
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 10073
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:23:45
+
+Log ID: 10074
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:23:45
+
+Log ID: 10075
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:23:45
+
+Log ID: 10076
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:23:55
+
+Log ID: 10077
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:23:55
+
+Log ID: 10078
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:23:55
+
++ Request Log ID: [ 10079 ]
+
+  -2021.Dec.7 - 15:24:03
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    134.255.112.121
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 8s
+
+
+Log ID: 10080
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:24:18
+
+Log ID: 10081
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:24:18
+
+Log ID: 10082
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:24:18
+
++ Request Log ID: [ 10083 ]
+
+  -2021.Dec.7 - 15:24:19
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+  -Address:    134.255.112.121
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1s
+
+
+Log ID: 10084
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:25:09
+
+Log ID: 10085
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:25:09
+
+Log ID: 10086
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:25:09
+
+Log ID: 10087
+Message: admin bejelentkezett.
+
+Time: 2021.Dec.7 - 15:25:18
+Log ID: 10088
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 15:26:52
+
+Log ID: 10089
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 15:26:52
+
+Log ID: 10090
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 15:26:52
+
++ Request Log ID: [ 10091 ]
+
+  -2021.Dec.7 - 15:50:37
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    139.162.207.84
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/owa/
+  -Server uptime: 1427s
+
+
++ Request Log ID: [ 10092 ]
+
+  -2021.Dec.7 - 16:30:16
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Linux; Android 9.0; LG G2 Build/012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4472.114 Mobile Safari/537.36 Edg/97
+  -Method:     GET
+  -Address:    124.126.78.173
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak-server.ddns.net/
+  -Server uptime: 3806s
+
+
++ Request Log ID: [ 10093 ]
+
+  -2021.Dec.7 - 16:34:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 10.0; VIVO find 816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Mobile Safari/537.36
+  -Address:    221.130.37.178
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 4045s
+
+
++ Request Log ID: [ 10094 ]
+
+  -2021.Dec.7 - 16:46:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 baidu.sogo.uc.UCBrowser/11.9.4.974 UWS/2.13.1.48 Mobile Safari/537.36 AliApp(DingTalk/4.5.11) com.alibaba.android.rimet/10487439 Channel/227200 language/zh-CN
+  -Address:    180.163.220.3
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 4786s
+
+
++ Request Log ID: [ 10095 ]
+
+  -2021.Dec.7 - 17:27:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.58
+  -Address:    23.148.145.149
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121:443/
+  -Server uptime: 7260s
+
+
++ Request Log ID: [ 10096 ]
+
+  -2021.Dec.7 - 17:32:35
+  -Method:     GET
+  -Address:    193.118.53.194
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 7544s
+  -Username:   undefined
+
+
++ Request Log ID: [ 10097 ]
+
+  -2021.Dec.7 - 17:37:28
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.204.230
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 7837s
+
+
+Log ID: 10098
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 18:08:21
+
+Log ID: 10099
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 18:08:21
+
+Log ID: 10100
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.7 - 18:08:21
+
+Log ID: 10101
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.7 - 18:09:09
+
+Log ID: 10102
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.7 - 18:09:09
+
+Log ID: 10103
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+
+Time: 2021.Dec.7 - 18:09:09
+Log ID: 10104
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Dec.7 - 18:18:25
+
++ Request Log ID: [ 10105 ]
+
+  -2021.Dec.7 - 18:24:05
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.209.162
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 897s
+
+
++ Request Log ID: [ 10106 ]
+
+  -2021.Dec.7 - 18:34:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 1504s
+
+
++ Request Log ID: [ 10107 ]
+
+  -2021.Dec.7 - 18:34:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Status:     undefined
+  -Server uptime: 1510s
+
+
++ Request Log ID: [ 10108 ]
+
+  -2021.Dec.7 - 18:34:20
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 1511s
+
+
++ Request Log ID: [ 10109 ]
+
+  -2021.Dec.7 - 19:02:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+  -Address:    176.53.217.122
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3215s
+
+
+Log ID: 10110
+Time: 2021.Dec.7 - 20:05:44
+Message: admin kijelentkezett.
+
+Log ID: 10111
+Message: admin bejelentkezett.
+
+Time: 2021.Dec.7 - 20:06:33
+Log ID: 10112
+Message: admin kijelentkezett.
+Time: 2021.Dec.7 - 20:07:49
+
+Log ID: 10113
+Message: admin bejelentkezett.
+Time: 2021.Dec.7 - 20:08:00
+
+Log ID: 10114
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Dec.7 - 20:11:54
+
+Log ID: 10115
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:47:14
+Log ID: 10116
+
+Message: HTTPS Server started on port 12000
+
+Time: 2021.Dec.8 - 4:47:14
+Log ID: 10117
+Time: 2021.Dec.8 - 4:47:14
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+
+Log ID: 10118
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:50:33
+
+Log ID: 10119
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 4:50:33
+
+Log ID: 10120
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 4:50:33
+
+Log ID: 10121
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:50:46
+
+Log ID: 10122
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 4:50:46
+
+Log ID: 10123
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 4:50:46
+
+Log ID: 10124
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:51:02
+
+Log ID: 10125
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 4:51:02
+
+Log ID: 10126
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 4:51:02
+
+Log ID: 10127
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:51:46
+
+Log ID: 10128
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 4:51:46
+
+Log ID: 10129
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 4:51:46
+
+Log ID: 10130
+Message: admin kijelentkezett.
+Time: 2021.Dec.8 - 4:52:35
+
+Log ID: 10131
+Message: admin bejelentkezett.
+Time: 2021.Dec.8 - 4:52:44
+
+Log ID: 10132
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 4:57:47
+
+Log ID: 10133
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 4:57:47
+
+Log ID: 10134
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 4:57:47
+
+Log ID: 10135
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 5:02:00
+
+Log ID: 10136
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 5:02:00
+
+Log ID: 10137
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 5:02:00
+
+Log ID: 10138
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 5:37:12
+
+Log ID: 10139
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 5:37:12
+
+Log ID: 10140
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 5:37:13
+
+Log ID: 10141
+Message: admin kijelentkezett.
+
+Time: 2021.Dec.8 - 5:38:10
+Log ID: 10142
+Message: admin bejelentkezett.
+Time: 2021.Dec.8 - 5:38:16
+
+Log ID: 10143
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 5:38:36
+
+Log ID: 10144
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 5:38:36
+
+Log ID: 10145
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 5:38:36
+
++ Request Log ID: [ 10146 ]
+
+  -2021.Dec.8 - 5:49:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+  -Address:    138.246.253.24
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 647s
+
+
++ Request Log ID: [ 10147 ]
+
+  -2021.Dec.8 - 5:54:35
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    184.105.139.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 960s
+
+
+Log ID: 10148
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 5:56:42
+
+Log ID: 10149
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 5:56:42
+
+Log ID: 10150
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 5:56:42
+
+Log ID: 10151
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:02:13
+
+Log ID: 10152
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:02:13
+
+Log ID: 10153
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:02:13
+
++ Request Log ID: [ 10154 ]
+
+  -2021.Dec.8 - 6:06:25
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.207.72
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/owa/auth/x.js
+  -Server uptime: 253s
+
+
++ Request Log ID: [ 10155 ]
+
+  -2021.Dec.8 - 6:07:48
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.204.149
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+  -Server uptime: 336s
+
+
++ Request Log ID: [ 10156 ]
+
+  -2021.Dec.8 - 6:08:19
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.211.144
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/owa/auth/logon.aspx
+  -Server uptime: 366s
+
+
++ Request Log ID: [ 10157 ]
+
+  -2021.Dec.8 - 6:11:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 534s
+
+
++ Request Log ID: [ 10158 ]
+
+  -2021.Dec.8 - 6:11:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 541s
+
+
++ Request Log ID: [ 10159 ]
+
+  -2021.Dec.8 - 6:11:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 544s
+
+
++ Request Log ID: [ 10160 ]
+
+  -2021.Dec.8 - 6:24:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+  -Address:    185.173.35.61
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121:443/
+  -Server uptime: 1335s
+
+
+Log ID: 10161
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:33:15
+
+Log ID: 10162
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:33:15
+
+Log ID: 10163
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:33:15
+
+Log ID: 10164
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:40:52
+Log ID: 10165
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:40:52
+
+Log ID: 10166
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:40:52
+
+Log ID: 10167
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:48:30
+
+Log ID: 10168
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:48:30
+
+Log ID: 10169
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:48:30
+
+Log ID: 10170
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:49:09
+
+Log ID: 10171
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:49:09
+
+Log ID: 10172
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:49:09
+
+Log ID: 10173
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:49:21
+
+Log ID: 10174
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:49:21
+
+Log ID: 10175
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:49:21
+
+Log ID: 10176
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 6:52:37
+
+Log ID: 10177
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 6:52:37
+
+Log ID: 10178
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 6:52:37
+
+Log ID: 10179
+Message: admin kijelentkezett.
+
+Time: 2021.Dec.8 - 7:18:25
+Log ID: 10180
+Message: admin bejelentkezett.
+Time: 2021.Dec.8 - 7:18:37
+
+Log ID: 10181
+Message: HTTP Server started on port 11000
+Log ID: 10182
+Time: 2021.Dec.8 - 13:09:56
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 13:09:56
+
+Log ID: 10183
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 13:09:56
+
+Log ID: 10184
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 13:10:14
+
+Log ID: 10185
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.8 - 13:10:14
+
+Log ID: 10186
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 13:10:14
+
+Log ID: 10187
+Message: admin kijelentkezett.
+
+Time: 2021.Dec.8 - 13:24:40
+Log ID: 10188
+Message: admin bejelentkezett.
+
+Time: 2021.Dec.8 - 13:24:48
+Log ID: 10189
+Message: admin kijelentkezett.
+Time: 2021.Dec.8 - 13:38:35
+
+Log ID: 10190
+Message: admin bejelentkezett.
+Time: 2021.Dec.8 - 13:38:40
+
++ Request Log ID: [ 10191 ]
+
+  -2021.Dec.8 - 13:45:22
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 2109s
+
+
++ Request Log ID: [ 10192 ]
+
+  -2021.Dec.8 - 13:45:31
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 2118s
+
+
++ Request Log ID: [ 10193 ]
+
+  -2021.Dec.8 - 13:45:32
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 2119s
+
+
++ Request Log ID: [ 10194 ]
+
+  -2021.Dec.8 - 14:08:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+  -Address:    178.159.123.139
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 3523s
+
+
++ Request Log ID: [ 10195 ]
+
+  -2021.Dec.8 - 14:08:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+  -Address:    178.159.123.237
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/HNAP1/
+  -Server uptime: 3524s
+
+
++ Request Log ID: [ 10196 ]
+
+  -2021.Dec.8 - 15:25:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.58
+  -Address:    23.148.145.149
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121:443/
+  -Server uptime: 8107s
+
+
++ Request Log ID: [ 10197 ]
+
+  -2021.Dec.8 - 15:42:31
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 9138s
+
+
++ Request Log ID: [ 10198 ]
+
+  -2021.Dec.8 - 15:42:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 9162s
+
+
++ Request Log ID: [ 10199 ]
+
+  -2021.Dec.8 - 15:42:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 9165s
+
+
+Log ID: 10200
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.8 - 17:08:24
+Log ID: 10201
+Message: HTTPS Server started on port 12000
+
+Time: 2021.Dec.8 - 17:08:24
+
+Log ID: 10202
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.8 - 17:08:24
+
++ Request Log ID: [ 10203 ]
+
+  -2021.Dec.8 - 17:28:28
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    193.118.53.194
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 1205s
+
+
++ Request Log ID: [ 10204 ]
+
+  -2021.Dec.8 - 17:38:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    162.142.125.44
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 1811s
+
+
++ Request Log ID: [ 10205 ]
+
+  -2021.Dec.8 - 17:46:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.213.134
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 2270s
+
+
++ Request Log ID: [ 10206 ]
+
+  -2021.Dec.8 - 18:23:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+  -Address:    27.124.5.110
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 4519s
+
+
++ Request Log ID: [ 10207 ]
+
+  -2021.Dec.8 - 18:24:25
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Go-http-client/1.1
+  -Address:    27.124.5.110
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 4563s
+
+
++ Request Log ID: [ 10208 ]
+
+  -2021.Dec.8 - 18:36:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    106.75.64.59
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121:443/
+  -Server uptime: 5298s
+
+
++ Request Log ID: [ 10209 ]
+
+  -2021.Dec.8 - 18:37:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+  -Address:    117.50.110.69
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 5328s
+
+
++ Request Log ID: [ 10210 ]
+
+  -2021.Dec.8 - 18:38:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+  -Address:    106.75.85.103
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 5420s
+
+
++ Request Log ID: [ 10211 ]
+
+  -2021.Dec.8 - 18:55:20
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 6417s
+
+
++ Request Log ID: [ 10212 ]
+
+  -2021.Dec.8 - 18:55:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 6423s
+
+
++ Request Log ID: [ 10213 ]
+
+  -2021.Dec.8 - 18:55:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 6424s
+
+
++ Request Log ID: [ 10214 ]
+
+  -2021.Dec.8 - 20:08:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+  -Address:    185.142.236.40
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 10795s
+
+
++ Request Log ID: [ 10215 ]
+
+  -2021.Dec.8 - 21:23:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 15278s
+
+
++ Request Log ID: [ 10216 ]
+
+  -2021.Dec.8 - 21:23:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 15282s
+
+
++ Request Log ID: [ 10217 ]
+
+  -2021.Dec.8 - 21:23:06
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 15283s
+
+
++ Request Log ID: [ 10218 ]
+
+  -2021.Dec.8 - 21:43:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.134.134
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 16504s
+
+
++ Request Log ID: [ 10219 ]
+
+  -2021.Dec.8 - 23:07:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  -Address:    109.237.103.123
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.env
+  -Server uptime: 21557s
+
+
++ Request Log ID: [ 10220 ]
+
+  -2021.Dec.8 - 23:07:40
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  -Address:    109.237.103.123
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.env
+  -Server uptime: 21557s
+
+
++ Request Log ID: [ 10221 ]
+
+  -2021.Dec.8 - 23:49:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 24040s
+
+
++ Request Log ID: [ 10222 ]
+
+  -2021.Dec.8 - 23:49:06
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt
+  -Server uptime: 24043s
+
+
++ Request Log ID: [ 10223 ]
+
+  -2021.Dec.8 - 23:49:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt
+  -Server uptime: 24044s
+
+
+Log ID: 10224
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.10 - 5:14:58
+Message: HTTPS Server started on port 12000
+Log ID: 10225
+Time: 2021.Dec.10 - 5:14:58
+
+Log ID: 10226
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 5:14:58
+
+Log ID: 10227
+Time: 2021.Dec.10 - 5:19:03
+Message: admin bejelentkezett.
+
++ Request Log ID: [ 10228 ]
+
+  -2021.Dec.10 - 6:05:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    198.199.95.200
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/owa/auth/logon.aspx
+  -Server uptime: 3046s
+
+
++ Request Log ID: [ 10229 ]
+
+  -2021.Dec.10 - 6:07:53
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.211.144
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+  -Server uptime: 3178s
+
+
++ Request Log ID: [ 10230 ]
+
+  -2021.Dec.10 - 6:08:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.194.12
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/owa/auth/x.js
+  -Server uptime: 3224s
+
+
++ Request Log ID: [ 10231 ]
+
+  -2021.Dec.10 - 6:47:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0
+  -Address:    60.217.72.12
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 5564s
+
+
++ Request Log ID: [ 10232 ]
+
+  -2021.Dec.10 - 7:00:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    167.248.133.116
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 6362s
+
+
+Log ID: 10233
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 13:22:50
+
+Log ID: 10234
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 13:22:50
+
+Log ID: 10235
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 13:22:50
+
+Log ID: 10236
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 13:23:05
+
+Log ID: 10237
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 13:23:05
+
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 13:23:05
+
+Log ID: 10238
++ Request Log ID: [ 10239 ]
+
+  -2021.Dec.10 - 14:31:58
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    curl/7.64.1
+  -Address:    170.106.115.253
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://localhost/
+
+
+  -Server uptime: 4134s
++ Request Log ID: [ 10240 ]
+
+  -2021.Dec.10 - 14:32:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Chrome/54.0 (Windows NT 10.0)
+  -Address:    205.185.116.25
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 4144s
+
+
++ Request Log ID: [ 10241 ]
+
+  -2021.Dec.10 - 14:32:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+  -Address:    209.141.35.128
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 4145s
+
+
++ Request Log ID: [ 10242 ]
+
+  -2021.Dec.10 - 14:32:17
+  -Username:   undefined
+  -Browser:    Chrome/54.0 (Windows NT 10.0)
+  -Method:     GET
+  -Address:    205.185.117.203
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 4152s
+
+
++ Request Log ID: [ 10243 ]
+
+  -2021.Dec.10 - 14:32:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+  -Address:    209.141.35.128
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 4153s
+
+
++ Request Log ID: [ 10244 ]
+
+  -2021.Dec.10 - 14:48:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 5146s
+
+
++ Request Log ID: [ 10245 ]
+
+  -2021.Dec.10 - 14:49:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/robots.txt/
+  -Server uptime: 5176s
+
+
++ Request Log ID: [ 10246 ]
+
+  -2021.Dec.10 - 14:49:47
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/.well-known/security.txt/
+  -Server uptime: 5203s
+
+
+Log ID: 10247
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.10 - 15:33:36
+Log ID: 10248
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:33:36
+
+Log ID: 10249
+
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:33:36
+Log ID: 10250
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:33:42
+
+Log ID: 10251
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:33:42
+
+Log ID: 10252
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:33:42
+
+Log ID: 10253
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:45:06
+
+Log ID: 10254
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:45:06
+
+Log ID: 10255
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:45:06
+
+Log ID: 10256
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:46:33
+
+Log ID: 10257
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:46:33
+
+Log ID: 10258
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:46:33
+
+Log ID: 10259
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:51:41
+
+Log ID: 10260
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:51:41
+
+Log ID: 10261
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:51:41
+
+Log ID: 10262
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:57:51
+
+Log ID: 10263
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:57:51
+
+Log ID: 10264
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:57:51
+
+Log ID: 10265
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 15:58:19
+
+Log ID: 10266
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 15:58:19
+
+Log ID: 10267
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 15:58:19
+
+Log ID: 10268
+Message: [object Object]
+Time: 2021.Dec.10 - 15:59:59
+
++ Request Log ID: [ 10269 ]
+
+  -2021.Dec.10 - 16:00:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.133.58
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121/
+  -Server uptime: 135s
+
+
+Log ID: 10270
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:01:04
+
+Log ID: 10271
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:01:04
+
+Log ID: 10272
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:01:04
+
+Message: {"clientname":"Homoki Egér János","clientaddress":"Kolbász utca 32","contract_type":"1","serialnumber":"5584852HEJ","worklist":[{"id":"wp_0","workphase":"none","note":"e","qty":"23","unit":"óra","multiplier":"0.5","normPrice":2000,"fullPrice":46000},{"id":"wp_1","workphase":"none","note":"r","qty":"53","unit":"klt","multiplier":"1.08","normPrice":4320,"fullPrice":228960.00000000003},{"id":"wp_2","workphase":"none","note":"fasfas","qty":"13","unit":"m²","multiplier":"0.97","normPrice":3880,"fullPrice":50440}],"materiallist":[{"id":"mo_0","material":"none","defaultPrice":"4224","qty":"10","unit":"db","multiplier":"1","newPrice":4224,"totalPrice":42240},{"id":"mo_1","material":"none","defaultPrice":"53523","qty":"1","unit":"db","multiplier":"1","newPrice":53523,"totalPrice":53523},{"id":"mo_2","material":"none","defaultPrice":"1212","qty":"23","unit":"db","multiplier":"1","newPrice":1212,"totalPrice":27876},{"id":"mo_3","material":"none","defaultPrice":"21","qty":"240","unit":"db","multiplier":"1","newPrice":21,"totalPrice":5040}],"netPrice":454079,"discount":"10","discountValue":45407.9,"valueAfterDiscount":408671.1,"taxCode":"0.27","taxAmount":110341.197,"grossTotal":519012.29699999996,"expiryDate":"2021-12-24"}
+Log ID: 10273
+Time: 2021.Dec.10 - 16:01:17
+
+Log ID: 10274
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:04:55
+
+Log ID: 10275
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:04:55
+
+Log ID: 10276
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:04:55
+
+Log ID: 10277
+Message: {"clientname":"Szöllősi Zoltán","clientaddress":"2730 Albertirsa Kinizsi u 47","contract_type":"2","serialnumber":"25845872SZ","worklist":[{"id":"wp_0","workphase":"none","note":"Alba","qty":"12","unit":"ktg","multiplier":"1","normPrice":4500,"fullPrice":54000},{"id":"wp_1","workphase":"none","note":"Trosz","qty":"2","unit":"m²","multiplier":"10","normPrice":45000,"fullPrice":90000},{"id":"wp_2","workphase":"none","note":"Kolb","qty":"5","unit":"óra","multiplier":"1","normPrice":4500,"fullPrice":22500}],"materiallist":[{"id":"mo_0","material":"none","defaultPrice":"213","qty":"10","unit":"db","multiplier":"1","newPrice":213,"totalPrice":2130},{"id":"mo_1","material":"none","defaultPrice":"123","qty":"423","unit":"db","multiplier":"2","newPrice":246,"totalPrice":104058},{"id":"mo_2","material":"none","defaultPrice":"123","qty":"31","unit":"db","multiplier":"10","newPrice":1230,"totalPrice":38130},{"id":"mo_3","material":"none","defaultPrice":"534","qty":"214","unit":"db","multiplier":"20","newPrice":10680,"totalPrice":2285520},{"id":"mo_4","material":"none","defaultPrice":"634","qty":"53","unit":"db","multiplier":"1","newPrice":634,"totalPrice":33602},{"id":"mo_5","material":"none","defaultPrice":"325","qty":"64","unit":"db","multiplier":"1","newPrice":325,"totalPrice":20800}],"netPrice":2650740,"discount":"15","discountValue":397611,"valueAfterDiscount":2253129,"taxCode":"0.18","taxAmount":405563.22,"grossTotal":2658692.2199999997,"expiryDate":"2021-12-31","globalMatMultiplier":"1","globalNormPrice":"4500"}
+Time: 2021.Dec.10 - 16:07:23
+
+Log ID: 10278
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:09:54
+
+Log ID: 10279
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:09:54
+
+Log ID: 10280
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:09:54
+
+Log ID: 10281
+Message: {"clientname":"","clientaddress":"","contract_type":"1","worklist":[{"id":"wp_0","workphase":"none","note":"","qty":"32","unit":"db","multiplier":"1.02","normPrice":4590,"fullPrice":146880},{"id":"wp_1","workphase":"none","note":"","qty":"2","unit":"db","multiplier":"0.98","normPrice":4410,"fullPrice":8820},{"id":"wp_2","workphase":"none","note":"","qty":"3","unit":"db","multiplier":"1.05","normPrice":4725,"fullPrice":14175},{"id":"wp_3","workphase":"none","note":"","qty":"4","unit":"db","multiplier":"1.13","normPrice":5084.999999999999,"fullPrice":20339.999999999996}],"materiallist":[{"id":"mo_0","material":"none","defaultPrice":"233","qty":"32","unit":"db","multiplier":"1","newPrice":233,"totalPrice":7456},{"id":"mo_1","material":"none","defaultPrice":"400","qty":"20","unit":"db","multiplier":"1","newPrice":400,"totalPrice":8000},{"id":"mo_2","material":"none","defaultPrice":"100","qty":"1500","unit":"db","multiplier":"2","newPrice":200,"totalPrice":300000},{"id":"mo_3","material":"none","defaultPrice":"2","qty":"3000","unit":"db","multiplier":"4","newPrice":8,"totalPrice":24000}],"netPrice":529671,"discount":"2","discountValue":10593,"valueAfterDiscount":519078,"taxCode":"0.27","taxAmount":140150.94660000002,"grossTotal":659229,"expiryDate":"","globalMatMultiplier":"1","globalNormPrice":4500}
+Time: 2021.Dec.10 - 16:11:32
+
+Log ID: 10282
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:17:57
+
+Log ID: 10283
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:17:57
+
+Log ID: 10284
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:17:57
+
++ Request Log ID: [ 10285 ]
+
+  -2021.Dec.10 - 16:20:37
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.58
+  -Address:    23.148.145.149
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.112.121:443/
+  -Server uptime: 161s
+
+
+Log ID: 10286
+Message: HTTP Server started on port 11000
+Log ID: 10287
+Time: 2021.Dec.10 - 16:29:07
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:29:07
+
+Log ID: 10288
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:29:07
+
+Log ID: 10289
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:29:41
+
+Log ID: 10290
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:29:41
+
+Log ID: 10291
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:29:41
+
+Log ID: 10292
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:30:33
+
+Log ID: 10293
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:30:33
+
+Log ID: 10294
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:30:33
+
+Log ID: 10295
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:31:25
+
+Log ID: 10296
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:31:25
+
+Log ID: 10297
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:31:26
+
+Log ID: 10298
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:32:05
+
+Log ID: 10299
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:32:05
+
+Log ID: 10300
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:32:06
+
+Log ID: 10301
+
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:33:18
+Log ID: 10302
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:33:18
+
+Log ID: 10303
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:33:18
+
+Log ID: 10304
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:34:35
+
+Log ID: 10305
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:34:35
+
+Log ID: 10306
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:34:35
+
+Log ID: 10307
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:34:49
+
+Log ID: 10308
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:34:49
+
+Log ID: 10309
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:34:49
+
+Log ID: 10310
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:35:24
+
+Log ID: 10311
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:35:24
+
+Log ID: 10312
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:35:24
+
+Log ID: 10313
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:36:53
+
+Log ID: 10314
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:36:53
+
+Log ID: 10315
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:36:53
+
+Log ID: 10316
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:38:41
+
+Log ID: 10317
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:38:41
+
+Log ID: 10318
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:38:41
+
+Log ID: 10319
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:39:29
+
+Log ID: 10320
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:39:29
+
+Log ID: 10321
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:39:29
+
+Log ID: 10322
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:39:35
+
+Log ID: 10323
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:39:35
+
+Log ID: 10324
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:39:35
+
+Log ID: 10325
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:40:24
+Log ID: 10326
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:40:24
+
+Log ID: 10327
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:40:24
+
+Log ID: 10328
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:41:44
+
+Log ID: 10329
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:41:44
+
+Log ID: 10330
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:41:44
+
+Log ID: 10331
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:42:08
+
+Log ID: 10332
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:42:08
+
+Log ID: 10333
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:42:08
+
+Log ID: 10334
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.10 - 16:48:03
+Log ID: 10335
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:48:03
+
+Log ID: 10336
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:48:03
+
+Log ID: 10337
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:48:28
+
+Log ID: 10338
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:48:28
+
+Log ID: 10339
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:48:28
+
+Log ID: 10340
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 16:48:58
+
+Log ID: 10341
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 16:48:58
+
+Log ID: 10342
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 16:48:58
+
+Log ID: 10343
+Message: {
+  status: 'unsent',
+  _id: 61b376f0e164623f288b3d60,
+  username: 'admin',
+  timestamp: '2021.Dec.10 - 16:49:04',
+  createdAt: '1639151344911',
+  modifiedAt: '1639151344912',
+  clientname: 'fasfas',
+  clientaddress: 'asf241',
+  contract_type: 1,
+  serialnumber: '576979639F',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'none',
+      note: 'fasfas',
+      qty: '23',
+      unit: 'db',
+      multiplier: '2',
+      normPrice: 10400,
+      fullPrice: 239200
+    },
+    {
+      id: 'wp_1',
+      workphase: 'none',
+      note: 'hfdghtrh',
+      qty: '42',
+      unit: 'db',
+      multiplier: '0.5',
+      normPrice: 2600,
+      fullPrice: 109200
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: 'none',
+      defaultPrice: '452',
+      qty: '2',
+      unit: 'db',
+      multiplier: '3',
+      newPrice: 1356,
+      totalPrice: 2712
+    },
+    {
+      id: 'mo_1',
+      material: 'none',
+      defaultPrice: '634634',
+      qty: '1',
+      unit: 'db',
+      multiplier: '0.5',
+      newPrice: 317317,
+      totalPrice: 317317
+    },
+    {
+      id: 'mo_2',
+      material: 'none',
+      defaultPrice: '124',
+      qty: '20',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 124,
+      totalPrice: 2480
+    }
+  ],
+  netPrice: '670909',
+  discount: 10,
+  discountValue: 67091,
+  valueAfterDiscount: 603818,
+  taxCode: '0.27',
+  taxAmount: 163030.88700000002,
+  grossTotal: 766849,
+  expiryDate: 2021-12-24T00:00:00.000Z,
+  globalMatMultiplier: 1,
+  globalNormPrice: 5200,
+  __v: 0
+}
+Time: 2021.Dec.10 - 16:49:04
+
+Log ID: 10344
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.10 - 17:05:25
+
+Log ID: 10345
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.10 - 17:05:25
+
+Log ID: 10346
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.10 - 17:05:25
+

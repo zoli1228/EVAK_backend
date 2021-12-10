@@ -1,8 +1,7 @@
 const express = require("express");
-
 const router = express.Router()
 const clientAddress = require("./getclientaddress.js")
-const adminIp = "149.200.101.113"
+const adminIp = "134.255.112.121"
 const guestIp = "1"
 const path = require('path')
 const bodyParser = require('body-parser')
@@ -11,9 +10,11 @@ const myLogger = require('./logger.js') // (Message, req, status) (if !req && !s
 const pages = require("./pages.js");
 const cookieParser = require("cookie-parser")
 const mongoose = require('mongoose');
+
 router.use(bodyParser.json())
 router.use(express.urlencoded({ extended: true }));
 router.use(cookieParser())
+
 const userSession = require('express-session')
 const MongoDBStore = require('connect-mongodb-session')(userSession)
 const blackListed = require('./BLACKLIST')
@@ -22,7 +23,7 @@ const blackListed = require('./BLACKLIST')
         let hostAddress = clientAddress.getClientAddress(req)
         if(blackListed.includes(hostAddress)) {
             myLogger("Request from blacklisted IP address")
-           return res.status(418).send("Your IP address is blacklisted on this site.")
+           return res.status(418).send("Your IP address is blacklisted on this site")
         }
         else {
             next()
