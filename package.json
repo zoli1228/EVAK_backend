@@ -1,6 +1,6 @@
 {
   "name": "evak_backend",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "description": "Backend server for EVAK",
   "main": "index.js",
   "scripts": {

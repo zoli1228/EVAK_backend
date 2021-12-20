@@ -6,6 +6,7 @@ const chatModel = require("../chatmodule")
 const timestamp = require("../timestamp")
 const myLogger = require("../logger")
 
+
 let escapeRegex = (string) => {
     string = string.replace(/[.*^${}<>|[\]\\]/g, "");
     string = string.replace(/(<([^>]+)>)/ig, "")
