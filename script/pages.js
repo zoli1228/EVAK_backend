@@ -32,7 +32,7 @@ module.exports = {
             landing: loadModule("chat/landing.html")
         },
         settings: loadModule("settings.html"),
-        profile: loadModule("profile.html"),
+        profile: loadModule("profile/profile.html"),
         forum: loadModule("forum.html"),
         help: loadModule("help.html"),
         notfound: loadModule("404.html"),

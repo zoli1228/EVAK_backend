@@ -6,10 +6,14 @@ const val = require("../escapeHtml")
 const createModule = require("../createmodule")
 const pages = require("../pages")
 const checkDate = require("../isFutureDate")
-
 const quoteSchema = require("../quoteSchema.js")
+const path = require("path")
+
+/* routes */
+var profileRoute = require(path.resolve(__dirname, "profile", "profile.js"))
 
 router
+    .use("/profile", profileRoute)
     .get("/quotes/:page", auth, async (req, res, next) => {
         let page = req.params.page
         switch (page) {
@@ -36,9 +40,9 @@ router
 
     })
     .post("/quotes/savequote", auth, async (req, res) => {
-        
+
         let d = req.body
-        
+
         let time = timestamp()
         let today = new Date()
         let quote = new quoteSchema({
@@ -63,44 +67,44 @@ router
             globalMatMultiplier: d.globalMatMultiplier,
             globalNormPrice: d.globalNormPrice,
         })
-        try { 
-        if (quote.expiryDate) {
-            isFutureDate = checkDate(quote.expiryDate)
-            if (!isFutureDate) {
+        try {
+            if (quote.expiryDate) {
+                isFutureDate = checkDate(quote.expiryDate)
+                if (!isFutureDate) {
+                    res.status(406).json({
+                        statusMessage: "ERROR",
+                        message: [
+                            "Hiba", "red",
+                            "A lejárati dátum minimum 1 nappal a kiállítási dátum", "white",
+                            "után kell, hogy legyen.", "white"
+                        ]
+                    })
+                    return
+                }
+            } else {
                 res.status(406).json({
                     statusMessage: "ERROR",
                     message: [
                         "Hiba", "red",
-                        "A lejárati dátum minimum 1 nappal a kiállítási dátum", "white",
-                        "után kell, hogy legyen.", "white"
+                        "Érvényességi idő meghatározása kötelező.", "white"
                     ]
                 })
                 return
             }
-        } else {
-            res.status(406).json({
+        } catch (err) {
+            myLogger("HIBA! Árajánlat hozzáadása közben: " + err, req, 500)
+            res.status(500).json({
                 statusMessage: "ERROR",
                 message: [
-                    "Hiba", "red",
-                    "Érvényességi idő meghatározása kötelező.", "white"
+                    "Szerver oldali hiba történt", "red",
+                    "A hiba oka ismeretlen. Amennyiben szeretne hibajelentést", "white",
+                    "tenni, azt megteheti az", "white",
+                    "info@evak.hu", "#cf0",
+                    "email címen. Elnézést a kellemetlenségért.", "white"
                 ]
             })
             return
         }
-    } catch(err) {
-        myLogger("HIBA! Árajánlat hozzáadása közben: " + err, req, 500)
-        res.status(500).json({
-            statusMessage: "ERROR",
-            message: [
-                "Szerver oldali hiba történt", "red",
-                "A hiba oka ismeretlen. Amennyiben szeretne hibajelentést", "white",
-                "tenni, azt megteheti az", "white",
-                "info@evak.hu", "#cf0",
-                "email címen. Elnézést a kellemetlenségért.", "white"
-            ]
-        })
-        return
-    }
         try {
 
             await quote.save().then(
@@ -145,11 +149,11 @@ router
         )
     })
     .get("/settings", auth, async (req, res) => {
-                let loadedModule = await createModule(pages.modules.settings, {
-                    header: "Beállítások"
-                })
-                res.json(loadedModule)
-            })
+        let loadedModule = await createModule(pages.modules.settings, {
+            header: "Beállítások"
+        })
+        res.json(loadedModule)
+    })
     .get("/chat/:page", auth, async (req, res) => {
         let page = req.params.page
         let user = req.session.user.username
@@ -176,12 +180,7 @@ router
         res.json(loadedModule)
 
     })
-    .get("/profile", auth, async (req, res) => {
-        let loadedModule = await createModule(pages.modules.profile, {
-            header: "Személyes adatlap"
-        })
-        res.json(loadedModule)
-    })
+
     .get("/forum", auth, async (req, res) => {
         let loadedModule = await createModule(pages.modules.forum, {
             header: "Fórum"

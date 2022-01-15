@@ -13078,3 +13078,2862 @@ Log ID: 11432
 Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
 Time: 2021.Dec.20 - 7:03:48
 
+Log ID: 11433
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.21 - 10:12:51
+Log ID: 11434
+
+Message: HTTPS Server started on port 12000
+
+Time: 2021.Dec.21 - 10:12:51
+Log ID: 11435
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.21 - 10:12:51
+
+Log ID: 11436
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.21 - 10:16:35
+
+Log ID: 11437
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.21 - 10:16:35
+
+Log ID: 11438
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.21 - 10:16:35
+
++ Request Log ID: [ 11439 ]
+
+  -Username:   undefined
+  -2021.Dec.21 - 10:16:37
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Address:    149.200.102.206
+  -Event:      Védett tartalomhoz való hozzáférési próbálkozás
+  -Status:     401
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 11440
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.21 - 10:16:52
+
+Log ID: 11441
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.21 - 10:16:52
+
+Log ID: 11442
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.21 - 10:16:52
+
+Log ID: 11443
+Message: admin bejelentkezett.
+Time: 2021.Dec.21 - 10:17:04
+
++ Request Log ID: [ 11444 ]
+
+  -2021.Dec.21 - 11:20:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+  -Address:    154.209.125.31
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206:443/
+  -Server uptime: 3799s
+
+
++ Request Log ID: [ 11445 ]
+
+  -2021.Dec.21 - 11:51:59
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.35.168.80
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 5708s
+
+
++ Request Log ID: [ 11446 ]
+
+  -2021.Dec.21 - 13:17:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    162.142.125.193
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 10822s
+
+
++ Request Log ID: [ 11447 ]
+
+  -2021.Dec.21 - 13:54:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    23.251.102.82
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 13046s
+
+
++ Request Log ID: [ 11448 ]
+
+  -2021.Dec.21 - 13:54:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    23.251.102.82
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/fuel
+  -Server uptime: 13049s
+
+
++ Request Log ID: [ 11449 ]
+
+  -2021.Dec.21 - 14:23:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.1.248.42
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 14783s
+
+
++ Request Log ID: [ 11450 ]
+
+  -2021.Dec.21 - 14:35:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.212.11
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 15505s
+
+
++ Request Log ID: [ 11451 ]
+
+  -2021.Dec.21 - 15:27:52
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https:///
+  -Server uptime: 18660s
+
+
++ Request Log ID: [ 11452 ]
+
+  -2021.Dec.21 - 15:28:24
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    l9tcpid/v1.1.0
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 18692s
+
+
++ Request Log ID: [ 11453 ]
+
+  -2021.Dec.21 - 15:28:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Lkx-TraversalHttpPlugin/0.0.1 (+https://leakix.net/, +https://twitter.com/HaboubiAnis)
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/hosts
+  -Server uptime: 18694s
+
+
++ Request Log ID: [ 11454 ]
+
+  -2021.Dec.21 - 15:28:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Go-http-client/1.1
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/.DS_Store
+  -Server uptime: 18695s
+
+
++ Request Log ID: [ 11455 ]
+
+  -2021.Dec.21 - 15:28:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    l9explore/1.3.0
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/server-status
+  -Server uptime: 18695s
+
+
++ Request Log ID: [ 11456 ]
+
+  -2021.Dec.21 - 15:28:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    l9explore/1.3.0
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/telescope/requests
+  -Server uptime: 18695s
+
+
++ Request Log ID: [ 11457 ]
+
+  -2021.Dec.21 - 15:28:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    l9explore/1.3.0
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+  -Server uptime: 18696s
+
+
++ Request Log ID: [ 11458 ]
+
+  -2021.Dec.21 - 15:28:28
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    l9explore/1.3.0
+  -Address:    167.99.133.28
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/.env
+  -Server uptime: 18696s
+
+
++ Request Log ID: [ 11459 ]
+
+  -2021.Dec.21 - 16:09:29
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 11; RMX2002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+  -Address:    91.104.172.30
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 21157s
+
+
++ Request Log ID: [ 11460 ]
+
+  -2021.Dec.21 - 16:10:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 11; RMX2002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+  -Address:    37.76.14.49
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 21229s
+
+
++ Request Log ID: [ 11461 ]
+
+  -Username:   undefined
+  -2021.Dec.21 - 16:17:45
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 11; RMX2002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+  -Address:    91.104.172.30
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 21654s
+
+
++ Request Log ID: [ 11462 ]
+
+  -2021.Dec.21 - 16:18:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 11; RMX2002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+  -Address:    91.104.172.30
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/logout
+  -Server uptime: 21668s
+
+
++ Request Log ID: [ 11463 ]
+
+  -2021.Dec.21 - 16:46:46
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+  -Address:    138.246.253.24
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/robots.txt
+  -Server uptime: 23395s
+
+
++ Request Log ID: [ 11464 ]
+
+  -2021.Dec.21 - 16:54:51
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    162.221.192.26
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 23880s
+
+
+Log ID: 11465
+Message: admin kijelentkezett.
+Time: 2021.Dec.21 - 18:51:50
+
+Log ID: 11466
+Message: admin bejelentkezett.
+Time: 2021.Dec.21 - 18:52:18
+
+Log ID: 11467
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Dec.21 - 18:52:32
+
+Log ID: 11468
+Message: Sikeres adatbeküldés
+
+Time: 2021.Dec.21 - 18:52:42
++ Request Log ID: [ 11469 ]
+
+  -2021.Dec.21 - 18:55:38
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.102.206
+  -Event:      Árajánlat mentés sikeres: {
+  status: 'unsent',
+  _id: 61c2151aa26a4b1980a8a3ce,
+  username: 'admin',
+  timestamp: '2021.Dec.21 - 18:55:38',
+  createdAt: '2021-12-21T17:55:38.032Z',
+  modifiedAt: '2021-12-21T17:55:38.032Z',
+  clientname: 'Kolbászos János',
+  clientaddress: '1234 Kolbász utca 32',
+  contract_type: 1,
+  serialnumber: '31179558KJ',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'none',
+      note: 'fasfas',
+      qty: '1200',
+      unit: 'db',
+      multiplier: '0.8',
+      normPrice: 3200,
+      fullPrice: 3840000
+    },
+    {
+      id: 'wp_1',
+      workphase: 'none',
+      note: 'hdfhdf',
+      qty: '12',
+      unit: 'db',
+      multiplier: '0.88',
+      normPrice: 3520,
+      fullPrice: 42240
+    },
+    {
+      id: 'wp_2',
+      workphase: 'none',
+      note: 'jfgfgj',
+      qty: '32',
+      unit: 'db',
+      multiplier: '0.2',
+      normPrice: 800,
+      fullPrice: 25600
+    },
+    {
+      id: 'wp_3',
+      workphase: 'none',
+      note: 'kghgkh',
+      qty: '53',
+      unit: 'db',
+      multiplier: '0.86',
+      normPrice: 3440,
+      fullPrice: 182320
+    },
+    {
+      id: 'wp_4',
+      workphase: 'none',
+      note: 'lhlhjhjl',
+      qty: '46',
+      unit: 'db',
+      multiplier: '1.1',
+      normPrice: 4400,
+      fullPrice: 202400.00000000003
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: 'none',
+      defaultPrice: '200',
+      qty: '1',
+      unit: 'db',
+      multiplier: '10',
+      newPrice: 2340,
+      totalPrice: 2340
+    },
+    {
+      id: 'mo_1',
+      material: 'none',
+      defaultPrice: '5320',
+      qty: '12',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 6224.4,
+      totalPrice: 74692.79999999999
+    },
+    {
+      id: 'mo_2',
+      material: 'none',
+      defaultPrice: '533525',
+      qty: '12',
+      unit: 'ktg',
+      multiplier: '1.02',
+      newPrice: 636708.735,
+      totalPrice: 7640504.82
+    },
+    {
+      id: 'mo_3',
+      material: 'none',
+      defaultPrice: '32',
+      qty: '1000',
+      unit: 'kg',
+      multiplier: '1',
+      newPrice: 37.44,
+      totalPrice: 37440
+    }
+  ],
+  netPrice: '12047538',
+  discount: 30,
+  discountValue: 3614261,
+  valueAfterDiscount: 8433276,
+  taxCode: '0.27',
+  taxAmount: 2276985,
+  grossTotal: 10710261,
+  expiryDate: 2021-12-28T00:00:00.000Z,
+  globalMatMultiplier: 1.17,
+  globalNormPrice: 4000,
+  __v: 0
+}
+  -Status:     200
+  -Req URL:    https://www.evak.hu/quotes/savequote
+  -Server uptime: 31126s
+
+
+Log ID: 11470
+Message: *** *** HIBA ÜZENET! *** ***
+Time: 2021.Dec.21 - 18:55:49
+
++ Request Log ID: [ 11471 ]
+
+  -2021.Dec.21 - 18:55:49
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.102.206
+  -Event:      Árajánlat mentési hiba: MongoError: E11000 duplicate key error collection: evak.quotes index: serialnumber_1 dup key: { serialnumber: "31179558KJ" }
+  -Status:     500
+  -Req URL:    https://www.evak.hu/quotes/savequote
+
+
+  -Server uptime: 31138s
+Log ID: 11472
+Message: admin kijelentkezett.
+Time: 2021.Dec.21 - 18:57:02
+
+Log ID: 11473
+Message: admin bejelentkezett.
+Time: 2021.Dec.21 - 19:04:43
+
++ Request Log ID: [ 11474 ]
+
+  -Username:   undefined
+  -2021.Dec.21 - 20:01:15
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Method:     GET
+  -Address:    162.221.192.26
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 35063s
+
+
++ Request Log ID: [ 11475 ]
+
+  -2021.Dec.21 - 22:09:45
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.141.34
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 42773s
+
+
++ Request Log ID: [ 11476 ]
+
+  -2021.Dec.21 - 22:39:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.1.248.26
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 44531s
+
+
++ Request Log ID: [ 11477 ]
+
+  -2021.Dec.21 - 22:39:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+  -Address:    185.220.101.165
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.102.206/
+  -Server uptime: 44558s
+
+
+Log ID: 11478
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.22 - 4:46:15
+
+Log ID: 11479
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.22 - 4:46:15
+
+Log ID: 11480
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.22 - 4:46:15
+
++ Request Log ID: [ 11481 ]
+
+  -2021.Dec.22 - 4:46:20
+  -Username:   admin
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    81.182.141.1
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 7s
+
+
+Log ID: 11482
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.22 - 4:48:14
+
+Log ID: 11483
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.22 - 4:48:14
+
+Log ID: 11484
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.22 - 4:48:14
+
++ Request Log ID: [ 11485 ]
+
+  -2021.Dec.22 - 4:54:17
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    162.221.192.26
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://81.182.141.1/
+  -Server uptime: 364s
+
+
++ Request Log ID: [ 11486 ]
+
+  -2021.Dec.22 - 7:09:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.207.231
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://81.182.141.1/actuator/health
+  -Server uptime: 8503s
+
+
++ Request Log ID: [ 11487 ]
+
+  -2021.Dec.22 - 7:30:57
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    81.182.141.1
+  -Event:      Árajánlat mentés sikeres: {
+  status: 'unsent',
+  _id: 61c2c621cfe8273900475de1,
+  username: 'admin',
+  timestamp: '2021.Dec.22 - 7:30:57',
+  createdAt: '2021-12-22T06:30:57.927Z',
+  modifiedAt: '2021-12-22T06:30:57.927Z',
+  clientname: 'Kolompár Sorompó',
+  clientaddress: '2399 TáveszBaktalófalva Alamáneum utca 72',
+  contract_type: 4,
+  serialnumber: '65611651KS',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'none',
+      note: 'Tüske ivás',
+      qty: '32',
+      unit: 'db',
+      multiplier: '0.1',
+      normPrice: 400,
+      fullPrice: 12800
+    },
+    {
+      id: 'wp_1',
+      workphase: 'none',
+      note: 'Alvás',
+      qty: '8',
+      unit: 'óra',
+      multiplier: '0.7',
+      normPrice: 2800,
+      fullPrice: 22400
+    },
+    {
+      id: 'wp_2',
+      workphase: 'none',
+      note: 'Baszakodás',
+      qty: '20',
+      unit: 'óra',
+      multiplier: '1.6',
+      normPrice: 6400,
+      fullPrice: 128000
+    },
+    {
+      id: 'wp_3',
+      workphase: 'none',
+      note: 'Kolbász pakolás',
+      qty: '12',
+      unit: 'ktg',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 48000
+    },
+    {
+      id: 'wp_4',
+      workphase: 'none',
+      note: 'Tulaj arconverése',
+      qty: '32',
+      unit: 'm²',
+      multiplier: '0',
+      normPrice: 0,
+      fullPrice: 0
+    },
+    {
+      id: 'wp_5',
+      workphase: 'none',
+      note: 'Gipszes zsákok dobálása',
+      qty: '20',
+      unit: 'kg',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 80000
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: 'none',
+      defaultPrice: '2300',
+      qty: '10',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 2300,
+      totalPrice: 23000
+    },
+    {
+      id: 'mo_1',
+      material: 'none',
+      defaultPrice: '1200',
+      qty: '12',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 1200,
+      totalPrice: 14400
+    },
+    {
+      id: 'mo_2',
+      material: 'none',
+      defaultPrice: '5400',
+      qty: '2',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 5400,
+      totalPrice: 10800
+    },
+    {
+      id: 'mo_3',
+      material: 'none',
+      defaultPrice: '32000',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 32000,
+      totalPrice: 32000
+    },
+    {
+      id: 'mo_4',
+      material: 'none',
+      defaultPrice: '12000',
+      qty: '3',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 12000,
+      totalPrice: 36000
+    },
+    {
+      id: 'mo_5',
+      material: 'none',
+      defaultPrice: '12345',
+      qty: '5',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 12345,
+      totalPrice: 61725
+    },
+    {
+      id: 'mo_6',
+      material: 'none',
+      defaultPrice: '300',
+      qty: '120',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 300,
+      totalPrice: 36000
+    },
+    {
+      id: 'mo_7',
+      material: 'none',
+      defaultPrice: '10',
+      qty: '1600',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 10,
+      totalPrice: 16000
+    },
+    {
+      id: 'mo_8',
+      material: 'none',
+      defaultPrice: '60',
+      qty: '600',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 60,
+      totalPrice: 36000
+    },
+    {
+      id: 'mo_9',
+      material: 'none',
+      defaultPrice: '200',
+      qty: '30',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 200,
+      totalPrice: 6000
+    },
+    {
+      id: 'mo_10',
+      material: 'none',
+      defaultPrice: '980',
+      qty: '12',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 980,
+      totalPrice: 11760
+    },
+    {
+      id: 'mo_11',
+      material: 'none',
+      defaultPrice: '72000',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 72000,
+      totalPrice: 72000
+    }
+  ],
+  netPrice: '646885',
+  discount: 10,
+  discountValue: 64689,
+  valueAfterDiscount: 582197,
+  taxCode: '0.27',
+  taxAmount: 157193,
+  grossTotal: 739390,
+  expiryDate: 2021-12-29T00:00:00.000Z,
+  globalMatMultiplier: 1,
+  globalNormPrice: 4000,
+  __v: 0
+}
+  -Status:     200
+  -Req URL:    https://www.evak.hu/quotes/savequote
+  -Server uptime: 9764s
+
+
++ Request Log ID: [ 11488 ]
+
+  -2021.Dec.22 - 7:37:32
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    81.182.141.1
+  -Event:      Árajánlat mentés sikeres: {
+  status: 'unsent',
+  _id: 61c2c7accfe8273900475de2,
+  username: 'admin',
+  timestamp: '2021.Dec.22 - 7:37:32',
+  createdAt: '2021-12-22T06:37:32.941Z',
+  modifiedAt: '2021-12-22T06:37:32.941Z',
+  clientname: 'Kolompár Jancsika',
+  clientaddress: '7676 Rézváros Börtön utca 23',
+  contract_type: 3,
+  serialnumber: '58389547KJ',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'none',
+      note: 'Tulaj arconverése',
+      qty: '12',
+      unit: 'm²',
+      multiplier: '0',
+      normPrice: 0,
+      fullPrice: 0
+    },
+    {
+      id: 'wp_1',
+      workphase: 'none',
+      note: 'Gipszes zsákok dobálása',
+      qty: '40',
+      unit: 'kg',
+      multiplier: '0.4',
+      normPrice: 1600,
+      fullPrice: 64000
+    },
+    {
+      id: 'wp_2',
+      workphase: 'none',
+      note: 'Tüske ivás',
+      qty: '3',
+      unit: 'óra',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 12000
+    },
+    {
+      id: 'wp_3',
+      workphase: 'none',
+      note: 'Kolbászolás',
+      qty: '200',
+      unit: 'fm',
+      multiplier: '0.01',
+      normPrice: 40,
+      fullPrice: 8000
+    },
+    {
+      id: 'wp_4',
+      workphase: 'none',
+      note: 'Farkas szem',
+      qty: '5',
+      unit: 'óra',
+      multiplier: '3',
+      normPrice: 12000,
+      fullPrice: 60000
+    },
+    {
+      id: 'wp_5',
+      workphase: 'none',
+      note: 'Hölölőzés munkaterületen',
+      qty: '3000',
+      unit: 'db',
+      multiplier: '0.002',
+      normPrice: 8,
+      fullPrice: 24000
+    },
+    {
+      id: 'wp_6',
+      workphase: 'none',
+      note: 'Kifogytam',
+      qty: '5',
+      unit: 'fm',
+      multiplier: '2',
+      normPrice: 8000,
+      fullPrice: 40000
+    },
+    {
+      id: 'wp_7',
+      workphase: 'none',
+      note: 'Az',
+      qty: '12',
+      unit: 'db',
+      multiplier: '0.4',
+      normPrice: 1600,
+      fullPrice: 19200
+    },
+    {
+      id: 'wp_8',
+      workphase: 'none',
+      note: 'Ötletekből',
+      qty: '3',
+      unit: 'db',
+      multiplier: '0.7',
+      normPrice: 2800,
+      fullPrice: 8400
+    },
+    {
+      id: 'wp_9',
+      workphase: 'none',
+      note: 'Így',
+      qty: '42',
+      unit: 'db',
+      multiplier: '0.1',
+      normPrice: 400,
+      fullPrice: 16800
+    },
+    {
+      id: 'wp_10',
+      workphase: 'none',
+      note: 'Hajnal',
+      qty: '5',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 20000
+    },
+    {
+      id: 'wp_11',
+      workphase: 'none',
+      note: '4 óra',
+      qty: '12',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 48000
+    },
+    {
+      id: 'wp_12',
+      workphase: 'none',
+      note: 'óta',
+      qty: '32',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 128000
+    },
+    {
+      id: 'wp_13',
+      workphase: 'none',
+      note: '',
+      qty: '3',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 12000
+    },
+    {
+      id: 'wp_14',
+      workphase: 'none',
+      note: '',
+      qty: '5',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 20000
+    },
+    {
+      id: 'wp_15',
+      workphase: 'none',
+      note: '',
+      qty: '6',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 24000
+    },
+    {
+      id: 'wp_16',
+      workphase: 'none',
+      note: '',
+      qty: '7',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 28000
+    },
+    {
+      id: 'wp_17',
+      workphase: 'none',
+      note: '',
+      qty: '8',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 32000
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: 'none',
+      defaultPrice: '322',
+      qty: '32',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 322,
+      totalPrice: 10304
+    },
+    {
+      id: 'mo_1',
+      material: 'none',
+      defaultPrice: '6446',
+      qty: '43',
+      unit: 'kg',
+      multiplier: '1',
+      newPrice: 6446,
+      totalPrice: 277178
+    },
+    {
+      id: 'mo_2',
+      material: 'none',
+      defaultPrice: '412',
+      qty: '13',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 412,
+      totalPrice: 5356
+    },
+    {
+      id: 'mo_3',
+      material: 'none',
+      defaultPrice: '532',
+      qty: '231',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 532,
+      totalPrice: 122892
+    },
+    {
+      id: 'mo_4',
+      material: 'none',
+      defaultPrice: '634',
+      qty: '423',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 634,
+      totalPrice: 268182
+    },
+    {
+      id: 'mo_5',
+      material: 'none',
+      defaultPrice: '865',
+      qty: '534',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 865,
+      totalPrice: 461910
+    },
+    {
+      id: 'mo_6',
+      material: 'none',
+      defaultPrice: '75474',
+      qty: '65',
+      unit: 'ktg',
+      multiplier: '1',
+      newPrice: 75474,
+      totalPrice: 4905810
+    },
+    {
+      id: 'mo_7',
+      material: 'none',
+      defaultPrice: '346',
+      qty: '12',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 346,
+      totalPrice: 4152
+    },
+    {
+      id: 'mo_8',
+      material: 'none',
+      defaultPrice: '412',
+      qty: '123',
+      unit: 'ktg',
+      multiplier: '1',
+      newPrice: 412,
+      totalPrice: 50676
+    },
+    {
+      id: 'mo_9',
+      material: 'none',
+      defaultPrice: '532',
+      qty: '745',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 532,
+      totalPrice: 396340
+    },
+    {
+      id: 'mo_10',
+      material: 'none',
+      defaultPrice: '463',
+      qty: '634',
+      unit: 'klt',
+      multiplier: '1',
+      newPrice: 463,
+      totalPrice: 293542
+    },
+    {
+      id: 'mo_11',
+      material: 'none',
+      defaultPrice: '412',
+      qty: '523',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 412,
+      totalPrice: 215476
+    },
+    {
+      id: 'mo_12',
+      material: 'none',
+      defaultPrice: '301',
+      qty: '412',
+      unit: 'm²',
+      multiplier: '1',
+      newPrice: 301,
+      totalPrice: 124012
+    },
+    {
+      id: 'mo_13',
+      material: 'none',
+      defaultPrice: '421',
+      qty: '457',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 421,
+      totalPrice: 192397
+    },
+    {
+      id: 'mo_14',
+      material: 'none',
+      defaultPrice: '643',
+      qty: '346',
+      unit: 'm²',
+      multiplier: '1',
+      newPrice: 643,
+      totalPrice: 222478
+    },
+    {
+      id: 'mo_15',
+      material: 'none',
+      defaultPrice: '532',
+      qty: '234',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 532,
+      totalPrice: 124488
+    },
+    {
+      id: 'mo_16',
+      material: 'none',
+      defaultPrice: '5321',
+      qty: '12',
+      unit: 'kg',
+      multiplier: '1',
+      newPrice: 5321,
+      totalPrice: 63852
+    },
+    {
+      id: 'mo_17',
+      material: 'none',
+      defaultPrice: '2341',
+      qty: '421',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 2341,
+      totalPrice: 985561
+    },
+    {
+      id: 'mo_18',
+      material: 'none',
+      defaultPrice: '2421',
+      qty: '634',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 2421,
+      totalPrice: 1534914
+    },
+    {
+      id: 'mo_19',
+      material: 'none',
+      defaultPrice: '10',
+      qty: '2000',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 10,
+      totalPrice: 20000
+    }
+  ],
+  netPrice: '10843920',
+  discount: 10,
+  discountValue: 1084392,
+  valueAfterDiscount: 9759528,
+  taxCode: '0.27',
+  taxAmount: 2635073,
+  grossTotal: 12394601,
+  expiryDate: 2021-12-29T00:00:00.000Z,
+  globalMatMultiplier: 1,
+  globalNormPrice: 4000,
+  __v: 0
+}
+  -Status:     200
+  -Req URL:    https://www.evak.hu/quotes/savequote
+  -Server uptime: 10159s
+
+
+Log ID: 11489
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.23 - 20:49:43
+Log ID: 11490
+
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.23 - 20:49:43
+
+Log ID: 11491
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.23 - 20:49:43
+
+Log ID: 11492
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.23 - 20:49:48
+
+Log ID: 11493
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.23 - 20:49:48
+
+Log ID: 11494
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.23 - 20:49:48
+
++ Request Log ID: [ 11495 ]
+
+  -2021.Dec.23 - 20:50:52
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.120.245
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 65s
+
+
++ Request Log ID: [ 11496 ]
+
+  -2021.Dec.23 - 20:52:58
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.134.134
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 191s
+
+
++ Request Log ID: [ 11497 ]
+
+  -2021.Dec.23 - 21:00:59
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    192.53.170.243
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 673s
+
+
++ Request Log ID: [ 11498 ]
+
+  -2021.Dec.23 - 21:16:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    167.248.133.116
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 1631s
+
+
+Log ID: 11499
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.23 - 21:22:51
+
+Log ID: 11500
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.23 - 21:22:51
+
+Log ID: 11501
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.23 - 21:22:51
+
++ Request Log ID: [ 11502 ]
+
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -2021.Dec.23 - 21:22:53
+  -Address:    149.200.120.245
+  -Event:      Védett tartalomhoz való jogosulatlan hozzáférési próbálkozás
+  -Status:     401
+  -Method:     GET
+  -Req URL:    https://www.evak.hu/
+
+
+  -Server uptime: 4s
+Log ID: 11503
+Message: admin bejelentkezett.
+
+Time: 2021.Dec.23 - 21:22:59
++ Request Log ID: [ 11504 ]
+
+  -2021.Dec.23 - 22:09:06
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+  -Address:    106.75.241.23
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 2776s
+
+
++ Request Log ID: [ 11505 ]
+
+  -2021.Dec.23 - 23:05:50
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.120.245
+  -Event:      Árajánlat mentés sikeres: {
+  status: 'unsent',
+  _id: 61c4f2be74de891788001cfe,
+  username: 'admin',
+  timestamp: '2021.Dec.23 - 23:05:50',
+  createdAt: '2021-12-23T22:05:50.970Z',
+  modifiedAt: '2021-12-23T22:05:50.970Z',
+  clientname: 'Tamási Ákos',
+  clientaddress: '2730 Albertirsa Mikebudai utca 22',
+  contract_type: 1,
+  serialnumber: '26130533TÁ',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'Elosztó szekrény elhelyezése falba süllyesztve',
+      note: '',
+      qty: '1',
+      unit: 'db',
+      multiplier: '5',
+      normPrice: 20000,
+      fullPrice: 20000
+    },
+    {
+      id: 'wp_1',
+      workphase: 'Új mért bejövő fővezeték kiépítése az elosztószekrényig',
+      note: '',
+      qty: '1',
+      unit: 'db',
+      multiplier: '2',
+      normPrice: 8000,
+      fullPrice: 8000
+    },
+    {
+      id: 'wp_2',
+      workphase: 'Szerelvénydobozok és kötődobozok elhelyezése kehelymarással és véséssel falba süllyesztve gipszeléssel',
+      note: '',
+      qty: '68',
+      unit: 'db',
+      multiplier: '0.2',
+      normPrice: 800,
+      fullPrice: 54400
+    },
+    {
+      id: 'wp_3',
+      workphase: 'Falhoronymarás 20mm2 csőnek véséssel',
+      note: '',
+      qty: '65',
+      unit: 'fm',
+      multiplier: '0.2',
+      normPrice: 800,
+      fullPrice: 52000
+    },
+    {
+      id: 'wp_4',
+      workphase: 'Falhoronymarás 16mm2 csőnek véséssel',
+      note: '',
+      qty: '30',
+      unit: 'fm',
+      multiplier: '0.2',
+      normPrice: 800,
+      fullPrice: 24000
+    },
+    {
+      id: 'wp_5',
+      workphase: 'Falhoronymarás 40mm2 csőnek véséssel',
+      note: '',
+      qty: '10',
+      unit: 'fm',
+      multiplier: '0.3',
+      normPrice: 1200,
+      fullPrice: 12000
+    },
+    {
+      id: 'wp_6',
+      workphase: 'Védőcsövek szerelése falba süllyesztve előre elkészített hornyokba gipszeléssel',
+      note: '',
+      qty: '105',
+      unit: 'fm',
+      multiplier: '0.15',
+      normPrice: 600,
+      fullPrice: 63000
+    },
+    {
+      id: 'wp_7',
+      workphase: 'Védőcsövek szerelése talajra fektetve ',
+      note: 'szerelő beton elkészítése előtt',
+      qty: '200',
+      unit: 'fm',
+      multiplier: '0.1',
+      normPrice: 400,
+      fullPrice: 80000
+    },
+    {
+      id: 'wp_8',
+      workphase: 'Védőcsövek szerelése padláson',
+      note: '',
+      qty: '50',
+      unit: 'fm',
+      multiplier: '0.18',
+      normPrice: 720,
+      fullPrice: 36000
+    },
+    {
+      id: 'wp_9',
+      workphase: 'Kábelárok ásás 60cm mélységben visszatemetéssel ',
+      note: '',
+      qty: '65',
+      unit: 'fm',
+      multiplier: '0.25',
+      normPrice: 1000,
+      fullPrice: 65000
+    },
+    {
+      id: 'wp_10',
+      workphase: 'Földkábel elhelyezése előre elkészített kábelárokban jelzőszalaggal',
+      note: '',
+      qty: '100',
+      unit: 'fm',
+      multiplier: '0.1',
+      normPrice: 400,
+      fullPrice: 40000
+    },
+    {
+      id: 'wp_11',
+      workphase: 'Vezetékbehúzás 1,5mm2 tömör rézvezetékkel',
+      note: '',
+      qty: '900',
+      unit: 'fm',
+      multiplier: '0.05',
+      normPrice: 200,
+      fullPrice: 180000
+    },
+    {
+      id: 'wp_12',
+      workphase: 'Vezetékbehúzás 2,5mm2 sodrott rézvezetékkel',
+      note: '',
+      qty: '240',
+      unit: 'fm',
+      multiplier: '0.05',
+      normPrice: 200,
+      fullPrice: 48000
+    },
+    {
+      id: 'wp_13',
+      workphase: 'Vezetékbehúzás 6mm2 sodrott rézvezetékkel',
+      note: '',
+      qty: '40',
+      unit: 'fm',
+      multiplier: '0.06',
+      normPrice: 240,
+      fullPrice: 9600
+    },
+    {
+      id: 'wp_14',
+      workphase: 'Vezetékbehúzás 10mm2 sodrott rézvezetékkel',
+      note: '',
+      qty: '55',
+      unit: 'fm',
+      multiplier: '0.08',
+      normPrice: 320,
+      fullPrice: 17600
+    },
+    {
+      id: 'wp_15',
+      workphase: 'Földelés kiépítése 2m',
+      note: '',
+      qty: '1',
+      unit: 'db',
+      multiplier: '5',
+      normPrice: 20000,
+      fullPrice: 20000
+    },
+    {
+      id: 'wp_16',
+      workphase: 'EPH kiépítése',
+      note: '',
+      qty: '1',
+      unit: 'db',
+      multiplier: '3',
+      normPrice: 12000,
+      fullPrice: 12000
+    },
+    {
+      id: 'wp_17',
+      workphase: 'Elosztó szekrény üzembe helyezése',
+      note: '',
+      qty: '1',
+      unit: 'db',
+      multiplier: '12',
+      normPrice: 48000,
+      fullPrice: 48000
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: 'Gégecső lépésálló/betonozható, duplafalú 20/100 (lila) FKCO DX15820X Gewiss',
+      defaultPrice: '195',
+      qty: '150',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 195,
+      totalPrice: 29250
+    },
+    {
+      id: 'mo_1',
+      material: 'Gégecső lépésálló/betonozható, duplafalú 25/75 (lila) FKCO DX15825X Gewiss',
+      defaultPrice: '220',
+      qty: '50',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 220,
+      totalPrice: 11000
+    },
+    {
+      id: 'mo_2',
+      material: 'Gégecső lépésálló 20/ 50 fekete 750N AS07793 Gewiss',
+      defaultPrice: '100',
+      qty: '100',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 100,
+      totalPrice: 10000
+    },
+    {
+      id: 'mo_3',
+      material: 'Mü.II. cső PEP 16 szürke 2,5fm/szál',
+      defaultPrice: '82',
+      qty: '35',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 82,
+      totalPrice: 2870
+    },
+    {
+      id: 'mo_4',
+      material: 'Gégecső lépésálló 40/25 fekete 750N FK15 DX15040R Gewiss',
+      defaultPrice: '345',
+      qty: '12',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 345,
+      totalPrice: 4140
+    },
+    {
+      id: 'mo_5',
+      material: 'Alumax 50-es 2 csavaros',
+      defaultPrice: '450',
+      qty: '2',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 450,
+      totalPrice: 900
+    },
+    {
+      id: 'mo_6',
+      material: 'Fővezeték sorkapocs 2x 25/2x16mm2 WPD 101 2X25/2X16 BL 1560670000 Weidmüller',
+      defaultPrice: '980',
+      qty: '5',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 980,
+      totalPrice: 4900
+    },
+    {
+      id: 'mo_7',
+      material: 'SEZ kötődoboz S-BOX 316 sima falú 150x110x70',
+      defaultPrice: '1350',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 1350,
+      totalPrice: 1350
+    },
+    {
+      id: 'mo_8',
+      material: 'Kötődoboz 100*100 sülly. KOPP 356102005',
+      defaultPrice: '435',
+      qty: '10',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 435,
+      totalPrice: 4350
+    },
+    {
+      id: 'mo_9',
+      material: 'Rúdföldelő D20 2m horg.+horganyzott RD10 köracél',
+      defaultPrice: '9800',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 9800,
+      totalPrice: 9800
+    },
+    {
+      id: 'mo_10',
+      material: 'Stukatur gipsz',
+      defaultPrice: '115',
+      qty: '120',
+      unit: 'kg',
+      multiplier: '1',
+      newPrice: 115,
+      totalPrice: 13800
+    },
+    {
+      id: 'mo_11',
+      material: 'H07V-U 1x 1,5 (100) 450/750V egyerű tömörvezeték (M-Cu)',
+      defaultPrice: '88',
+      qty: '900',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 88,
+      totalPrice: 79200
+    },
+    {
+      id: 'mo_12',
+      material: 'H07V-U 1x 2,5 (100) 450/750V hajlékony egyerű sodrott vezeték (M-kh)',
+      defaultPrice: '162',
+      qty: '240',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 162,
+      totalPrice: 38880
+    },
+    {
+      id: 'mo_13',
+      material: 'H07V-K 1x 6 (100) 450/750V hajlékony egyerű sodrott vezeték (M-kh)',
+      defaultPrice: '375',
+      qty: '40',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 375,
+      totalPrice: 15000
+    },
+    {
+      id: 'mo_14',
+      material: 'H07V-K 1x 10 (100) 450/750V hajlékony egyerű sodrott vezeték (M-kh)',
+      defaultPrice: '630',
+      qty: '55',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 630,
+      totalPrice: 34650
+    },
+    {
+      id: 'mo_15',
+      material: 'NYM-J 3x 1,5 szürke (100) 300/500V tömör installációs vezeték (MB-Cu)',
+      defaultPrice: '245',
+      qty: '50',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 245,
+      totalPrice: 12250
+    },
+    {
+      id: 'mo_16',
+      material: 'NYY-J 3X 1,5 RE (FÖLDKÁBEL 1KV)',
+      defaultPrice: '310',
+      qty: '100',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 310,
+      totalPrice: 31000
+    },
+    {
+      id: 'mo_17',
+      material: 'Számítógép vezeték CAT5 E - UTP fali réz PVC',
+      defaultPrice: '160',
+      qty: '20',
+      unit: 'fm',
+      multiplier: '1',
+      newPrice: 160,
+      totalPrice: 3200
+    },
+    {
+      id: 'mo_18',
+      material: 'HAGER Volta kiselosztó IP30, 4x12M, süllyesztett, fém, teli ajtós, 720x314,5x87mm falkivágásba VU48NE',
+      defaultPrice: '34000',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 34000,
+      totalPrice: 34000
+    },
+    {
+      id: 'mo_19',
+      material: 'Műa.D-6071/1 sorol.71mm 65 sárga Dunszt szerelvénydoboz',
+      defaultPrice: '62',
+      qty: '58',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 62,
+      totalPrice: 3596
+    },
+    {
+      id: 'mo_20',
+      material: 'Kismegszakító 1B 16A 6kA RX3 419136 Legrand',
+      defaultPrice: '1100',
+      qty: '4',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 1100,
+      totalPrice: 4400
+    },
+    {
+      id: 'mo_21',
+      material: 'Kismegszakító 3B 16A 6kA RX3 419136 Legrand',
+      defaultPrice: '3800',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 3800,
+      totalPrice: 3800
+    },
+    {
+      id: 'mo_22',
+      material: 'Kismegszakító 1B 13A 6kA RX3 419133 Legrand',
+      defaultPrice: '1100',
+      qty: '7',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 1100,
+      totalPrice: 7700
+    },
+    {
+      id: 'mo_23',
+      material: 'Kismegszakító 1B 10A 6kA RX3 419130 Legrand',
+      defaultPrice: '1100',
+      qty: '2',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 1100,
+      totalPrice: 2200
+    },
+    {
+      id: 'mo_24',
+      material: 'Legrand RX3 áram-védőkapcsoló 4P 40A A 30MA 402075',
+      defaultPrice: '15000',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 15000,
+      totalPrice: 15000
+    },
+    {
+      id: 'mo_25',
+      material: 'Leg.412408 CX3 impulzusrelé 16A 230V 1Z',
+      defaultPrice: '5400',
+      qty: '1',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 5400,
+      totalPrice: 5400
+    }
+  ],
+  netPrice: '1172236',
+  discount: 0,
+  discountValue: 0,
+  valueAfterDiscount: 1172236,
+  taxCode: 'AAM',
+  taxAmount: 0,
+  grossTotal: 1172236,
+  expiryDate: 2022-01-06T00:00:00.000Z,
+  globalMatMultiplier: 1,
+  globalNormPrice: 4000,
+  __v: 0
+}
+  -Server uptime: 6181s
+  -Req URL:    https://www.evak.hu/quotes/savequote
+  -Status:     200
+
+
++ Request Log ID: [ 11506 ]
+
+  -2021.Dec.24 - 0:01:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.141.34
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 9548s
+
+
++ Request Log ID: [ 11507 ]
+
+  -2021.Dec.24 - 0:40:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    python-requests/2.21.0
+  -Address:    89.248.173.131
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/remote/login?lang=en
+  -Server uptime: 11858s
+
+
+Log ID: 11508
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.25 - 11:15:54
+Log ID: 11509
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 11:15:54
+
+Log ID: 11510
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 11:15:54
+
+Log ID: 11511
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 11:17:35
+
+Log ID: 11512
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 11:17:35
+
+Log ID: 11513
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 11:17:35
+
+Log ID: 11514
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 11:19:24
+
+Log ID: 11515
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 11:19:24
+
+Log ID: 11516
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 11:19:24
+
+Log ID: 11517
+Message: admin bejelentkezett.
+Time: 2021.Dec.25 - 11:55:16
+
+Log ID: 11518
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:02:50
+
+Log ID: 11519
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:02:50
+
+Log ID: 11520
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:02:50
+
++ Request Log ID: [ 11521 ]
+
+  -2021.Dec.25 - 12:04:47
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+  -Address:    47.243.250.175
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 117s
+
+
++ Request Log ID: [ 11522 ]
+
+  -2021.Dec.25 - 12:04:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    fasthttp
+  -Address:    47.243.250.175
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/sitemap.xml
+  -Server uptime: 126s
+
+
+Log ID: 11523
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:05:36
+
+Log ID: 11524
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:05:36
+
+Log ID: 11525
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:05:36
+
+Log ID: 11526
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:06:46
+
+Log ID: 11527
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:06:46
+
+Log ID: 11528
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:06:46
+
+Log ID: 11529
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:06:51
+
+Log ID: 11530
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:06:51
+
+Log ID: 11531
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:06:51
+
+Log ID: 11532
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:12:46
+
+Log ID: 11533
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:12:46
+
+Log ID: 11534
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:12:46
+
+Log ID: 11535
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:13:38
+
+Log ID: 11536
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:13:38
+
+Log ID: 11537
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:13:38
+
+Log ID: 11538
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:21:24
+
+Log ID: 11539
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:21:24
+
+Log ID: 11540
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:21:24
+
+Log ID: 11541
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:22:56
+
+Log ID: 11542
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:22:56
+
+Log ID: 11543
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:22:56
+
+Log ID: 11544
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:24:23
+
+Log ID: 11545
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:24:23
+
+Log ID: 11546
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:24:23
+
+Log ID: 11547
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:25:37
+
+Log ID: 11548
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:25:37
+
+Log ID: 11549
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:25:37
+
++ Request Log ID: [ 11550 ]
+
+  -2021.Dec.25 - 12:26:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.134.134
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 60s
+
+
+Log ID: 11551
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.25 - 12:30:36
+
+Log ID: 11552
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.25 - 12:30:36
+
+Log ID: 11553
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.25 - 12:30:36
+
++ Request Log ID: [ 11554 ]
+
+  -2021.Dec.25 - 13:21:32
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) Project-Resonance (http://project-resonance.com/) (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+  -Address:    167.71.52.218
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 3056s
+
+
++ Request Log ID: [ 11555 ]
+
+  -2021.Dec.25 - 14:17:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    193.118.53.194
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6392s
+
+
++ Request Log ID: [ 11556 ]
+  -2021.Dec.25 - 14:23:47
+
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/60.0.3076.86 Safari/537.32
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6791s
+
+
++ Request Log ID: [ 11557 ]
+
+  -2021.Dec.25 - 14:23:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6793s
+
+
++ Request Log ID: [ 11558 ]
+
+  -2021.Dec.25 - 14:23:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6793s
+
+
++ Request Log ID: [ 11559 ]
+
+  -2021.Dec.25 - 14:23:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6793s
+
+
++ Request Log ID: [ 11560 ]
+
+  -2021.Dec.25 - 14:23:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6794s
+
+
++ Request Log ID: [ 11561 ]
+
+  -2021.Dec.25 - 14:23:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6794s
+
+
++ Request Log ID: [ 11562 ]
+
+  -2021.Dec.25 - 14:24:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6813s
+
+
++ Request Log ID: [ 11563 ]
+
+  -2021.Dec.25 - 14:24:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6813s
+
+
++ Request Log ID: [ 11564 ]
+
+  -2021.Dec.25 - 14:24:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6813s
+
+
++ Request Log ID: [ 11565 ]
+
+  -2021.Dec.25 - 14:24:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6813s
+
+
++ Request Log ID: [ 11566 ]
+
+  -2021.Dec.25 - 14:24:09
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Method:     GET
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6813s
+
+
++ Request Log ID: [ 11567 ]
+
+  -2021.Dec.25 - 14:24:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11568 ]
+
+  -2021.Dec.25 - 14:24:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11569 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11570 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11571 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11572 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6814s
+
+
++ Request Log ID: [ 11573 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6815s
+
+
++ Request Log ID: [ 11574 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6815s
+
+
++ Request Log ID: [ 11575 ]
+
+  -2021.Dec.25 - 14:24:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6815s
+
+
++ Request Log ID: [ 11576 ]
+
+  -2021.Dec.25 - 14:24:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6815s
+  -Status:     undefined
+
+
++ Request Log ID: [ 11577 ]
+
+  -2021.Dec.25 - 14:24:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6815s
+  -Status:     undefined
+
+
++ Request Log ID: [ 11578 ]
+
+  -2021.Dec.25 - 14:24:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6816s
+
+
++ Request Log ID: [ 11579 ]
+
+  -2021.Dec.25 - 14:24:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6816s
+
+
++ Request Log ID: [ 11580 ]
+
+  -2021.Dec.25 - 14:24:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6817s
+
+
++ Request Log ID: [ 11581 ]
+
+  -2021.Dec.25 - 14:24:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6817s
+
+
++ Request Log ID: [ 11582 ]
+
+  -2021.Dec.25 - 14:24:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6817s
+
+
++ Request Log ID: [ 11583 ]
+
+  -2021.Dec.25 - 14:24:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6818s
+
+
++ Request Log ID: [ 11584 ]
+
+  -2021.Dec.25 - 14:24:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+  -Address:    54.146.255.239
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6818s
+
+
++ Request Log ID: [ 11585 ]
+
+  -2021.Dec.25 - 14:39:37
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.201.179
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 7741s
+
+
++ Request Log ID: [ 11586 ]
+
+  -2021.Dec.25 - 15:51:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+  -Address:    128.1.248.34
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 12032s
+
+
+Log ID: 11587
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.26 - 16:30:31
+Message: HTTPS Server started on port 12000
+Log ID: 11588
+Time: 2021.Dec.26 - 16:30:31
+
+Log ID: 11589
+Message: HTTP Server started on port 11000
+Time: 2021.Dec.26 - 16:30:40
+
+Log ID: 11590
+Message: HTTPS Server started on port 12000
+Time: 2021.Dec.26 - 16:30:40
+
+Log ID: 11591
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.26 - 16:30:40
+
+Log ID: 11592
+Time: 2021.Dec.26 - 16:30:59
+Message: admin bejelentkezett.
+
++ Request Log ID: [ 11593 ]
+
+  -2021.Dec.26 - 17:11:39
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.120.245
+  -Event:      Árajánlat mentés sikeres: {
+  status: 'unsent',
+  _id: 61c8943bd1dea1026cfcb9e4,
+  username: 'admin',
+  timestamp: '2021.Dec.26 - 17:11:39',
+  createdAt: '2021-12-26T16:11:39.501Z',
+  modifiedAt: '2021-12-26T16:11:39.501Z',
+  clientname: 'Apacuka Fundaluka',
+  clientaddress: '1234 Fahaka Kalaha 23',
+  contract_type: 4,
+  serialnumber: '75137875AF',
+  worklist: [
+    {
+      id: 'wp_0',
+      workphase: 'fasfas',
+      note: '',
+      qty: '421',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 1684000
+    },
+    {
+      id: 'wp_1',
+      workphase: 'dfhdfhhdf',
+      note: '',
+      qty: '235',
+      unit: 'db',
+      multiplier: '1',
+      normPrice: 4000,
+      fullPrice: 940000
+    }
+  ],
+  materiallist: [
+    {
+      id: 'mo_0',
+      material: '2134fasfas',
+      defaultPrice: '352',
+      qty: '32',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 352,
+      totalPrice: 11264
+    },
+    {
+      id: 'mo_1',
+      material: 'gdsdfghsdfhs',
+      defaultPrice: '124',
+      qty: '634',
+      unit: 'db',
+      multiplier: '1',
+      newPrice: 124,
+      totalPrice: 78616
+    }
+  ],
+  netPrice: '2713880',
+  discount: 10,
+  discountValue: 271388,
+  valueAfterDiscount: 2442492,
+  taxCode: '0.27',
+  taxAmount: 659473,
+  grossTotal: 3101965,
+  expiryDate: 2021-12-29T00:00:00.000Z,
+  globalMatMultiplier: 1,
+  globalNormPrice: 4000,
+  __v: 0
+}
+  -Status:     200
+  -Req URL:    https://www.evak.hu/quotes/savequote
+  -Server uptime: 2461s
+
+
++ Request Log ID: [ 11594 ]
+
+  -2021.Dec.26 - 17:49:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.54
+  -Address:    89.248.160.193
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245:443/admin/public/index.html
+  -Server uptime: 4718s
+
+
++ Request Log ID: [ 11595 ]
+
+  -2021.Dec.26 - 17:52:54
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://149.200.120.245/
+  -Address:    143.92.63.172
+  -Server uptime: 4935s
+  -Status:     undefined
+
+
++ Request Log ID: [ 11596 ]
+
+  -2021.Dec.26 - 17:53:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Go-http-client/1.1
+  -Address:    143.92.63.172
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/robots.txt
+  -Server uptime: 4968s
+
+
++ Request Log ID: [ 11597 ]
+
+  -Username:   undefined
+  -2021.Dec.26 - 17:53:38
+  -Browser:    Go-http-client/1.1
+  -Address:    143.92.63.172
+  -Event:      Oldalfelkeresés
+  -Method:     GET
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/sitemap.xml
+  -Server uptime: 4979s
+
+
++ Request Log ID: [ 11598 ]
+
+  -2021.Dec.26 - 18:09:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+  -Address:    183.136.225.9
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245:443/
+  -Server uptime: 5916s
+
+
++ Request Log ID: [ 11599 ]
+
+  -2021.Dec.26 - 18:12:24
+  -Method:     POST
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  -Address:    185.215.164.39
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6106s
+
+
++ Request Log ID: [ 11600 ]
+
+  -2021.Dec.26 - 18:12:25
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+  -Address:    185.215.164.39
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/.env
+  -Server uptime: 6106s
+
+
++ Request Log ID: [ 11601 ]
+
+  -2021.Dec.26 - 18:22:52
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.213.160
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 6734s
+
+
+Log ID: 11602
+Message: Request from blacklisted IP address
+Time: 2021.Dec.26 - 19:30:29
+
++ Request Log ID: [ 11603 ]
+
+  -2021.Dec.26 - 21:14:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    142.93.190.15
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 17016s
+
+
++ Request Log ID: [ 11604 ]
+
+  -2021.Dec.26 - 21:14:31
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Go-http-client/1.1
+  -Address:    142.93.190.15
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/robots.txt
+  -Server uptime: 17033s
+
+
++ Request Log ID: [ 11605 ]
+
+  -2021.Dec.26 - 21:14:35
+  -Username:   undefined
+  -Browser:    Go-http-client/1.1
+  -Method:     GET
+  -Address:    142.93.190.15
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/sitemap.xml
+  -Server uptime: 17037s
+
+
++ Request Log ID: [ 11606 ]
+
+  -2021.Dec.26 - 22:22:52
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+  -Address:    71.6.199.23
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/
+  -Server uptime: 21134s
+
+
++ Request Log ID: [ 11607 ]
+
+  -2021.Dec.26 - 22:23:06
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    71.6.199.23
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/robots.txt
+  -Server uptime: 21147s
+
+
++ Request Log ID: [ 11608 ]
+
+  -Username:   undefined
+  -2021.Dec.26 - 22:23:08
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    71.6.199.23
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://149.200.120.245/sitemap.xml
+  -Status:     undefined
+
+
+  -Server uptime: 21149s
++ Request Log ID: [ 11609 ]
+
+  -2021.Dec.26 - 22:23:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    71.6.199.23
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://149.200.120.245/.well-known/security.txt
+  -Server uptime: 21150s
+
+
+Log ID: 11610
+Message: HTTP Server started on port 11000
+
+Time: 2021.Dec.27 - 19:48:24
+Message: HTTPS Server started on port 12000
+Log ID: 11611
+Time: 2021.Dec.27 - 19:48:24
+
+Log ID: 11612
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2021.Dec.27 - 19:48:24
+
+Log ID: 11613
+Message: admin kijelentkezett.
+
+Time: 2021.Dec.27 - 19:49:09
+Log ID: 11614
+Message: admin bejelentkezett.
+Time: 2021.Dec.27 - 19:49:16
+
+Log ID: 11615
+Message: admin bejelentkezett az admin menübe.
+Time: 2021.Dec.27 - 19:51:19
+
+Log ID: 11616
+Message: admin kijelentkezett.
+Time: 2021.Dec.27 - 19:52:56
+
++ Request Log ID: [ 11617 ]
+
+  -2021.Dec.27 - 19:52:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    149.200.120.245
+  -Event:      Védett tartalomhoz való jogosulatlan hozzáférési próbálkozás
+  -Status:     401
+  -Req URL:    https://www.evak.hu/home
+  -Server uptime: 275s
+
+
+Log ID: 11618
+Message: admin bejelentkezett.
+Time: 2021.Dec.27 - 19:53:45
+

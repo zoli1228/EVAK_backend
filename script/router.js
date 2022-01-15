@@ -1,8 +1,9 @@
 const express = require("express");
 const router = express.Router()
 const clientAddress = require("./getclientaddress.js")
-const adminIp = "149.200.102.206"
+const adminIp = "149.200.120.245"
 const guestIp = "149.200.119.52"
+const time = require("./timestamp")
 const path = require('path')
 const bodyParser = require('body-parser')
 const auth = require('./checkAuthState.js')
@@ -10,6 +11,13 @@ const myLogger = require('./logger.js') // (Message, req, status) (if !req && !s
 const pages = require("./pages.js");
 const cookieParser = require("cookie-parser")
 const mongoose = require('mongoose');
+const publicIP = require('external-ip')()
+let serverAddress;
+publicIP((err, ip) => {
+    if (err) throw err
+    console.log("Server ip set to: " + ip)
+    serverAddress = ip
+})
 
 router.use(bodyParser.json())
 router.use(express.urlencoded({ extended: true }));
@@ -17,48 +25,49 @@ router.use(cookieParser())
 
 const userSession = require('express-session')
 const MongoDBStore = require('connect-mongodb-session')(userSession)
-const blackListed = require('./BLACKLIST')
+const blackListed = require('./BLACKLIST');
+const { env } = require("process");
 
-    router.use((req, res, next) => {
-        let hostAddress = clientAddress.getClientAddress(req)
-        if(blackListed.includes(hostAddress)) {
-            myLogger("Request from blacklisted IP address")
-           return res.status(418).send("Your IP address is blacklisted on this site")
-        }
-        else {
-            next()
-        }
+router.use((req, res, next) => {
+    let hostAddress = clientAddress.getClientAddress(req)
+    if (blackListed.includes(hostAddress)) {
+        myLogger("Request from blacklisted IP address")
+        return res.status(418).send("Your IP address is blacklisted on this site")
+    }
+    else {
+        next()
+    }
 
-    })
+})
 
-    let usersMongoStore = new MongoDBStore({
-        uri: 'mongodb://localhost:27017/evak',
-        collection: 'usersessions',
-    });
-    
-    usersMongoStore.on('error', function (error) {
-        myLogger(error);
-    });
+let usersMongoStore = new MongoDBStore({
+    uri: 'mongodb://localhost:27017/evak',
+    collection: 'usersessions',
+});
 
-    router.use(require('express-session')({
-        secret: 'fd532d1539d094c47681dd6db74242d26a02af39132f3f7ea470507321eb847e',
-        cookie: {
-            expires: 1000 * 60 * 60 * 24,
-            maxAge: 1000 * 60 * 60 * 24,// 1 day
-            httpOnly: false,
-            secure: true
-        },
-        store: usersMongoStore,
-        resave: true,
-        saveUninitialized: false,
-        rolling: true,
-        connectionOptions: {
-            useNewUrlParser: true,
-            useUnifiedTopology: true,
-            serverSelectionTimeoutMS: 2000
-        }
-    
-    }));
+usersMongoStore.on('error', function (error) {
+    myLogger(error);
+});
+
+router.use(require('express-session')({
+    secret: 'fd532d1539d094c47681dd6db74242d26a02af39132f3f7ea470507321eb847e',
+    cookie: {
+        expires: 1000 * 60 * 60 * 24,
+        maxAge: 1000 * 60 * 60 * 24,// 1 day
+        httpOnly: false,
+        secure: true
+    },
+    store: usersMongoStore,
+    resave: true,
+    saveUninitialized: false,
+    rolling: true,
+    connectionOptions: {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+        serverSelectionTimeoutMS: 2000
+    }
+
+}));
 
 
 let mongoDB = 'mongodb://localhost:27017/evak';
@@ -68,13 +77,13 @@ mongoose.connect(mongoDB, {
     useCreateIndex: true,
     serverSelectionTimeoutMS: 2000
 })
-.then(resolve => {
-    myLogger("MONGO DB EVAK KAPCSOLÓDÁS SIKERES")
-})
-.catch(err => {
-    myLogger("MONGO ERROR:  " + err)
-    return
-})
+    .then(resolve => {
+        myLogger("MONGO DB EVAK KAPCSOLÓDÁS SIKERES")
+    })
+    .catch(err => {
+        myLogger("MONGO ERROR:  " + err)
+        return
+    })
 let db = mongoose.connection;
 db.on('error', (error) => {
     return myLogger("MONGODB HIBA: " + error)
@@ -83,32 +92,37 @@ db.on('error', (error) => {
 
 
 router.use((req, res, next) => {
-    if (clientAddress.getClientAddress(req) == adminIp || clientAddress.getClientAddress(req) == guestIp) {
-       return next()
+    if ( clientAddress.getClientAddress(req) ==  serverAddress || clientAddress.getClientAddress(req) == guestIp
+        || req.session?.user?.username == "admin"
+    ) {
+        return next()
     }
-    else {
-        myLogger("Oldalfelkeresés" , req)
-        res.sendFile(pages.underCs)
+    if (req.path == "/login") {
+        return next()
     }
+
+    myLogger(" * EVAK.HU felkeresése   ", req)
+    res.sendFile(pages.underCs)
+
 })
 
 
 router.use((req, res, next) => {
     try {
-    let origin = req.headers.origin
-    if (req.headers.origin == "http://localhost:8000" || req.headers.origin == "https://www.evak.hu") {
+        let origin = req.headers.origin
+        if (req.headers.origin == "https://www.evak.hu" || req.headers.origin == "https://evak.hu") {
 
-        res.setHeader("Access-Control-Allow-Origin", `${origin}`);
+            res.setHeader("Access-Control-Allow-Origin", `${origin}`);
+        }
+
+        res.header(
+            "Access-Control-Allow-Headers",
+            "Origin, X-Requested-With, Content-Type, Accept"
+        );
+        next();
+    } catch (err) {
+        myLogger("Hiba a header-ek beállítása közben.  :   " + err)
     }
-
-    res.header(
-        "Access-Control-Allow-Headers",
-        "Origin, X-Requested-With, Content-Type, Accept"
-    );
-    next();
-}   catch(err) {
-    myLogger("Hiba a header-ek beállítása közben.  :   " + err)
-}
 });
 const routes = {
     system: require("./routes/system"),
@@ -154,17 +168,11 @@ router
             res.sendFile(pages.main)
         } else if (req.session.user.pwReset) {
             res.sendFile(pages.changepassword)
-        } 
+        }
         else {
             res.sendFile(pages.home)
         }
     })
-
-
-
-router.get("/quotes/list", auth, async (req, res) => {
-
-})
 
 router.get("/session", auth, async (req, res) => {
     res.send(req.session)
@@ -180,7 +188,7 @@ router.use(function (req, res) {
 });
 
 
-router.use(function (err, req, res, next) {
+router.use(function (err, req, res) {
     res.status(500).send('500: Internal Server Error ' + err);
 });
 

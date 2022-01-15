@@ -5,13 +5,34 @@ const userModel = require("../userschema")
 const myLogger = require("../logger")
 const pwResetCheck = require('../pwResetCheck')
 const cookieParser = require("cookie-parser")
+const val = require("../validation")
 router.use(express.urlencoded({ extended: true }));
 router.use(cookieParser())
 
-
+router.get("/", (req, res) => {
+    return res.redirect("https://www.evak.hu/")
+})
 router.post("/", pwResetCheck, async function (req, res) {
     const username = req.body.username
     const password = req.body.password
+    let canPass = true
+    
+    if (val.validateUsername(username) != "OK" ||
+        val.validatePassword(password, password) != "OK") {
+        canPass = false
+    }
+
+
+    if (!username || !password) canPass = false
+    if (!canPass) {
+            res.status(422).json({
+            statusMsg: "error",
+            message: "Felhasználónév, vagy jelszó nem megfelelő."
+        })
+        return
+    }
+
+
     let user = await userModel.findOne({ username }).catch((err) => { return myLogger("Error " + err) })
     if (user) {
         await bcrypt.compare(password, user.password).then(function (resolve, reject) {

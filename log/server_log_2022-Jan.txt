@@ -1,0 +1,4678 @@
+Log ID: 11619
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 4:47:36
+Log ID: 11620
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 4:47:36
+
+Log ID: 11621
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 4:47:36
+
+Log ID: 11622
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 4:48:10
+
+Log ID: 11623
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 4:48:10
+
+Log ID: 11624
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 4:48:10
+
++ Request Log ID: [ 11625 ]
+
+  -2022.Jan.5 - 4:48:16
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+
+
+  -Server uptime: 7s
+Log ID: 11626
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 4:55:30
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 4:55:30
+
+Log ID: 11627
+Log ID: 11628
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 4:55:30
+
+Log ID: 11629
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 4:55:56
+
+Log ID: 11630
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 4:55:56
+
+Log ID: 11631
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 4:55:56
+
++ Request Log ID: [ 11632 ]
+
+  -2022.Jan.5 - 4:56:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 5s
+
+
+Log ID: 11633
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:13:56
+
+Log ID: 11634
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:13:56
+
+Log ID: 11635
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:13:56
+
+Log ID: 11636
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:14:11
+
+Log ID: 11637
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:14:11
+
+Log ID: 11638
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:14:11
+
++ Request Log ID: [ 11639 ]
+
+  -2022.Jan.5 - 5:14:15
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Method:     GET
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 5s
+
+
+Log ID: 11640
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:14:52
+
+Log ID: 11641
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:14:52
+
+Log ID: 11642
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:14:52
+
+Log ID: 11643
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:15:02
+
+Log ID: 11644
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:15:02
+
+Log ID: 11645
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:15:02
+
++ Request Log ID: [ 11646 ]
+
+  -2022.Jan.5 - 5:15:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 11647
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:19:43
+
+Log ID: 11648
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:19:43
+
+Log ID: 11649
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:19:43
+
+Log ID: 11650
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:22:58
+Log ID: 11651
+Message: HTTPS Server started on port 12000
+
+Time: 2022.Jan.5 - 5:22:58
+
+Log ID: 11652
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:22:58
+
+Log ID: 11653
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:23:24
+
+Log ID: 11654
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:23:24
+
+Log ID: 11655
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:23:24
+
++ Request Log ID: [ 11656 ]
+
+  -2022.Jan.5 - 5:23:29
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 5s
+
+
++ Request Log ID: [ 11657 ]
+
+  -2022.Jan.5 - 5:23:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 10s
+
+
+Log ID: 11658
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:24:05
+
+Log ID: 11659
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:24:05
+
+Log ID: 11660
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:24:05
+
++ Request Log ID: [ 11661 ]
+
+  -2022.Jan.5 - 5:24:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 5s
+
+
+Log ID: 11662
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:24:17
+
+Log ID: 11663
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:24:17
+
+Log ID: 11664
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:24:17
+
+Log ID: 11665
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:25:38
+
+Log ID: 11666
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:25:38
+
+Log ID: 11667
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:25:38
+
++ Request Log ID: [ 11668 ]
+
+  -2022.Jan.5 - 5:25:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 4s
+
+
+Log ID: 11669
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:28:12
+
+Log ID: 11670
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:28:12
+
+Log ID: 11671
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:28:12
+
++ Request Log ID: [ 11672 ]
+
+  -2022.Jan.5 - 5:28:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 5s
+
+
+Log ID: 11673
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.5 - 5:29:25
+Message: HTTPS Server started on port 12000
+Log ID: 11674
+Time: 2022.Jan.5 - 5:29:25
+
+Log ID: 11675
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:29:25
+
+Log ID: 11676
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:29:39
+
+Log ID: 11677
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:29:39
+
+Log ID: 11678
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:29:39
+
++ Request Log ID: [ 11679 ]
+
+  -2022.Jan.5 - 5:29:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 11680
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:29:57
+
+Log ID: 11681
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:29:57
+
+Log ID: 11682
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:29:57
+
++ Request Log ID: [ 11683 ]
+  -2022.Jan.5 - 5:30:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 4s
+
+
+Log ID: 11684
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:30:15
+
+Log ID: 11685
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:30:15
+
+Log ID: 11686
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:30:15
+
+Log ID: 11687
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:31:55
+
+Log ID: 11688
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:31:55
+
+Log ID: 11689
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:31:55
+
++ Request Log ID: [ 11690 ]
+
+  -2022.Jan.5 - 5:31:58
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Address:    134.255.99.47
+  -Req URL:    https://www.evak.hu/main
+
+
+  -Server uptime: 3s
+Log ID: 11691
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:32:09
+
+Log ID: 11692
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:32:09
+
+Log ID: 11693
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:32:09
+
++ Request Log ID: [ 11694 ]
+
+  -2022.Jan.5 - 5:32:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 11695
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:32:35
+
+Log ID: 11696
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:32:35
+
+Log ID: 11697
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:32:35
+
++ Request Log ID: [ 11698 ]
+
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -2022.Jan.5 - 5:32:38
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Method:     GET
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 11699
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:34:05
+
+Log ID: 11700
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:34:05
+
+Log ID: 11701
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:34:05
+
+Log ID: 11702
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:34:13
+
+Log ID: 11703
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:34:13
+
+Log ID: 11704
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:34:13
+
++ Request Log ID: [ 11705 ]
+
+  -2022.Jan.5 - 5:34:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Event:      Oldalfelkeresés
+  -Address:    134.255.99.47
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 3s
+
+
+Log ID: 11706
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:34:44
+
+Log ID: 11707
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:34:44
+
+Log ID: 11708
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:34:44
+
++ Request Log ID: [ 11709 ]
+
+  -2022.Jan.5 - 5:34:46
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 4s
+
+
+Log ID: 11710
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:36:56
+
+Log ID: 11711
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:36:56
+
+Log ID: 11712
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:36:56
+
+Log ID: 11713
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:37:12
+
+Log ID: 11714
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:37:12
+
+Log ID: 11715
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:37:12
+
++ Request Log ID: [ 11716 ]
+
+  -2022.Jan.5 - 5:37:31
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 19s
+
+
+Log ID: 11717
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 5:38:04
+
+Log ID: 11718
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 5:38:04
+
+Log ID: 11719
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 5:38:04
+
++ Request Log ID: [ 11720 ]
+
+  -2022.Jan.5 - 5:38:06
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Védett tartalomhoz való jogosulatlan hozzáférési próbálkozás
+  -Status:     401
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
+Log ID: 11721
+Message: admin bejelentkezett.
+Time: 2022.Jan.5 - 5:49:54
+
++ Request Log ID: [ 11722 ]
+
+  -2022.Jan.5 - 5:52:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    python-requests/2.26.0
+  -Address:    34.140.248.32
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 867s
+
+
++ Request Log ID: [ 11723 ]
+
+  -2022.Jan.5 - 6:25:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.211.144
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/owa/auth/logon.aspx
+
+
+  -Server uptime: 2832s
++ Request Log ID: [ 11724 ]
+
+  -2022.Jan.5 - 6:25:54
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    198.199.95.200
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/owa/auth/x.js
+  -Server uptime: 2871s
+
+
++ Request Log ID: [ 11725 ]
+
+  -2022.Jan.5 - 6:27:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.213.164
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+  -Server uptime: 2995s
+
+
++ Request Log ID: [ 11726 ]
+
+  -2022.Jan.5 - 6:35:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.1.248.42
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 3418s
+
+
++ Request Log ID: [ 11727 ]
+
+  -2022.Jan.5 - 6:46:16
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.1.248.26
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 4093s
+
+
++ Request Log ID: [ 11728 ]
+
+  -2022.Jan.5 - 7:47:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 7767s
+
+
++ Request Log ID: [ 11729 ]
+
+  -2022.Jan.5 - 7:47:37
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/robots.txt
+  -Server uptime: 7774s
+
+
++ Request Log ID: [ 11730 ]
+
+  -Username:   undefined
+  -Method:     GET
+  -2022.Jan.5 - 7:47:40
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://134.255.99.47/.well-known/security.txt
+  -Status:     undefined
+  -Server uptime: 7776s
+
+
++ Request Log ID: [ 11731 ]
+
+  -2022.Jan.5 - 7:55:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84
+  -Address:    54.75.172.163
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 8217s
+
+
++ Request Log ID: [ 11732 ]
+
+  -2022.Jan.5 - 8:25:05
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+  -Address:    66.249.93.25
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 10021s
+
+
++ Request Log ID: [ 11733 ]
+
+  -2022.Jan.5 - 8:25:10
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+  -Address:    66.249.70.63
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/robots.txt
+  -Server uptime: 10026s
+
+
++ Request Log ID: [ 11734 ]
+
+  -2022.Jan.5 - 8:25:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[CHROME_VERSION] Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+  -Address:    66.249.70.34
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://evak.hu/
+  -Server uptime: 10027s
+
+
++ Request Log ID: [ 11735 ]
+
+  -2022.Jan.5 - 9:20:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 13373s
+
+
++ Request Log ID: [ 11736 ]
+
+  -2022.Jan.5 - 9:21:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://134.255.99.47/robots.txt
+  -Status:     undefined
+  -Server uptime: 13387s
+
+
++ Request Log ID: [ 11737 ]
+
+  -2022.Jan.5 - 9:21:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/.well-known/security.txt
+  -Server uptime: 13390s
+
+
++ Request Log ID: [ 11738 ]
+
+  -2022.Jan.5 - 9:38:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+  -Address:    138.246.253.24
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/robots.txt
+  -Server uptime: 14432s
+
+
++ Request Log ID: [ 11739 ]
+
+  -2022.Jan.5 - 10:03:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.133.58
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 15946s
+
+
++ Request Log ID: [ 11740 ]
+
+  -2022.Jan.5 - 10:13:33
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.60
+  -Address:    2.57.121.44
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47:443/
+  -Server uptime: 16530s
+
+
++ Request Log ID: [ 11741 ]
+
+  -2022.Jan.5 - 10:20:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.217.10
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+  -Server uptime: 16959s
+
+
++ Request Log ID: [ 11742 ]
+
+  -2022.Jan.5 - 10:36:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.219.139
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+  -Server uptime: 17902s
+
+
++ Request Log ID: [ 11743 ]
+
+  -2022.Jan.5 - 12:00:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    193.118.53.194
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 22921s
+
+
++ Request Log ID: [ 11744 ]
+
+  -2022.Jan.5 - 13:00:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.14.141.34
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 26542s
+
+
++ Request Log ID: [ 11745 ]
+
+  -2022.Jan.5 - 13:40:05
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    193.118.53.194
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 28922s
+
+
++ Request Log ID: [ 11746 ]
+
+  -2022.Jan.5 - 13:44:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    184.105.247.194
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 29197s
+
+
++ Request Log ID: [ 11747 ]
+
+  -2022.Jan.5 - 13:56:22
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)
+  -Address:    139.162.145.250
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://134.255.99.47/bag2
+  -Status:     undefined
+
+
+  -Server uptime: 29898s
+Log ID: 11748
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:23:36
+
+Log ID: 11749
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:23:36
+
+Log ID: 11750
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:23:36
+
+Log ID: 11751
+Time: 2022.Jan.5 - 14:23:53
+Message: admin kijelentkezett.
+
+Log ID: 11752
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:24:13
+
+Log ID: 11753
+Message: HTTPS Server started on port 12000
+
+Time: 2022.Jan.5 - 14:24:13
+Log ID: 11754
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:24:14
+
+Log ID: 11755
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:24:22
+
+Log ID: 11756
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:24:22
+
+Log ID: 11757
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:24:22
+
+Log ID: 11758
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:24:42
+
+Log ID: 11759
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:24:42
+
+Log ID: 11760
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:24:42
+
++ Request Log ID: [ 11761 ]
+
+  -2022.Jan.5 - 14:24:44
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 11762 ]
+
+  -2022.Jan.5 - 14:25:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 33s
+
+
++ Request Log ID: [ 11763 ]
+
+  -2022.Jan.5 - 14:26:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 117s
+
+
++ Request Log ID: [ 11764 ]
+
+  -2022.Jan.5 - 14:27:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 162s
+
+
++ Request Log ID: [ 11765 ]
+
+  -2022.Jan.5 - 14:27:31
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 169s
+
+
++ Request Log ID: [ 11766 ]
+
+  -2022.Jan.5 - 14:27:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 174s
+
+
++ Request Log ID: [ 11767 ]
+
+  -2022.Jan.5 - 14:27:37
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 176s
+
+
++ Request Log ID: [ 11768 ]
+
+  -2022.Jan.5 - 14:27:38
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 177s
+
+
++ Request Log ID: [ 11769 ]
+
+  -2022.Jan.5 - 14:27:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 177s
+
+
++ Request Log ID: [ 11770 ]
+
+  -2022.Jan.5 - 14:27:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 178s
+
+
++ Request Log ID: [ 11771 ]
+
+  -2022.Jan.5 - 14:27:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 179s
+
+
++ Request Log ID: [ 11772 ]
+
+  -2022.Jan.5 - 14:27:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 179s
+
+
++ Request Log ID: [ 11773 ]
+
+  -2022.Jan.5 - 14:27:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 180s
+
+
++ Request Log ID: [ 11774 ]
+
+  -2022.Jan.5 - 14:27:47
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 185s
+
+
+Log ID: 11775
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:28:48
+
+Log ID: 11776
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:28:48
+
+Log ID: 11777
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:28:48
+
+Log ID: 11778
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:29:29
+
+Log ID: 11779
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:29:29
+
+Log ID: 11780
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:29:29
+
+Log ID: 11781
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:29:33
+
+Log ID: 11782
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:29:33
+
+Log ID: 11783
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:29:33
+
++ Request Log ID: [ 11784 ]
+
+  -2022.Jan.5 - 14:29:35
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 11785 ]
+
+  -2022.Jan.5 - 14:29:43
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 10s
+
+
++ Request Log ID: [ 11786 ]
+
+  -2022.Jan.5 - 14:31:30
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 117s
+
+
++ Request Log ID: [ 11787 ]
+
+  -2022.Jan.5 - 14:31:36
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.99.47
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 124s
+
+
+Log ID: 11788
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:32:01
+
+Log ID: 11789
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:32:01
+
+Log ID: 11790
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:32:01
+
+Log ID: 11791
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.5 - 14:32:24
+
+Log ID: 11792
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.5 - 14:32:24
+
+Log ID: 11793
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.5 - 14:32:24
+
++ Request Log ID: [ 11794 ]
+
+  -2022.Jan.5 - 14:36:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+  -Address:    45.83.65.253
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 243s
+
+
++ Request Log ID: [ 11795 ]
+
+  -2022.Jan.5 - 15:05:54
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+  -Address:    167.94.138.60
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 2012s
+
+
++ Request Log ID: [ 11796 ]
+
+  -2022.Jan.5 - 15:08:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+  -Address:    198.20.69.98
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/
+  -Server uptime: 2173s
+
+
++ Request Log ID: [ 11797 ]
+
+  -2022.Jan.5 - 15:09:33
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    198.20.69.98
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/robots.txt
+  -Server uptime: 2231s
+
+
++ Request Log ID: [ 11798 ]
+
+  -2022.Jan.5 - 15:09:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    198.20.69.98
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/sitemap.xml
+  -Server uptime: 2231s
+
+
++ Request Log ID: [ 11799 ]
+
+  -2022.Jan.5 - 15:09:35
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    198.20.69.98
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/.well-known/security.txt
+  -Server uptime: 2232s
+
+
++ Request Log ID: [ 11800 ]
+
+  -2022.Jan.5 - 15:24:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://www.evak.hu/
+  -Status:     undefined
+  -Server uptime: 3100s
+
+
++ Request Log ID: [ 11801 ]
+
+  -2022.Jan.5 - 15:24:10
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 3107s
+
+
++ Request Log ID: [ 11802 ]
+
+  -2022.Jan.5 - 15:24:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3110s
+
+
++ Request Log ID: [ 11803 ]
+
+  -2022.Jan.5 - 15:31:42
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3559s
+
+
++ Request Log ID: [ 11804 ]
+
+  -2022.Jan.5 - 15:31:57
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3574s
+
+
++ Request Log ID: [ 11805 ]
+
+  -2022.Jan.5 - 15:32:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3590s
+
+
++ Request Log ID: [ 11806 ]
+
+  -2022.Jan.5 - 15:32:24
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 3601s
+
+
++ Request Log ID: [ 11807 ]
+
+  -2022.Jan.5 - 15:32:29
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3607s
+
+
++ Request Log ID: [ 11808 ]
+
+  -2022.Jan.5 - 15:33:07
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3644s
+
+
++ Request Log ID: [ 11809 ]
+
+  -2022.Jan.5 - 15:33:19
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3656s
+
+
++ Request Log ID: [ 11810 ]
+
+  -2022.Jan.5 - 15:34:15
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3712s
+
+
++ Request Log ID: [ 11811 ]
+
+  -2022.Jan.5 - 15:34:41
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3738s
+
+
++ Request Log ID: [ 11812 ]
+
+  -2022.Jan.5 - 15:34:53
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3751s
+
+
++ Request Log ID: [ 11813 ]
+
+  -2022.Jan.5 - 15:35:17
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/protected
+  -Server uptime: 3775s
+
+
++ Request Log ID: [ 11814 ]
+
+  -2022.Jan.5 - 15:35:31
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    195.199.249.153
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/www.evak.hu/login
+  -Server uptime: 3788s
+
+
++ Request Log ID: [ 11815 ]
+
+  -2022.Jan.5 - 16:10:45
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.208.148
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.99.47/actuator/health
+  -Server uptime: 5902s
+
+
+Log ID: 11816
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:46:38
+Log ID: 11817
+
+Message: HTTPS Server started on port 12000
+
+Time: 2022.Jan.7 - 20:46:38
+Log ID: 11818
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:46:38
+
+Log ID: 11819
+Message: admin bejelentkezett.
+Time: 2022.Jan.7 - 20:46:49
+
+Log ID: 11820
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:47:08
+
+Log ID: 11821
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:47:08
+
+Log ID: 11822
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:47:08
+
+Log ID: 11823
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:52:41
+
+Log ID: 11824
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:52:41
+
+Log ID: 11825
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES [object Object]
+
+Time: 2022.Jan.7 - 20:52:41
+Log ID: 11826
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:52:55
+
+Log ID: 11827
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:52:55
+
+Log ID: 11828
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES [object Object]
+
+Time: 2022.Jan.7 - 20:52:55
+Log ID: 11829
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:54:11
+
+Log ID: 11830
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:54:11
+
+Log ID: 11831
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:54:11
+
+Log ID: 11832
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:54:35
+
+Log ID: 11833
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:54:35
+
+Log ID: 11834
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:54:35
+
+Log ID: 11835
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:55:58
+Log ID: 11836
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:55:58
+
+Log ID: 11837
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:55:58
+
+Log ID: 11838
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 20:57:56
+
+Log ID: 11839
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 20:57:56
+
+Log ID: 11840
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 20:57:56
+
+Log ID: 11841
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 21:11:02
+
+Log ID: 11842
+Message: kaszas2000 bejelentkezett.
+
+Time: 2022.Jan.7 - 21:11:45
+Log ID: 11843
+Message: kaszas2000 kijelentkezett.
+Time: 2022.Jan.7 - 21:18:25
+
+Log ID: 11844
+Message: admin bejelentkezett.
+
+Time: 2022.Jan.7 - 21:18:36
+Log ID: 11845
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 21:25:12
+
+Log ID: 11846
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 21:25:12
+
+Log ID: 11847
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 21:25:12
+
+Log ID: 11848
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 21:25:23
+
++ Request Log ID: [ 11849 ]
+
+  -2022.Jan.7 - 21:25:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 12s
+
+
++ Request Log ID: [ 11850 ]
+
+  -2022.Jan.7 - 21:25:43
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 31s
+
+
++ Request Log ID: [ 11851 ]
+
+  -2022.Jan.7 - 21:25:47
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 36s
+
+
++ Request Log ID: [ 11852 ]
+
+  -2022.Jan.7 - 21:30:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 344s
+
+
++ Request Log ID: [ 11853 ]
+
+  -2022.Jan.7 - 21:31:03
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 352s
+
+
++ Request Log ID: [ 11854 ]
+
+  -2022.Jan.7 - 21:31:17
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 366s
+
+
++ Request Log ID: [ 11855 ]
+
+  -2022.Jan.7 - 21:32:48
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 457s
+
+
++ Request Log ID: [ 11856 ]
+
+  -2022.Jan.7 - 21:33:23
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 492s
+  -Status:     undefined
++ Request Log ID: [ 11857 ]
+
+  -2022.Jan.7 - 21:33:49
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 518s
+
+
++ Request Log ID: [ 11858 ]
+
+  -2022.Jan.7 - 21:33:51
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 519s
+
+
++ Request Log ID: [ 11859 ]
+
+  -2022.Jan.7 - 21:35:13
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 601s
+
+
+  -Method:     POST
++ Request Log ID: [ 11860 ]
+
+  -2022.Jan.7 - 21:35:14
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 603s
+
+
++ Request Log ID: [ 11861 ]
+
+  -2022.Jan.7 - 21:36:00
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 648s
+
+
++ Request Log ID: [ 11862 ]
+
+  -2022.Jan.7 - 21:36:01
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 650s
+
+
++ Request Log ID: [ 11863 ]
+
+  -2022.Jan.7 - 21:38:38
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 807s
+
+
++ Request Log ID: [ 11864 ]
+
+  -2022.Jan.7 - 21:38:40
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 808s
+
+
++ Request Log ID: [ 11865 ]
+
+  -2022.Jan.7 - 21:40:26
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 914s
+
+
++ Request Log ID: [ 11866 ]
+
+  -2022.Jan.7 - 21:40:28
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Method:     POST
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 916s
+
+
++ Request Log ID: [ 11867 ]
+
+  -2022.Jan.7 - 21:40:46
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 934s
+
+
++ Request Log ID: [ 11868 ]
+
+  -2022.Jan.7 - 21:40:51
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 940s
+
+
++ Request Log ID: [ 11869 ]
+
+  -2022.Jan.7 - 21:40:52
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 940s
+
+
++ Request Log ID: [ 11870 ]
+
+  -2022.Jan.7 - 21:40:55
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 944s
+
+
++ Request Log ID: [ 11871 ]
+
+  -2022.Jan.7 - 21:40:56
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 945s
+
+
++ Request Log ID: [ 11872 ]
+
+  -2022.Jan.7 - 21:40:57
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 945s
+
+
++ Request Log ID: [ 11873 ]
+
+  -2022.Jan.7 - 21:40:57
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 946s
+
+
++ Request Log ID: [ 11874 ]
+
+  -2022.Jan.7 - 21:40:59
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 947s
+
+
++ Request Log ID: [ 11875 ]
+
+  -2022.Jan.7 - 21:40:59
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 948s
+
+
++ Request Log ID: [ 11876 ]
+
+  -2022.Jan.7 - 21:41:42
+  -Method:     POST
+  -Address:    134.255.111.140
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 991s
+  -Username:   undefined
+
+
++ Request Log ID: [ 11877 ]
+
+  -2022.Jan.7 - 21:41:44
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 992s
+
+
++ Request Log ID: [ 11878 ]
+
+  -2022.Jan.7 - 21:41:51
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 999s
+
+
++ Request Log ID: [ 11879 ]
+
+  -2022.Jan.7 - 21:42:36
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1044s
+
+
++ Request Log ID: [ 11880 ]
+
+  -2022.Jan.7 - 21:42:37
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1046s
+
+
++ Request Log ID: [ 11881 ]
+
+  -2022.Jan.7 - 21:42:39
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1047s
+
+
++ Request Log ID: [ 11882 ]
+
+  -2022.Jan.7 - 21:42:39
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1048s
+
+
++ Request Log ID: [ 11883 ]
+
+  -2022.Jan.7 - 21:42:41
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1049s
+
+
++ Request Log ID: [ 11884 ]
+
+  -2022.Jan.7 - 21:43:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 1103s
+
+
++ Request Log ID: [ 11885 ]
+
+  -2022.Jan.7 - 21:43:38
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    125.64.94.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/robots.txt
+  -Server uptime: 1106s
+
+
++ Request Log ID: [ 11886 ]
+
+  -2022.Jan.7 - 21:43:39
+  -Method:     GET
+  -Username:   undefined
+  -Address:    125.64.94.140
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://134.255.111.140/.well-known/security.txt
+  -Status:     undefined
+  -Server uptime: 1107s
+
+
++ Request Log ID: [ 11887 ]
+
+  -2022.Jan.7 - 21:44:34
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 1163s
+
+
++ Request Log ID: [ 11888 ]
+
+  -2022.Jan.7 - 21:46:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+  -Address:    184.168.114.104
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/wp-login.php
+  -Server uptime: 1250s
+
+
+Log ID: 11889
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 21:46:16
+
+Log ID: 11890
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 21:46:16
+
+Log ID: 11891
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 21:46:16
+
++ Request Log ID: [ 11892 ]
+
+  -2022.Jan.7 - 21:46:17
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 11893 ]
+
+  -2022.Jan.7 - 21:46:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    python-requests/2.26.0
+  -Address:    130.211.54.158
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 21s
+
+
++ Request Log ID: [ 11894 ]
+
+  -2022.Jan.7 - 21:46:47
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 32s
+
+
++ Request Log ID: [ 11895 ]
+
+  -2022.Jan.7 - 21:46:48
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 33s
+
+
++ Request Log ID: [ 11896 ]
+
+  -2022.Jan.7 - 21:46:50
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 36s
+
+
++ Request Log ID: [ 11897 ]
+
+  -2022.Jan.7 - 21:47:01
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 47s
+
+
++ Request Log ID: [ 11898 ]
+
+  -2022.Jan.7 - 21:47:37
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 83s
++ Request Log ID: [ 11899 ]
+
+  -2022.Jan.7 - 21:47:39
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 84s
+
+
++ Request Log ID: [ 11900 ]
+
+  -2022.Jan.7 - 21:47:57
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 102s
+
+
++ Request Log ID: [ 11901 ]
+
+  -2022.Jan.7 - 21:47:58
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 104s
+
+
++ Request Log ID: [ 11902 ]
+
+  -2022.Jan.7 - 21:48:42
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 147s
+  -Method:     POST
++ Request Log ID: [ 11903 ]
+
+  -2022.Jan.7 - 21:48:43
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 149s
+
+
++ Request Log ID: [ 11904 ]
+
+  -2022.Jan.7 - 21:49:13
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 179s
+
+
++ Request Log ID: [ 11905 ]
+
+  -2022.Jan.7 - 21:49:14
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 180s
+
+
++ Request Log ID: [ 11906 ]
+
+  -2022.Jan.7 - 21:49:34
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 200s
+
+
++ Request Log ID: [ 11907 ]
+
+  -2022.Jan.7 - 21:49:35
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 200s
+
+
++ Request Log ID: [ 11908 ]
+
+  -2022.Jan.7 - 21:50:07
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 233s
+
+
++ Request Log ID: [ 11909 ]
+
+  -2022.Jan.7 - 21:50:11
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 236s
+
+
++ Request Log ID: [ 11910 ]
+
+  -2022.Jan.7 - 21:50:12
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 238s
+
+
++ Request Log ID: [ 11911 ]
+  -2022.Jan.7 - 21:50:18
+
+  -Username:   admin
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 244s
+
+
++ Request Log ID: [ 11912 ]
+
+  -2022.Jan.7 - 21:50:29
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 254s
+
+
++ Request Log ID: [ 11913 ]
+
+  -2022.Jan.7 - 21:53:07
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 412s
+
+
++ Request Log ID: [ 11914 ]
+
+  -2022.Jan.7 - 21:53:08
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 413s
+
+
++ Request Log ID: [ 11915 ]
+
+  -2022.Jan.7 - 21:53:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 454s
+
+
++ Request Log ID: [ 11916 ]
+
+  -2022.Jan.7 - 21:53:50
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Status:     undefined
+  -Address:    134.255.111.140
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Event:      Oldalfelkeresés
+  -Server uptime: 455s
++ Request Log ID: [ 11917 ]
+
+  -2022.Jan.7 - 21:53:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 463s
+
+
++ Request Log ID: [ 11918 ]
+
+  -2022.Jan.7 - 21:53:58
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 464s
++ Request Log ID: [ 11919 ]
+
+  -2022.Jan.7 - 21:54:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 486s
+
+
++ Request Log ID: [ 11920 ]
+
+  -2022.Jan.7 - 21:54:22
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 487s
+
+
++ Request Log ID: [ 11921 ]
+
+  -2022.Jan.7 - 21:54:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 505s
+
+
++ Request Log ID: [ 11922 ]
+
+  -2022.Jan.7 - 21:54:41
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 506s
+
+
++ Request Log ID: [ 11923 ]
+
+  -2022.Jan.7 - 21:55:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 549s
+
+
++ Request Log ID: [ 11924 ]
+
+  -2022.Jan.7 - 21:56:41
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 627s
+
+
+Log ID: 11925
+
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 21:57:10
+Log ID: 11926
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 21:57:10
+
+Log ID: 11927
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 21:57:10
+
++ Request Log ID: [ 11928 ]
+
+  -2022.Jan.7 - 21:57:14
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 5s
+
+
+Log ID: 11929
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 21:57:38
+
+Log ID: 11930
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 21:57:38
+
+Log ID: 11931
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 21:57:38
+
++ Request Log ID: [ 11932 ]
+
+  -2022.Jan.7 - 21:57:41
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 5s
+
+
++ Request Log ID: [ 11933 ]
+
+  -2022.Jan.7 - 21:58:27
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Req URL:    https://www.evak.hu/
+
+
+  -Status:     undefined
+  -Server uptime: 50s
++ Request Log ID: [ 11934 ]
+
+  -2022.Jan.7 - 21:58:28
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 51s
+
+
++ Request Log ID: [ 11935 ]
+
+  -2022.Jan.7 - 21:58:28
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 51s
+
+
++ Request Log ID: [ 11936 ]
+
+  -2022.Jan.7 - 22:00:34
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 177s
+
+
++ Request Log ID: [ 11937 ]
+
+  -2022.Jan.7 - 22:00:35
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login/
+  -Server uptime: 178s
+
+
++ Request Log ID: [ 11938 ]
+
+  -2022.Jan.7 - 22:00:55
+  -Username:   admin
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Method:     POST
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login/
+  -Server uptime: 199s
+
+
++ Request Log ID: [ 11939 ]
+
+  -2022.Jan.7 - 22:01:31
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 234s
+
+
++ Request Log ID: [ 11940 ]
+
+  -2022.Jan.7 - 22:01:32
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 236s
+
+
++ Request Log ID: [ 11941 ]
+
+  -2022.Jan.7 - 22:02:12
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 276s
+
+
++ Request Log ID: [ 11942 ]
+
+  -2022.Jan.7 - 22:02:13
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 277s
+
+
++ Request Log ID: [ 11943 ]
+
+  -2022.Jan.7 - 22:02:25
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 289s
+
+
++ Request Log ID: [ 11944 ]
+
+  -2022.Jan.7 - 22:02:26
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 290s
+
+
++ Request Log ID: [ 11945 ]
+
+  -2022.Jan.7 - 22:02:44
+  -Username:   undefined
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 308s
+
+
++ Request Log ID: [ 11946 ]
+
+  -2022.Jan.7 - 22:02:45
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 309s
+
+
+Log ID: 11947
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:03:04
+
+Log ID: 11948
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:03:04
+
+Log ID: 11949
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:03:05
+
++ Request Log ID: [ 11950 ]
+
+  -2022.Jan.7 - 22:03:06
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:      Oldalfelkeresés
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 3s
+
+
+Log ID: 11951
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:03:55
+
+Log ID: 11952
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:03:55
+
+Log ID: 11953
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:03:55
+
+Log ID: 11954
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:06:43
+
+Log ID: 11955
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:06:43
+
+Log ID: 11956
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:06:43
+
+Log ID: 11957
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:06:55
+Log ID: 11958
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:06:55
+
+Log ID: 11959
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:06:55
+
+Log ID: 11960
+Message: Oldalfelkeresés134.255.111.140
+Time: 2022.Jan.7 - 22:06:56
+
+Log ID: 11961
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:08:20
+
+Log ID: 11962
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:08:20
+
+Log ID: 11963
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:08:20
+
+Log ID: 11964
+Message: 2022.Jan.7 - 22:08:24 Oldalfelkeresés 134.255.111.140
+Time: 2022.Jan.7 - 22:08:24
+
+Log ID: 11965
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:08:54
+
+Log ID: 11966
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:08:54
+
+Log ID: 11967
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:08:54
+
+Log ID: 11968
+Message:  Oldalfelkeresés 134.255.111.140
+Time: 2022.Jan.7 - 22:08:55
+
+Log ID: 11969
+Message:  Oldalfelkeresés 134.255.111.140
+Time: 2022.Jan.7 - 22:08:56
+
+Log ID: 11970
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:10:08
+
+Log ID: 11971
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:10:08
+
+Log ID: 11972
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:10:08
+
++ Request Log ID: [ 11973 ]
+
+  -2022.Jan.7 - 22:10:09
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 11974
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.7 - 22:14:22
+Log ID: 11975
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:14:22
+
+Log ID: 11976
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:14:22
+
++ Request Log ID: [ 11977 ]
+
+  -2022.Jan.7 - 22:14:26
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 4s
+
+
++ Request Log ID: [ 11978 ]
+
+  -2022.Jan.7 - 22:14:27
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 6s
+Log ID: 11979
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:15:35
+Log ID: 11980
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:15:35
+
+Log ID: 11981
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:15:35
+
++ Request Log ID: [ 11982 ]
+
+  -2022.Jan.7 - 22:15:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 11983 ]
+
+  -2022.Jan.7 - 22:15:38
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 4s
+
+
+Log ID: 11984
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:16:08
+
+Log ID: 11985
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:16:08
+
+Log ID: 11986
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:16:08
+
++ Request Log ID: [ 11987 ]
+
+  -2022.Jan.7 - 22:16:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
++ Request Log ID: [ 11988 ]
+
+  -2022.Jan.7 - 22:16:13
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+  -Server uptime: 5s
+
+
+Log ID: 11989
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:16:23
+
+Log ID: 11990
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:16:23
+
+Log ID: 11991
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:16:23
+
++ Request Log ID: [ 11992 ]
+
+  -2022.Jan.7 - 22:16:24
+  -Username:   
+  -Method:     POST
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/login
+
+
+  -Server uptime: 2s
+Log ID: 11993
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.7 - 22:16:32
+Log ID: 11994
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:16:32
+
+Log ID: 11995
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:16:32
+
++ Request Log ID: [ 11996 ]
+
+  -2022.Jan.7 - 22:16:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 28s
+
+
++ Request Log ID: [ 11997 ]
+
+  -2022.Jan.7 - 22:19:44
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 194s
+
+
+Log ID: 11998
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:20:29
+
+Log ID: 11999
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:20:29
+
+Log ID: 12000
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:20:29
+
++ Request Log ID: [ 12001 ]
+
+  -2022.Jan.7 - 22:20:32
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 4s
+
+
+Log ID: 12002
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.7 - 22:23:59
+Log ID: 12003
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:23:59
+
+Time: 2022.Jan.7 - 22:23:59
+Log ID: 12004
+
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
++ Request Log ID: [ 12005 ]
+
+  -2022.Jan.7 - 22:24:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 43s
+
+
+Log ID: 12006
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:25:40
+
+Log ID: 12007
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:25:40
+
+Log ID: 12008
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:25:40
+
+Log ID: 12009
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:25:52
+
+Log ID: 12010
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:25:52
+
+Log ID: 12011
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:25:52
+
+Log ID: 12012
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:26:22
+
+Log ID: 12013
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:26:22
+
+Log ID: 12014
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:26:22
+
+Log ID: 12015
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:26:58
+
+Log ID: 12016
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:26:58
+
+Log ID: 12017
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:26:58
+
+Log ID: 12018
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:27:16
+Log ID: 12019
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:27:16
+
+Log ID: 12020
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:27:16
+
++ Request Log ID: [ 12021 ]
+
+  -2022.Jan.7 - 22:27:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 12022
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:27:29
+
+Log ID: 12023
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:27:29
+
+Log ID: 12024
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:27:29
+
+Log ID: 12025
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:27:42
+
+Log ID: 12026
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:27:42
+
+Log ID: 12027
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:27:42
+
++ Request Log ID: [ 12028 ]
+
+  -2022.Jan.7 - 22:27:44
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
++ Request Log ID: [ 12029 ]
+
+  -2022.Jan.7 - 22:27:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 18s
+
+
++ Request Log ID: [ 12030 ]
+
+  -2022.Jan.7 - 22:29:20
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 100s
+
+
+Log ID: 12031
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:29:26
+
+Log ID: 12032
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:29:26
+
+Log ID: 12033
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:29:26
+
+Log ID: 12034
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:29:40
+
+Log ID: 12035
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:29:40
+
+Log ID: 12036
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:29:40
+
+Log ID: 12037
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:30:15
+
+Log ID: 12038
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:30:15
+
+Log ID: 12039
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:30:15
+
+Log ID: 12040
+Message: admin bejelentkezett.
+
+Time: 2022.Jan.7 - 22:30:23
+Log ID: 12041
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 22:30:56
+
++ Request Log ID: [ 12042 ]
+
+  -2022.Jan.7 - 22:30:56
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 42s
+
+
+Log ID: 12043
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:31:16
+
+Log ID: 12044
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:31:16
+
+Log ID: 12045
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:31:16
+
++ Request Log ID: [ 12046 ]
+
+  -2022.Jan.7 - 22:31:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 2s
+
+
+Log ID: 12047
+Message: admin bejelentkezett.
+Time: 2022.Jan.7 - 22:31:25
+
+Log ID: 12048
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:33:37
+
+Log ID: 12049
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:33:37
+
+Log ID: 12050
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:33:37
+
+Log ID: 12051
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 22:33:42
+
++ Request Log ID: [ 12052 ]
+
+  -2022.Jan.7 - 22:33:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 6s
+
+
++ Request Log ID: [ 12053 ]
+
+  -2022.Jan.7 - 22:33:44
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 8s
+
+
+Log ID: 12054
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.7 - 22:34:31
+Log ID: 12055
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:34:31
+
+Log ID: 12056
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:34:31
+
++ Request Log ID: [ 12057 ]
+
+  -2022.Jan.7 - 22:34:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 10s
+
+
++ Request Log ID: [ 12058 ]
+
+  -2022.Jan.7 - 22:34:45
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 15s
+
+
+Log ID: 12059
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:35:15
+
+Log ID: 12060
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:35:15
+
+Log ID: 12061
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:35:15
+
++ Request Log ID: [ 12062 ]
+
+  -2022.Jan.7 - 22:36:44
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 90s
+
+
++ Request Log ID: [ 12063 ]
+
+  -2022.Jan.7 - 22:37:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 146s
+
+
++ Request Log ID: [ 12064 ]
+
+  -2022.Jan.7 - 22:38:53
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 220s
+
+
++ Request Log ID: [ 12065 ]
+
+  -2022.Jan.7 - 22:39:32
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 259s
+
+
++ Request Log ID: [ 12066 ]
+
+  -2022.Jan.7 - 22:39:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 269s
+
+
++ Request Log ID: [ 12067 ]
+
+  -2022.Jan.7 - 22:39:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 284s
+
+
++ Request Log ID: [ 12068 ]
+
+  -2022.Jan.7 - 22:40:17
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 303s
+
+
++ Request Log ID: [ 12069 ]
+
+  -2022.Jan.7 - 22:40:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 309s
+
+
++ Request Log ID: [ 12070 ]
+
+  -2022.Jan.7 - 22:40:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 316s
+
+
++ Request Log ID: [ 12071 ]
+
+  -2022.Jan.7 - 22:41:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 348s
+
+
++ Request Log ID: [ 12072 ]
+
+  -2022.Jan.7 - 22:42:13
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    libwww-perl/6.60
+  -Address:    2.57.121.44
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140:443/
+  -Server uptime: 419s
+
+
++ Request Log ID: [ 12073 ]
+
+  -2022.Jan.7 - 22:42:58
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 465s
+
+
++ Request Log ID: [ 12074 ]
+
+  -2022.Jan.7 - 22:43:05
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+
+
+  -Server uptime: 471s
++ Request Log ID: [ 12075 ]
+
+  -2022.Jan.7 - 22:44:21
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 547s
+
+
++ Request Log ID: [ 12076 ]
+
+  -2022.Jan.7 - 22:45:28
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 614s
+
+
++ Request Log ID: [ 12077 ]
+
+  -2022.Jan.7 - 22:45:50
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 636s
+
+
++ Request Log ID: [ 12078 ]
+
+  -2022.Jan.7 - 22:45:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 644s
+
+
++ Request Log ID: [ 12079 ]
+
+  -2022.Jan.7 - 22:46:30
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 677s
+
+
++ Request Log ID: [ 12080 ]
+
+  -2022.Jan.7 - 22:46:55
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 702s
+
+
++ Request Log ID: [ 12081 ]
+
+  -2022.Jan.7 - 22:47:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 724s
+
+
++ Request Log ID: [ 12082 ]
+
+  -2022.Jan.7 - 22:47:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 742s
+
+
++ Request Log ID: [ 12083 ]
+
+  -2022.Jan.7 - 22:47:45
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 752s
+
+
++ Request Log ID: [ 12084 ]
+
+  -2022.Jan.7 - 22:51:14
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 960s
+
+
++ Request Log ID: [ 12085 ]
+
+  -2022.Jan.7 - 22:51:38
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 985s
+
+
++ Request Log ID: [ 12086 ]
+
+  -2022.Jan.7 - 22:51:57
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 1003s
+
+
++ Request Log ID: [ 12087 ]
+
+  -2022.Jan.7 - 22:52:02
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/robots.txt
+  -Server uptime: 1008s
+
+
++ Request Log ID: [ 12088 ]
+
+  -2022.Jan.7 - 22:52:03
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/.well-known/security.txt
+  -Server uptime: 1009s
+
+
++ Request Log ID: [ 12089 ]
+
+  -2022.Jan.7 - 22:52:25
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1031s
+
+
++ Request Log ID: [ 12090 ]
+
+  -2022.Jan.7 - 22:53:05
+  -Method:     GET
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1071s
+
+
++ Request Log ID: [ 12091 ]
+
+  -2022.Jan.7 - 22:53:39
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1106s
+
+
++ Request Log ID: [ 12092 ]
+
+  -2022.Jan.7 - 22:54:09
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1136s
+
+
++ Request Log ID: [ 12093 ]
+
+  -2022.Jan.7 - 22:54:36
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 1162s
+
+
++ Request Log ID: [ 12094 ]
+
+  -2022.Jan.7 - 22:54:42
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+
+
+  -Server uptime: 1169s
+Log ID: 12095
+Message: admin bejelentkezett.
+Time: 2022.Jan.7 - 22:54:58
+
+Log ID: 12096
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:57:40
+
+Log ID: 12097
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:57:40
+
+Log ID: 12098
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:57:41
+
+Log ID: 12099
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 22:59:48
+
+Log ID: 12100
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 22:59:48
+
+Log ID: 12101
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 22:59:48
+
++ Request Log ID: [ 12102 ]
+
+  -2022.Jan.7 - 23:00:08
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 zgrab/0.x
+  -Address:    192.241.201.136
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 21s
+
+
+Log ID: 12103
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:00:15
+
+Log ID: 12104
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:00:15
+
+Log ID: 12105
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+
+Time: 2022.Jan.7 - 23:00:15
+Log ID: 12106
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 23:00:22
+
++ Request Log ID: [ 12107 ]
+
+  -2022.Jan.7 - 23:00:22
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 7s
+
+
++ Request Log ID: [ 12108 ]
+  -Username:   undefined
+
+  -2022.Jan.7 - 23:00:54
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+  -Address:    128.1.248.26
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 40s
+
+
++ Request Log ID: [ 12109 ]
+
+  -2022.Jan.7 - 23:01:28
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 73s
+
+
++ Request Log ID: [ 12110 ]
+
+  -2022.Jan.7 - 23:01:54
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 99s
+
+
++ Request Log ID: [ 12111 ]
+
+  -2022.Jan.7 - 23:02:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 123s
+
+
++ Request Log ID: [ 12112 ]
+
+  -2022.Jan.7 - 23:02:34
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 139s
+
+
++ Request Log ID: [ 12113 ]
+
+  -2022.Jan.7 - 23:02:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 148s
+  -Status:     undefined
+
+
++ Request Log ID: [ 12114 ]
+
+  -2022.Jan.7 - 23:03:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 166s
+
+
++ Request Log ID: [ 12115 ]
+
+  -2022.Jan.7 - 23:03:11
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 176s
+
+
++ Request Log ID: [ 12116 ]
+
+  -2022.Jan.7 - 23:03:51
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 217s
+
+
++ Request Log ID: [ 12117 ]
+  -2022.Jan.7 - 23:03:59
+  -Username:   undefined
+
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 224s
+
+
++ Request Log ID: [ 12118 ]
+
+  -2022.Jan.7 - 23:04:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 237s
+
+
++ Request Log ID: [ 12119 ]
+
+  -2022.Jan.7 - 23:04:51
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 276s
+
+
++ Request Log ID: [ 12120 ]
+
+  -2022.Jan.7 - 23:05:12
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 298s
+
+
++ Request Log ID: [ 12121 ]
+
+  -2022.Jan.7 - 23:05:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 326s
+
+
++ Request Log ID: [ 12122 ]
+
+  -2022.Jan.7 - 23:06:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 372s
+
+
++ Request Log ID: [ 12123 ]
+
+  -2022.Jan.7 - 23:07:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Req URL:    https://www.evak.hu/
+
+
+  -Status:     undefined
+  -Server uptime: 410s
++ Request Log ID: [ 12124 ]
+
+  -2022.Jan.7 - 23:07:27
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 432s
+
+
++ Request Log ID: [ 12125 ]
+
+  -2022.Jan.7 - 23:08:01
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 467s
+
+
++ Request Log ID: [ 12126 ]
+
+  -Username:   undefined
+  -2022.Jan.7 - 23:08:30
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 495s
+
+
++ Request Log ID: [ 12127 ]
+
+  -2022.Jan.7 - 23:08:49
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 514s
+
+
++ Request Log ID: [ 12128 ]
+
+  -2022.Jan.7 - 23:09:04
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 529s
+
+
++ Request Log ID: [ 12129 ]
+
+  -2022.Jan.7 - 23:09:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 549s
+
+
++ Request Log ID: [ 12130 ]
+
+  -2022.Jan.7 - 23:09:33
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Method:     GET
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 559s
+
+
++ Request Log ID: [ 12131 ]
+  -2022.Jan.7 - 23:09:46
+
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 572s
+
+
++ Request Log ID: [ 12132 ]
+
+  -Username:   undefined
+  -2022.Jan.7 - 23:10:11
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 597s
+
+
+Log ID: 12133
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:11:40
+Log ID: 12134
+
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:11:40
+
+Log ID: 12135
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:11:40
+
+Log ID: 12136
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:12:14
+
+Log ID: 12137
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:12:14
+
+Log ID: 12138
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+
+Time: 2022.Jan.7 - 23:12:14
+Log ID: 12139
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:13:34
+
+Log ID: 12140
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:13:34
+
+Log ID: 12141
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:13:34
+
+Log ID: 12142
+Message: admin bejelentkezett.
+Time: 2022.Jan.7 - 23:13:37
+
+Log ID: 12143
+Message: admin kijelentkezett.
+
+Time: 2022.Jan.7 - 23:13:41
++ Request Log ID: [ 12144 ]
+
+  -2022.Jan.7 - 23:13:41
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 9s
+
+
+Log ID: 12145
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:16:50
+
+Log ID: 12146
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:16:50
+
+Log ID: 12147
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:16:50
+
++ Request Log ID: [ 12148 ]
+
+  -2022.Jan.7 - 23:16:52
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 3s
+
+
+Log ID: 12149
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:19:15
+
+Log ID: 12150
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:19:15
+
+Log ID: 12151
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:19:15
+
++ Request Log ID: [ 12152 ]
+
+  -2022.Jan.7 - 23:19:18
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 4s
+
+
+  -Address:    134.255.111.140
++ Request Log ID: [ 12153 ]
+
+  -2022.Jan.7 - 23:21:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 105s
+
+
++ Request Log ID: [ 12154 ]
+
+  -2022.Jan.7 - 23:21:24
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 130s
+
+
++ Request Log ID: [ 12155 ]
+
+  -2022.Jan.7 - 23:21:40
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 145s
+
+
+Log ID: 12156
+Message: kaszas2000 bejelentkezett.
+
+Time: 2022.Jan.7 - 23:22:08
++ Request Log ID: [ 12157 ]
+
+  -2022.Jan.7 - 23:22:09
+  -Username:   kaszas2000
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Method:     GET
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/main
+  -Server uptime: 174s
+
+
+Log ID: 12158
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:22:44
+
+Log ID: 12159
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:22:44
+
+Log ID: 12160
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:22:44
+
+Log ID: 12161
+Message: admin bejelentkezett.
+
+Time: 2022.Jan.7 - 23:23:17
+Log ID: 12162
+Message: admin kijelentkezett.
+Time: 2022.Jan.7 - 23:23:23
+
++ Request Log ID: [ 12163 ]
+
+  -2022.Jan.7 - 23:23:23
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
+  -Address:    134.255.111.140
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 40s
+
+
+Log ID: 12164
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.7 - 23:23:35
+
+Log ID: 12165
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.7 - 23:23:35
+
+Log ID: 12166
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.7 - 23:23:35
+
++ Request Log ID: [ 12167 ]
+
+  -2022.Jan.7 - 23:25:55
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (Linux; Android 11; RMX2002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+  -Address:    37.76.42.44
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://www.evak.hu/
+  -Server uptime: 141s
+
+
+Log ID: 12168
+Message: admin bejelentkezett.
+Time: 2022.Jan.7 - 23:26:22
+
++ Request Log ID: [ 12169 ]
+
+  -2022.Jan.7 - 23:36:15
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    undefined
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 761s
+
+
++ Request Log ID: [ 12170 ]
+
+  -2022.Jan.7 - 23:36:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/robots.txt/
+  -Server uptime: 788s
+
+
++ Request Log ID: [ 12171 ]
+
+  -2022.Jan.7 - 23:36:43
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4 240.111 Safari/537.36
+  -Address:    118.123.105.67
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/.well-known/security.txt
+  -Server uptime: 789s
+
+
+Log ID: 12172
+Message: HTTP Server started on port 11000
+
+Time: 2022.Jan.8 - 19:04:37
+Log ID: 12173
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.8 - 19:04:37
+
+Log ID: 12174
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.8 - 19:04:37
+
+Log ID: 12175
+Message: HTTP Server started on port 11000
+Time: 2022.Jan.8 - 19:04:44
+
+Log ID: 12176
+Message: HTTPS Server started on port 12000
+Time: 2022.Jan.8 - 19:04:44
+
+Log ID: 12177
+Message: MONGO DB EVAK KAPCSOLÓDÁS SIKERES
+Time: 2022.Jan.8 - 19:04:44
+
+Log ID: 12178
+Message: admin bejelentkezett.
+
+Time: 2022.Jan.8 - 19:18:19
++ Request Log ID: [ 12179 ]
+
+  -2022.Jan.8 - 19:38:00
+  -Username:   undefined
+  -Method:     GET
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+  -Address:    188.166.62.10
+  -Event:       * EVAK.HU felkeresése   
+  -Status:     undefined
+  -Req URL:    https://134.255.111.140/
+  -Server uptime: 1996s
+
+
++ Request Log ID: [ 12180 ]
+
+  -2022.Jan.8 - 19:38:05
+  -Username:   undefined
+  -Browser:    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+  -Address:    188.166.62.10
+  -Event:       * EVAK.HU felkeresése   
+  -Method:     GET
+  -Status:     undefined
+
+
+  -Server uptime: 2002s
+  -Req URL:    https://134.255.111.140/
